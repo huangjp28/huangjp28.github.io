@@ -1,2 +1,23 @@
-name: HUANG, Jia-Ping's Official Website
-markdown: markdown
+# Site settings
+title: Jia-Ping HUANG's Official Website
+
+description: >
+  Jia-Ping HUANG is an assistant professor at Shenzhen University. He has a degree of Ph.D. in Engineering from University of Tsukuba (Japan), and a degree of doctor of philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (Netherlands).
+
+#baseurl: ""
+#url: "http://huangjp.com"
+#github_username: huangjp28
+#name: HUANG, Jia-Ping's Official Website
+
+# Build settings
+sass:
+  sass_dir: _sass
+
+include: ['_pages']
+
+collections:
+  teaching:
+    output: true
+
+kramdown:
+  input: GFM
