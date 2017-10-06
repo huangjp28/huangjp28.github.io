@@ -34,58 +34,58 @@ As a preparation for this course, you need to install R and related programs in 
 	* R basics (1): calculation, data, matrix, graphics   
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture2.pdf %})
 
-* **Lecture 3** (Oct 9, Week 5):
+* **Lecture 3** (Oct 9, Week 6):
 
 	* R basics (2): script file and project, data frame, function
 	* R programing (1): condition, loop, recursion
 
-* **Lecture 4** (Oct 16, Week 6):
+* **Lecture 4** (Oct 16, Week 7):
 
 	* R programing (2): vectorization, random numbers, Monte Carlo simulation
 	* R programing practice
 
-* **Lecture 5** (Oct 23, Week 7):
+* **Lecture 5** (Oct 23, Week 8):
 
 	* Review of probability
 
-* **Lecture 6** (Oct 30, Week 8):
+* **Lecture 6** (Oct 30, Week 9):
 
 	* Review of statistics (1)
 
-* **Lecture 7** (Nov 6, Week 9):
+* **Lecture 7** (Nov 6, Week 10):
 
 	* Review of statistics (2)   
 	* Linear regression (1): fitting
 
-* **Lecture 8** (Nov 13, Week 10):
+* **Lecture 8** (Nov 13, Week 11):
 
 	* Linear regression (2): hypothesis testing
 
-* **Lecture 9** (Nov 20, Week 11):
+* **Lecture 9** (Nov 20, Week 12):
 
 	* Nonlinear regression
 
-* **Lecture 10** (Nov 27, Week 12):
+* **Lecture 10** (Nov 27, Week 13):
 
 	* Binary dependent variables
 
-* **Lecture 11** (Dec 4, Week 13):
+* **Lecture 11** (Dec 4, Week 14):
 
 	* Instrumental variables
 
-* **Lecture 12** (Dec 11, Week 14):
+* **Lecture 12** (Dec 11, Week 15):
 
 	* Selected applied topics
 
-* **Lecture 13** (Dec 18, Week 15):
+* **Lecture 13** (Dec 18, Week 16):
 
 	* Presentation (1)
 
-* **Lecture 14** (Dec 25, Week 16):
+* **Lecture 14** (Dec 25, Week 17):
 
 	* Presentation (2)
 
-* **Final exam** (Jan 8, 2018, Week 18)
+* **Final exam** (Jan 8, 2018, Week 19)
 
 ---
 #### Assignments
