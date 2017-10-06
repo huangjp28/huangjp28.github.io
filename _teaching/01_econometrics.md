@@ -32,7 +32,7 @@ As a preparation for this course, you need to install R and related programs in 
 
 	* R installation
 	* R basics (1): calculation, data, matrix, graphics   
-	[[Slides]](AE[G]_2017_Lecture2.pdf)
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture2.pdf %})
 
 * **Lecture 3** (Oct 9, Week 5):
 
