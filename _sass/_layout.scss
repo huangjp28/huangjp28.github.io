@@ -63,8 +63,8 @@ a:hover, a:active{ outline: 0; }
 ::-moz-selection{background:rgba(255,255,0,0.3);color:#000}
 ::selection{background:rgba(255,255,0,0.3);color:#000}
 
-a::-moz-selection{background:rgba(255,255,0,0.3);color:#0645ad}
-a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
+a::-moz-selection{background:rgba(255,255,0,0.3);color:$link-color}
+a::selection{background:rgba(255,255,0,0.3);color:$link-color}
 
 // a,
 // a:visited {
@@ -82,7 +82,7 @@ header {
   font-family: $heading-font;
   padding: 0px 15px;
 	text-align: center;
-	margin: 50px 0 0;
+	margin: 80px 0 0;
 	height: 4em;
 	display: flex;
 	justify-content: center;
@@ -112,10 +112,10 @@ max-width:100%;
 }
 
 blockquote{
-color:#666666;
-margin:0;
-padding-left: 3em;
-border-left: 0.5em #EEE solid;
+  color:#404040;
+  margin:0;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
 }
 hr { display: block; height: 2px; border: 0; border-top: 1px solid #aaa;border-bottom: 1px solid #eee; margin: 1em 0; padding: 0; }
 pre, code, kbd, samp { color: #000; font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 0.98em; }
@@ -196,14 +196,14 @@ aside {
 					padding: 15px;
 					font-family: $heading-font;
           font-weight: bold;
-					line-height: 20px;
+					line-height: 16px;
 					margin-bottom: -1px;
 					box-shadow: 0;
 					&:hover,
 					&:active {
 						background: $header;
 						text-decoration: none;
-						color: $main;
+						color: $heading-font-color;
 					}
 				}
 			}

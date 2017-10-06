@@ -25,7 +25,7 @@ As a preparation for this course, you need to install R and related programs in 
 * **Lecture 1** (Sep 18, Week 3):
 
 	* Introduction     
-	[[Slides]](AE[G]_2017_Lecture1.pdf)    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture1.pdf %})    
 	Link: [[A brief installation guide for R]]({{ site.baseurl }}{% link _teaching/02_rinstall.md %})
 
 * **Lecture 2** (Sep 25, Week 4):
