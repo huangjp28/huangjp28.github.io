@@ -36,7 +36,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 3** (Oct 9, Week 6):
 
-	- R basics (2): matrix, script file and project, data frame, graphics
+	- R basics (2): matrix, script file and project, data frame, graphics  
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture3.pdf %})
 
 * **Lecture 4** (Oct 16, Week 7):
 
