@@ -14,7 +14,7 @@ As a preparation for this course, you need to install R and related programs in 
 ---
 #### Course Information
 
-**Time and classroom**: Mon 19:00 - 21:20, 1722   
+**Time and classroom**: Mon 19:00 - 21:20, 1700   
 **Instructor**: Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Mon/Tue 13:00 - 14:00      
