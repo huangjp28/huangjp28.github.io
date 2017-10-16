@@ -42,7 +42,7 @@ As a preparation for this course, you need to install R and related programs in 
 * **Lecture 4** (Oct 16, Week 7):
 
 	- R programing : condition, loop, recursion
-	- R programing practice
+	- R programing practice   
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture4.pdf %})
 
 * **Lecture 5** (Oct 23, Week 8):
@@ -108,8 +108,6 @@ As a preparation for this course, you need to install R and related programs in 
 	where the *floor* function \\(\lfloor \ \rfloor\\) can be calculated with `floor()`, and the *binomial coefficient* can be calculated with `choose( , )`.
 
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Assignment1.pdf %})
-
-	 &nbsp;  
 
 * **Assignment 2** (Week 11)  
 
