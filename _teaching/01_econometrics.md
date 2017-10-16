@@ -101,7 +101,7 @@ As a preparation for this course, you need to install R and related programs in 
 
 	**Due date**: hand in at the beginning of the class on Oct 23, 2017.
 
-	**Hint**: You can find explicit formulas of the Fibonacci numbers from  https://en.wikipedia.org/wiki/Fibonacci_number  
+	**Hint**: You can find explicit formulas of the Fibonacci numbers from  <https://en.wikipedia.org/wiki/Fibonacci_number>  
 	For example,
 	\\[ F_n = \sum_{k=0}^{\lfloor \frac{n-1}{2} \rfloor} \binom{n-k-1}{k} ,\\]
 	where the *floor* function \\(\lfloor \ \rfloor\\) can be calculated with `floor()`, and the *binomial coefficient* can be calculated with `choose( , )`.
