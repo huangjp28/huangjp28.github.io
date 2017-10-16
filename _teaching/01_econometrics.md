@@ -97,7 +97,7 @@ As a preparation for this course, you need to install R and related programs in 
 	or mathematically
 	\\[ F_n = F_{n-1} + F_{n-2} \quad \text{with} \quad F_2 = F_1 = 1 .\\]   
 
-	Write two functions `fib1` and `fib2` that return the Fibonacci number \\(F_n\\) for input \\(n\\). Use recursion in `fib1` and do NOT use recursion in `fib2`. Print both functions in an A4 paper.   
+	Write two functions `fib1` and `fib2` that return the Fibonacci number \\(F_n\\) for input \\(n\\). Use recursion in `fib1` and do NOT use recursion in `fib2`. Print both functions in an A4 paper. Use a fixed-width font and take care of the readability of your codes (indentation, comments, etc.).  
 
 	**Due date**: hand in at the beginning of the class on Oct 23, 2017.
 
