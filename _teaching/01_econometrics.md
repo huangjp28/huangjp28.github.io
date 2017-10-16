@@ -90,7 +90,7 @@ As a preparation for this course, you need to install R and related programs in 
 
 ---
 #### Assignments
-* **Assignment 1** (Week 7)
+* **Assignment 1** (Week 7) [[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Assignment1.pdf %})
 
 	**Question**:   
 	The Fibonacci sequence (or Fibonacci numbers) is
@@ -107,7 +107,7 @@ As a preparation for this course, you need to install R and related programs in 
 	\\[ F_n = \sum_{k=0}^{\lfloor \frac{n-1}{2} \rfloor} \binom{n-k-1}{k} ,\\]
 	where the *floor* function \\(\lfloor \ \rfloor\\) can be calculated with `floor()`, and the *binomial coefficient* can be calculated with `choose( , )`.
 
-	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Assignment1.pdf %})
+	 &nbsp;  
 
 * **Assignment 2** (Week 11)  
 
