@@ -93,9 +93,9 @@ As a preparation for this course, you need to install R and related programs in 
 
 	**Question**:   
 	The Fibonacci sequence (or Fibonacci numbers) is
-	\[ 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 87, 144, \cdots , \]
+	$$ 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 87, 144, \cdots , $$
 	or mathematically
-	\[ F_n = F_{n-1} + F_{n-2} \text{ with } F_2 = F_1 = 1 .\]   
+	\\[ F_n = F_{n-1} + F_{n-2} \text{ with } F_2 = F_1 = 1 .\\]   
 
 	Write two functions `fib1` and `fib2` that return the Fibonacci number $F_n$ for input $n$. Use recursion in `fib1` and do NOT use recursion in `fib2`. Print both functions in an A4 paper.   
 
