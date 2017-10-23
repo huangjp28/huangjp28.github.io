@@ -47,7 +47,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 5** (Oct 23, Week 8):
 
-	- Review of probability
+	- Review of probability   
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture5.pdf %})
 
 * **Lecture 6** (Oct 30, Week 9):
 
