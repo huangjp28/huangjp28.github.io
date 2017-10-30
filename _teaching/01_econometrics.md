@@ -53,6 +53,7 @@ As a preparation for this course, you need to install R and related programs in 
 * **Lecture 6** (Oct 30, Week 9):
 
 	- Review of statistics (1)
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture6.pdf %})
 
 * **Lecture 7** (Nov 6, Week 10):
 
