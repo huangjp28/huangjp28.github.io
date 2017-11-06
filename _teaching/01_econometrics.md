@@ -59,6 +59,7 @@ As a preparation for this course, you need to install R and related programs in 
 
 	- Review of statistics (2)   
 	- Linear regression (1): fitting    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture7.pdf %})    
 	[[The STAR data set 1998-1999 (.xlsx)]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})   
 	[[The STAR data set 1998-1999 (.csv)]]({{ site.baseurl }}{% link /assets/files/caschool.csv %})   
 	[[Description of the STAR data set 1998-1999 (.docx)]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})    
