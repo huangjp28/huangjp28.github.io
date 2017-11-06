@@ -58,7 +58,10 @@ As a preparation for this course, you need to install R and related programs in 
 * **Lecture 7** (Nov 6, Week 10):
 
 	- Review of statistics (2)   
-	- Linear regression (1): fitting
+	- Linear regression (1): fitting    
+	[[The STAR data set 1998-1999 (.xlsx)]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})   
+	[[The STAR data set 1998-1999 (.csv)]]({{ site.baseurl }}{% link /assets/files/caschool.csv %})   
+	[[Description of the STAR data set 1998-1999 (.docx)]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})    
 
 * **Lecture 8** (Nov 13, Week 11):
 
@@ -117,9 +120,45 @@ As a preparation for this course, you need to install R and related programs in 
 ---
 #### Reading and Presentation
 
-**Reading groups**
+* Six groups (2 person &times; 5 group + 3 person &times; 1 group)
+* Each group select an applied econometrics article that is published later than 2000 in a journal from the journal list below, read it intensively, and present the contents in group.
+* Each team has 30 minutes for presentation, and 10 minutes for Q&A. Each one need to speak no less than 10 minutes.
+* Report the article you select on Nov 20. Presentation takes place on Dec 18 and 25.
 
-To be announced ...
+**Reading groups** (in initials)
+
+* **Group 1**: LGZ and ZH
+* **Group 2**: WX and DYF
+* **Group 3**: SHL and XY
+* **Group 4**: XYQ and GYL
+* **Group 5**: LYJ and WY
+* **Group 6**: ZCX, HCC, and TM
+
+**Journal list** (not a ranking)
+
+* American Economic Review
+* Econometrica
+* Quarterly Journal of Economics
+* Journal of Political Economy
+* Review of Economic Studies
+* Review of Economics and Statistics
+* Economic Journal
+* American Economic Journal: Applied Economics
+* RAND Journal of Economics
+* Journal of Applied Econometrics
+* Journal of Business and Economic Statistics
+* International Economic Review
+* Journal of Econometrics
+* Scandinavian Journal of Economics
+* Journal of Labor Economics
+* Labor Economics
+* Journal of Public Economics
+* Journal of Economic Growth
+* Journal of Health Economics
+* Health Economics
+* Journal of the European Economic Association
+* European Economic Review
+* Oxford Bulletin of Economics and Statistics
 
 ---
 #### Useful References
@@ -132,3 +171,9 @@ To be announced ...
 5. Dennis, B., 《R语言初学指南》，译者：高敬雅、刘波，人民邮电出版社，2016.
 6. Kabacoff, R. I., 《R语言实战》第二版，译者：王小宁等，人民邮电出版社，2016.
 7. Quick-R, <http://www.statmethods.net/>
+
+
+---
+#### Further Readings
+
+1. Angrist, J. D. and Pischke, J.-S., *Mastering 'Metrics: The Path from Cause to Effect*, Princeton University Press, 2015.
