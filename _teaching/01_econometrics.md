@@ -58,7 +58,7 @@ As a preparation for this course, you need to install R and related programs in 
 * **Lecture 7** (Nov 6, Week 10):
 
 	- Review of statistics (2)   
-	- Linear regression (1): fitting    
+	- Linear regression (1): model fitting    
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture7.pdf %})    
 	[[The STAR data set 1998-1999 (.xlsx)]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})   
 	[[The STAR data set 1998-1999 (.csv)]]({{ site.baseurl }}{% link /assets/files/caschool.csv %})   
@@ -66,7 +66,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 8** (Nov 13, Week 11):
 
-	- Linear regression (2): hypothesis testing
+	- Linear regression (2): multivariate linear regression, hypothesis testing    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture8.pdf %})
 
 * **Lecture 9** (Nov 20, Week 12):
 
@@ -115,8 +116,23 @@ As a preparation for this course, you need to install R and related programs in 
 
 	 &nbsp;  
 
-* **Assignment 2** (Week 11)  
+* **Assignment 2** (Week 11) [[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Assignment2.pdf %})
 
+	* Use the California Test Score data set ([caschool.csv]({{ site.baseurl }}{% link /assets/files/caschool.csv %})) to perform multiple linear regression analysis to explain test scores (`testscr`).
+	* Take student-teach ratio (`str`) as the base specification.
+	* Three additional variables:
+        * percentage of students who are still learning English  (`el_pct`),    
+        * percentage of students who are eligible for receiving a reduced priced lunch at school (`meal_pct`),
+        * percentage of students in the district whose families qualifies for a California income assistance program (`calw_pct`).    
+
+	**Question**:   
+	Perform multivariate linear regression analysis for the base specification and at least two alternative specifications whose regressors are chosen from str plus the three additional variables.
+
+	1.  Write down your regression models (three in total) and corresponding OLS regression results (with standard errors) in equation.    
+	2.  Make a table to summarize your regression results.    
+	3.  Discuss your results shortly.
+
+	**Due date**: hand in at the beginning of the class on Nov 20, 2017.
 
 ---
 #### Reading and Presentation
