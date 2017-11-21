@@ -60,9 +60,9 @@ As a preparation for this course, you need to install R and related programs in 
 	- Review of statistics (2)   
 	- Linear regression (1): model fitting    
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture7.pdf %})    
-	[[The STAR data set 1998-1999 (.xlsx)]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})   
-	[[The STAR data set 1998-1999 (.csv)]]({{ site.baseurl }}{% link /assets/files/caschool.csv %})   
-	[[Description of the STAR data set 1998-1999 (.docx)]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})    
+	[[The California test score data set 1998-1999 (.xlsx)]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})   
+	[[The California test score data set 1998-1999 (.csv)]]({{ site.baseurl }}{% link /assets/files/caschool.csv %})   
+	[[Description of the California test score data set 1998-1999 (.docx)]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})    
 
 * **Lecture 8** (Nov 13, Week 11):
 
@@ -71,7 +71,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 9** (Nov 20, Week 12):
 
-	- Nonlinear regression
+	- Nonlinear regression    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture9.pdf %})
 
 * **Lecture 10** (Nov 27, Week 13):
 
@@ -144,12 +145,23 @@ As a preparation for this course, you need to install R and related programs in 
 
 **Reading groups** (in initials)
 
-* **Group 1**: LGZ and ZH
-* **Group 2**: WX and DYF
-* **Group 3**: SHL and XY
-* **Group 4**: XYQ and GYL
-* **Group 5**: LYJ and WY
-* **Group 6**: ZCX, HCC, and TM
+* **Group 1**: LGZ and ZH   
+	Zheng et al. (2017). U.S. Demand for tobacco products in a system framework. *Health Economics*, 26:1067-1086.   
+
+* **Group 2**: WX and DYF   
+  Brueckner & Schwandt (2014). Income and population growth. *Economic Journal*, 125:1653-1676.   
+
+* **Group 3**: SHL and XY   
+  Araujo et al. (2016). Teacher quality and learning outcomes in kindergarten. *Quarterly Journal of Economics*, 131:1415-1453.   
+
+* **Group 4**: XYQ and GYL   
+  Sachs & Warner (2001). The curse of natural resources. *European Economic Review*, 45:827-838.   
+
+* **Group 5**: LYJ and WY   
+ Benjamin et al. (2012). What do you think would make you happier? What do you think you would choose? *American Economic Review*, 102(5):2083-2110.   
+
+* **Group 6**: ZCX, HCC, and TM   
+  Miller et al. (2006). The return to schooling: Estimates from a sample of young Australian twins. *Labour Economics*, 13:571-587.  	
 
 **Journal list** (not a ranking)
 
