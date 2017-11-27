@@ -76,7 +76,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 10** (Nov 27, Week 13):
 
-	- Binary dependent variables
+	- Binary dependent variables    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture10.pdf %})
 
 * **Lecture 11** (Dec 4, Week 14):
 
