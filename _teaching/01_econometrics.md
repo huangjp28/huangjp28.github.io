@@ -81,7 +81,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 11** (Dec 4, Week 14):
 
-	- Instrumental variables
+	- Instrumental variables    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_Lecture11.pdf %})
 
 * **Lecture 12** (Dec 11, Week 15):
 
