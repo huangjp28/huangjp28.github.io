@@ -86,7 +86,8 @@ As a preparation for this course, you need to install R and related programs in 
 
 * **Lecture 12** (Dec 11, Week 15):
 
-	- Selected applied topics
+	- Special topic: U shape test    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2017_LectureS.pdf %})
 
 * **Lecture 13** (Dec 18, Week 16):
 
