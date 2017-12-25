@@ -18,7 +18,7 @@ As a preparation for this course, you need to install R and related programs in 
 **Instructor**: Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Mon/Tue 13:00 - 14:00      
-**Grading**: attitude (10%) + assignments (2 &times; 10%) + presentation (20%) + final exam (50%)
+**Grading**: attitude (10%) + assignments (2 &times; 10%) + presentation (20%) + final report (50%)
 
 ---
 #### Schedule and Materials
@@ -97,7 +97,15 @@ As a preparation for this course, you need to install R and related programs in 
 
 	- Presentation (2)
 
-* **Final exam** (Jan 8, 2018, Week 19)
+* **Final report** (Jan 8, 2018, Week 19)    
+	[[The US Current Population Survey data (cps08.xlsx)]]({{ site.baseurl }}{% link /assets/files/cps08.xlsx %})    
+	[[The US Current Population Survey data description]]({{ site.baseurl }}{% link /assets/files/CPS08_Description.pdf %})    
+	[[The College Distance West data (CDWest.xls)]]({{ site.baseurl }}{% link /assets/files/CDWest.xls %})    
+	[[The College Distance West data description]]({{ site.baseurl }}{% link /assets/files/CD_Description.pdf %})   
+	[[The cover page]]({{ site.baseurl }}{% link /assets/files/cover.doc %})    
+
+	**Hand in your report to WKL 1720 on 14:00 -- 17:00 of Jan 8, 2018.**
+
 
 ---
 #### Assignments
