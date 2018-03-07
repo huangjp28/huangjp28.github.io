@@ -70,3 +70,9 @@ Attendance is required and will be recorded. However, the evaluation is not base
 | Week 15 | 7.1 (2) | Tutorial (9) |
 | Week 16 | 7.2 (1) | 7.2 (2) or 7.6 |
 | Week 17 | Tutorial (10) | Review and Q&A |
+
+---
+#### Take-home Exercises
+
+Numbers are problems in the exercise sections of the textbook. Selected problems will be explained in the tutorial classes.   
+**Sec 4.1 (1)**: Exercise 4.1 -- 13a, 15a, 19, 27, 31 (without a graphing calculator), 47, 69, 79.   
