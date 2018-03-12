@@ -77,3 +77,4 @@ Attendance is required and will be recorded. However, the evaluation is not base
 Numbers are problems in the exercise sections of the textbook. Selected problems will be explained in the tutorial classes.   
 
 **Sec 4.1 (1)**: Exercise 4.1 -- 13a, 15a, 19, 27, 31 (without a graphing calculator), 47, 69, 79.   
+**Sec 4.1 (2)**: Exercise 4.1 -- 35bc, 39, 51, 57, 59.   
