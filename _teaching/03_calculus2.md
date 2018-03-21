@@ -79,3 +79,4 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 4.1 (1)**: Exercise 4.1 -- 13a, 15a, 19, 27, 31 (without a graphing calculator), 47, 69, 79.   
 **Sec 4.1 (2)**: Exercise 4.1 -- 35bc, 39, 51, 57, 59.   
 **Sec 4.2 (1)**: Exercise 4.2 -- 11, 13, 23, 71, 87.    
+**Sec 4.2 (2)**: Exercise 4.2 -- 7, 15, 17, 19, 27, 33, 41, 45, 57.    
