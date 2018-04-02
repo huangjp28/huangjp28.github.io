@@ -10,10 +10,6 @@ aka Advanced Mathematics C(2), spring 2018
 
 ---
 
-#### [Seminar for Applications of Cooperative Game Theory]({{ site.baseurl }}{% link _teaching/04_CGT.md %}) (undergraduate)
-short course, spring 2018
-
----
 
 <!--
 #### [Econometrics I (fall 2017)]({{ site.baseurl }}{% link _teaching/01_econometrics.md %})

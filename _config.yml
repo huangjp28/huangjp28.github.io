@@ -18,6 +18,8 @@ include: ['_pages', 'assets']
 collections:
   teaching:
     output: true
+  seminar:
+    output: true
 
 kramdown:
   input: GFM

@@ -61,7 +61,7 @@ Attendance is required and will be recorded. However, the evaluation is not base
 | Week 6 | Tutorial (3) | 5.1 (1) |
 | Week 7 | 5.1 (2) | Tutorial (4) |
 | Week 8 | 5.2 (1) | 5.2 (2) |
-| Week 9 | no class | Tutorial (5) |
+| Week 9 | no class | **Tutorial (5)** -- move to April 29 (Sunday) |    
 | Week 10 | 5.3 (1) | 5.3 (2) |
 | Week 11 | Tutorial (6) | 5.4 (1) |
 | Week 12 | 5.4 (2) or 5.5 | Tutorial (7) |
