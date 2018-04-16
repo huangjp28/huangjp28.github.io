@@ -83,3 +83,4 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 4.3 (1)**: Exercise 4.3 -- 7, 11, 15, 19, 23, 29, 41, 45, 51.    
 **Sec 4.3 (2)**: Exercise 4.3 -- 35, 37, 53, 55, 59, 71, 93.    
 **Sec 5.1 (1)**: Exercise 5.1 -- 5, 11, 15, 19, 21, 25, 27.    
+**Sec 5.1 (2)**: Exercise 5.1 -- 31, 33, 39, 41, 45, 51, 65.    
