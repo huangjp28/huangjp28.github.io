@@ -85,3 +85,4 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 5.1 (1)**: Exercise 5.1 -- 5, 11, 15, 19, 21, 25, 27.    
 **Sec 5.1 (2)**: Exercise 5.1 -- 31, 33, 39, 41, 45, 51, 65.    
 **Sec 5.2 (1)**: Exercise 5.2 -- 3, 5, 9, 13, 17, 21.    
+**Sec 5.2 (2)**: Exercise 5.2 -- 29, 35, 51, 65, 67.    
