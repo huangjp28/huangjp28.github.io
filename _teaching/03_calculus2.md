@@ -76,13 +76,14 @@ Attendance is required and will be recorded. However, the evaluation is not base
 
 Numbers are problems in the exercise sections of the textbook. Selected problems will be explained in the tutorial classes.   
 
-**Sec 4.1 (1)**: Exercise 4.1 -- 13a, 15a, 19, 27, 31 (without using a graphing calculator), 47, 69, 79.   
-**Sec 4.1 (2)**: Exercise 4.1 -- 35bc, 39, 51, 57, 59.   
-**Sec 4.2 (1)**: Exercise 4.2 -- 11, 13, 23, 71, 87.    
-**Sec 4.2 (2)**: Exercise 4.2 -- 7, 15, 17, 19, 27, 33, 41, 45, 57.    
-**Sec 4.3 (1)**: Exercise 4.3 -- 7, 11, 15, 19, 23, 29, 41, 45, 51.    
-**Sec 4.3 (2)**: Exercise 4.3 -- 35, 37, 53, 55, 59, 71, 93.    
-**Sec 5.1 (1)**: Exercise 5.1 -- 5, 11, 15, 19, 21, 25, 27.    
-**Sec 5.1 (2)**: Exercise 5.1 -- 31, 33, 39, 41, 45, 51, 65.    
-**Sec 5.2 (1)**: Exercise 5.2 -- 3, 5, 9, 13, 17, 21.    
-**Sec 5.2 (2)**: Exercise 5.2 -- 29, 35, 51, 65, 67.    
+**Sec 4.1 (1)**: Exercises 4.1 -- 13a, 15a, 19, 27, 31 (without using a graphing calculator), 47, 69, 79.   
+**Sec 4.1 (2)**: Exercises 4.1 -- 35bc, 39, 51, 57, 59.   
+**Sec 4.2 (1)**: Exercises 4.2 -- 11, 13, 23, 71, 87.    
+**Sec 4.2 (2)**: Exercises 4.2 -- 7, 15, 17, 19, 27, 33, 41, 45, 57.    
+**Sec 4.3 (1)**: Exercises 4.3 -- 7, 11, 15, 19, 23, 29, 41, 45, 51.    
+**Sec 4.3 (2)**: Exercises 4.3 -- 35, 37, 53, 55, 59, 71, 93.    
+**Sec 5.1 (1)**: Exercises 5.1 -- 5, 11, 15, 19, 21, 25, 27.    
+**Sec 5.1 (2)**: Exercises 5.1 -- 31, 33, 39, 41, 45, 51, 65.    
+**Sec 5.2 (1)**: Exercises 5.2 -- 3, 5, 9, 13, 17, 21.    
+**Sec 5.2 (2)**: Exercises 5.2 -- 29, 35, 51, 65, 67.    
+**Sec 5.3 (1)**: Exercises 5.3 -- 3, 7, 9, 15, 39, 43, 51.    
