@@ -87,3 +87,4 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 5.2 (1)**: Exercises 5.2 -- 3, 5, 9, 13, 17, 21.    
 **Sec 5.2 (2)**: Exercises 5.2 -- 29, 35, 51, 65, 67.    
 **Sec 5.3 (1)**: Exercises 5.3 -- 3, 7, 9, 15, 39, 43, 51.    
+**Sec 5.3 (2)**: Exercises 5.3 -- 19, 25, 37, 41, 53, 71a.    
