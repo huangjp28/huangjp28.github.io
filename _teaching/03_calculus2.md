@@ -90,8 +90,8 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 5.3 (2)**: Exercises 5.3 -- 19, 25, 37, 41, 53, 71a.    
 **Sec 5.4 (1)**: Exercises 5.4 -- 1, 3, 5, 11, 31, 43.    
 **Sec 5.4 (2)**: Exercises 5.4 -- 19, 23, 35, 37.    
-**Sec 6.1 (1)**: Exercises 5.4 -- 3, 5, 9, 15, 19, 39.    
-**Sec 6.1 (2)**: Exercises 5.4 -- 25, 35, 57, 61.    
-**Sec 7.1 **: Exercises 7.1 -- 7, 19, 21, 33.    
-**Sec 7.2 **: Exercises 7.1 -- 5, 7, 11, 13.    
-**Sec 7.6 **: Exercises 7.1 -- 3, 13, 15.    
+**Sec 6.1 (1)**: Exercises 6.1 -- 3, 5, 9, 15, 19, 39.    
+**Sec 6.1 (2)**: Exercises 6.1 -- 25, 35, 57, 61.    
+**Sec 7.1**: Exercises 7.1 -- 7, 19, 21, 33.    
+**Sec 7.2**: Exercises 7.2 -- 5, 7, 11, 13.    
+**Sec 7.6**: Exercises 7.6 -- 3, 13, 15.    
