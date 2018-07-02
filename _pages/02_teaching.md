@@ -17,7 +17,7 @@ aka Advanced Mathematics C(2), spring 2018
 -->
 
 #### Econometrics I (graduate)
-fall 2017
+fall 2017, fall 2016
 
 <!--
 * **Announcement**: the classroom has been changed to 1700 from Oct 16, 2017.
