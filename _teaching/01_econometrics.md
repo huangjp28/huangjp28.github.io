@@ -14,7 +14,7 @@ As a preparation for this course, you need to install R and related programs in 
 ---
 #### Course Information
 
-**Time and classroom**: Tue 19:00 - 21:20, A410
+**Time and classroom**: Tue 19:00 - 21:20, A410    
 **Textbook**:   
 《计量经济学：第三版》英文版，斯托克、沃森著，格致出版社，2013. ISBN: 978-7-5432-2227-4.    
 Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>    
@@ -82,14 +82,14 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 	- Experiments and quasi-experiments
 
-* **Lecture 14** (Dec 25, Week 17):
-
-	- Final exam
+* **Final exam** (Dec 25, Week 17)
 
 
 
 ---
 #### Individual Assignments
+
+To be announced...
 
 ---
 #### Journal List and Group Assignment
