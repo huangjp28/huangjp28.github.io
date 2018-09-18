@@ -9,7 +9,7 @@ permalink: /teaching/rinstall.html
 
 #### Download and install R
 
-The official website of R is <https://www.r-project.org/>. You can visit the website and find a CRAN (Comprehensive R Archive Network) mirror site, or choose one of the followings, to download the appropriate program for your operating system, and follow the guidance from the website to install. The current stable version is R 3.4.1 (Sep 18, 2017). *Note that all the mirror sites are exactly the same, so you only need to visit one of them.*
+The official website of R is <https://www.r-project.org/>. You can visit the website and find a CRAN (Comprehensive R Archive Network) mirror site, or choose one of the followings, to download the appropriate program for your operating system, and follow the guidance from the website to install. The latest release is R 3.5.1 (July 02, 2018). *Note that all the mirror sites are exactly the same, so you only need to visit one of them.*
 
 * TUNA Team, Tsinghua University: <https://mirrors.tuna.tsinghua.edu.cn/CRAN/>
 * University of Science and Technology of China: <https://mirrors.ustc.edu.cn/CRAN/>
@@ -29,7 +29,7 @@ RStudio is a popular IDE (Integrated Development Environment) widely used for R 
 
 You can visit   
 <https://www.rstudio.com/products/rstudio/download/>   
-and choose the Desktop version. The current version is RStudio Desktop 1.0.153 (Sep 18, 2017). If you are using Windows, you can click the "RStudio 1.x.x - Windows Vista/7/8/10" at the bottom of the page to download the installer and install the program.
+and choose the Desktop version. The current version is RStudio Desktop 1.1.456 (July 19, 2018). If you are using Windows, you can click the "RStudio 1.x.x - Windows Vista/7/8/10" at the bottom of the page to download the installer and install the program.
 
 #### Install packages
 

@@ -23,7 +23,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 **Instructor**: Dr. Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Mon/Tue 13:00 - 14:00      
-**Grading**: individual assignments (4 &times; 10%) + group assignment (10%) + final exam (50%)
+**Grading**: assignments (4 &times; 10%) + reading report (10%) + final exam (50%)
 
 ---
 #### Schedule and Materials
@@ -87,21 +87,16 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 
 ---
-#### Individual Assignments
+#### Assignments
 
 To be announced...
 
 ---
-#### Journal List and Group Assignment
+#### Reading Report and Journal List
 
-* Groups with 2 individuals in each will be randomly assigned.
-* Each group select an applied econometrics article that is published on 2010 or later in a journal from the journal list below, read it intensively, and write a report **in English**.
+* Each student should select an applied econometrics article that is published on 2010 or later in a journal from the journal list below, read it intensively, and write a report **in English**.
 * The report must contain a summary of the article, your comments describing the pros and cons, and optionally your research idea inspired by the article.
 * Keep your report no longer than two pages.
-
-**Groups** (in initials)
-
-To be assigned...
 
 **Journal list** (not a ranking)
 
