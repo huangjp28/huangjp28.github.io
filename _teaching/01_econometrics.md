@@ -30,6 +30,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 * **Lecture 1** (Sep 18, Week 3):
 
 	- Introduction     
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture1_online.pdf %})     
 
 * **Lecture 2** (Sep 25, Week 4):
 
