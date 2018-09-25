@@ -18,7 +18,7 @@ As a preparation for this course, you need to install R and related programs in 
 **Textbook**:   
 《计量经济学：第三版》英文版，斯托克、沃森著，格致出版社，2013. ISBN: 978-7-5432-2227-4.    
 Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>    
-当当网: <http://product.dangdang.com/23621137.html>    
+当当网: <http://product.dangdang.com/23621137.html>    
 京东: <https://item.jd.com/11583008.html>   
 **Instructor**: Dr. Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
@@ -96,7 +96,7 @@ To be announced...
 #### Reading Report and Journal List
 
 * Each student should select an applied econometrics article that is published on 2010 or later in a journal from the journal list below, read it intensively, and write a report **in English**.
-* The report must contain a summary of the article, your comments describing the pros and cons, and optionally your research idea inspired by the article.
+* The report must contain a summary of the article, your comments describing the pros and cons, and optionally your research idea inspired by the article.
 * Keep your report no longer than two pages.
 
 **Journal list** (not a ranking)
@@ -139,7 +139,7 @@ To be announced...
 ---
 #### Further Reading
 
-**Introductory level**
+**Introductory level**
 
 1. Gujarati, D. & Porter, D., *Basic Econometrics*, 5th edition, McGraw-Hill Education, 2008.
 2. Stock, J. & Watson, M., *Introduction to Econometrics*, 3rd edition, Pearson, 2015.
