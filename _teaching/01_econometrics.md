@@ -36,6 +36,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 	- R installation
 	- R basics (1): calculation, vector, matrix   
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture2_online.pdf %})   
 
 * **Lecture 3** (Oct 9, Week 6):
 
