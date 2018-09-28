@@ -7,7 +7,7 @@ permalink: /contact/
 ### Contact Information
 
 **Address**:   
->  Research Institute of New Economy and Finance
+>  Research Institute of New Economy and Finance    
 >  Shenzhen University  
 >  Wen Ke Lou 2613, Nanhai Ave 3688  
 >  Shenzhen, Guangdong, P.R.China, 518060   
