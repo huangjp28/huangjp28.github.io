@@ -40,7 +40,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 3** (Oct 9, Week 6):
 
-	- R basics (2): matrix, script file and project, data frame, graphics  
+	- R basics (2): matrix, script file and project, data frame, graphics   
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture3_online.pdf %})   
 
 * **Lecture 4** (Oct 16, Week 7):
 
