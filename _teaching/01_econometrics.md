@@ -45,20 +45,18 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 4** (Oct 16, Week 7):
 
-	- R programing : condition, loop, recursion
-	- R programing practice   
+	- R programing : function, condition, loop       
 
 * **Lecture 5** (Oct 23, Week 8):
 
-	- Review of probability   
+	- R programing : loop, recursion   
 
 * **Lecture 6** (Oct 30, Week 9):
 
-	- Review of statistics (1)   
+	- R programing : applications   
 
 * **Lecture 7** (Nov 6, Week 10):
 
-	- Review of statistics (2)   
 	- Linear regression (1): model fitting    
 
 * **Lecture 8** (Nov 13, Week 11):
