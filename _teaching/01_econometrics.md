@@ -45,7 +45,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 4** (Oct 16, Week 7):
 
-	- R programing : function, condition, loop       
+	- R programing : function, condition    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture4_online.pdf %})      
 
 * **Lecture 5** (Oct 23, Week 8):
 
