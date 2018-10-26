@@ -50,7 +50,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 5** (Oct 23, Week 8):
 
-	- R programing : loop, recursion   
+	- R programing : loop       
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture5_online.pdf %})   
 
 * **Lecture 6** (Oct 30, Week 9):
 
