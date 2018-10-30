@@ -57,7 +57,9 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 	- R programing : applications   
 
-* **Lecture 7** (Nov 6, Week 10):
+* **Lecture 7** (Nov 6, Week 10):   
+[[Supplement material: review of probability]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_RoP.pdf %})   
+[[Supplement material: review of statistics]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_RoS.pdf %})   
 
 	- Linear regression (1): model fitting    
 
