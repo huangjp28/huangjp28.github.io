@@ -92,7 +92,22 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 ---
 #### Assignments
 
-To be announced...
+**Assignment 1**   
+
+* Learn the *insertion* sort algorithm from Wikipedia (or other websites): <https://en.wikipedia.org/wiki/Insertion_sort>   
+* Write a program that sorts a given sequence in **descending** order which meets the following conditions:   
+	1. use insertion sort algorithm to write a function named `inssort()`;   
+	2. you should not use `while` loop;   
+	3. your function should print all partially sorted sequences, one in a line, e.g.,   
+		`> inssort(c(3,5,1,4,2))` &#9166;   
+		`[1] 3  5  1  4  2`   
+		`[1] 5  3  1  4  2`   
+		`[1] 5  3  1  4  2`   
+		`[1] 5  4  3  1  2`    
+		`[1] 5  4  3  2  1`   
+	4. generate a sequence with 10 positive integers and use the above function to sort it, and save your sorted sequence in a new variable.   
+* Save your program in an .R script file and submit it by email before 2018-11-06 19:00.   
+
 
 ---
 #### Reading Report and Journal List
