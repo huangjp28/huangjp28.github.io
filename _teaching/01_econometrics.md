@@ -56,6 +56,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 * **Lecture 6** (Oct 30, Week 9):
 
 	- R programing : applications   
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture6_online.pdf %})   
 
 * **Lecture 7** (Nov 6, Week 10):   
 [[Supplement material: review of probability]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_RoP.pdf %})   
