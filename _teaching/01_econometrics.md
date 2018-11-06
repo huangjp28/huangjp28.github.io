@@ -63,6 +63,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 [[Supplement material: review of statistics]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_RoS.pdf %})   
 
 	- Linear regression (1): model fitting    
+  [[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture7_online.pdf %})    
+	[[caschool data]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}) [[Description]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})   
 
 * **Lecture 8** (Nov 13, Week 11):
 
