@@ -116,7 +116,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 **Assigment 2**: Multiple linear regression
 
-Use the California Test Score dataset ([[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})) to explain test scores (testscr) by other variables. Take the single regression on student-teach ratio (str) as the base specification. You can include other variables from the dataset to build alternative specifications.
+Use the California Test Score dataset ([caschool.xlsx]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})) to explain test scores (testscr) by other variables. Take the single regression on student-teach ratio (str) as the base specification. You can include other variables from the dataset to build alternative specifications.
 
 Perform multiple linear regression analysis for the base specification and three alternative specifications that are not given in Table 7.1 (page 280). Answer the following questions.
 
