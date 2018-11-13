@@ -68,7 +68,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 8** (Nov 13, Week 11):
 
-	- Linear regression (2): multivariate linear regression, hypothesis testing    
+	- Linear regression (2): multiple linear regression, hypothesis testing    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture8_online.pdf %})
 
 * **Lecture 9** (Nov 20, Week 12):
 
@@ -113,6 +114,17 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 	4. generate a sequence with 10 positive integers and use the above function to sort it, and save your sorted sequence in a new variable.   
 * Save your program in an .R script file and submit it by email before 2018-11-06 19:00.   
 
+**Assigment 2**: Multiple linear regression
+
+Use the California Test Score dataset ([[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})) to explain test scores (testscr) by other variables. Take the single regression on student-teach ratio (str) as the base specification. You can include other variables from the dataset to build alternative specifications.
+
+Perform multiple linear regression analysis for the base specification and three alternative specifications that are not given in Table 7.1 (page 280). Answer the following questions.
+
+* Q1: Write down your regression models and corresponding OLS regression results in equation form.   
+* Q2: Summarize your regression results in a table.   
+* Q3: Discuss your results (such as economic and statistical interpretation of coefficients, multicollinearity, goodness of fit, etc.).   
+
+Write a report with MS-Word and submit it by email before 2018-11-20 19:00.
 
 ---
 #### Reading Report and Journal List
