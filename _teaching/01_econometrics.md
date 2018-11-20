@@ -74,6 +74,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 * **Lecture 9** (Nov 20, Week 12):
 
 	- Nonlinear regression    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture9_online.pdf %})
 
 * **Lecture 10** (Nov 27, Week 13):
 
