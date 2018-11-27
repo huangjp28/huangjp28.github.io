@@ -79,6 +79,8 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 * **Lecture 10** (Nov 27, Week 13):
 
 	- Regression with panel data    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture10_online.pdf %})   
+	[[fatality data]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}) [[Description]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})
 
 * **Lecture 11** (Dec 4, Week 14):
 
@@ -86,11 +88,11 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 
 * **Lecture 12** (Dec 11, Week 15):
 
-	- Instrumental variables    
+	- No class (expected)    
 
 * **Lecture 13** (Dec 18, Week 16):
 
-	- Experiments and quasi-experiments
+	- Instrumental variables   
 
 * **Final exam** (Dec 25, Week 17)
 
@@ -169,6 +171,7 @@ Write a report with MS-Word and submit it by email before 2018-11-20 19:00.
 4. Dennis, B., 《R语言初学指南》，译者：高敬雅、刘波，人民邮电出版社，2016.
 5. Kabacoff, R. I., 《R语言实战》第二版，译者：王小宁等，人民邮电出版社，2016.
 6. Quick-R, <http://www.statmethods.net/>
+7. Econometrics with R, <https://www.econometrics-with-r.org/>
 
 
 ---
