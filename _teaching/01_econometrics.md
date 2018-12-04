@@ -85,6 +85,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 * **Lecture 11** (Dec 4, Week 14):
 
 	- Binary dependent variables    
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture11_online.pdf %})   
 
 * **Lecture 12** (Dec 11, Week 15):
 
@@ -101,7 +102,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 ---
 #### Assignments
 
-**Assignment 1**   
+**Assignment 1**: R programming   
 
 * Learn the *insertion* sort algorithm from Wikipedia (or other websites): <https://en.wikipedia.org/wiki/Insertion_sort>   
 * Write a program that sorts a given sequence in **descending** order which meets the following conditions:   
@@ -117,7 +118,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 	4. generate a sequence with 10 positive integers and use the above function to sort it, and save your sorted sequence in a new variable.   
 * Save your program in an .R script file and submit it by email before 2018-11-06 19:00.   
 
-**Assigment 2**: Multiple linear regression
+**Assignment 2**: Multiple linear regression
 
 Use the California Test Score dataset ([caschool.xlsx]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %})) to explain test scores (testscr) by other variables. Take the single regression on student-teach ratio (str) as the base specification. You can include other variables from the dataset to build alternative specifications.
 
@@ -128,6 +129,17 @@ Perform multiple linear regression analysis for the base specification and three
 * Q3: Discuss your results (such as economic and statistical interpretation of coefficients, multicollinearity, goodness of fit, etc.).   
 
 Write a report with MS-Word and submit it by email before 2018-11-20 19:00.
+
+**Assignment 3**: Using econometrics in research
+
+Suppose you want to investigate the effect of export on the economic development of a country using econometric methods. You may need to think the following questions:
+
+1. What variables are you going to use as independent and dependent variables?
+2. Which kind of data as well as regression models you are going to use?
+3. Which kind of estimation biases you need to consider? How can you get rid of them?
+
+Answer the above questions (either in Chinese or in English) within one page. Submit your report in a PDF file by email before 2018-12-11 19:00.
+
 
 ---
 #### Reading Report and Journal List
