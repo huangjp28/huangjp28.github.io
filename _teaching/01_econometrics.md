@@ -23,7 +23,7 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 **Instructor**: Dr. Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Mon/Tue 13:00 - 14:00      
-**Grading**: assignments (4 &times; 10%) + reading report (10%) + final exam (50%)
+**Grading**: assignments (3 &times; 10%) + reading report (20%) + final exam (50%)
 
 ---
 #### Schedule and Materials
@@ -87,16 +87,21 @@ Amazon: <https://www.amazon.cn/dp/B00R7EEEUY/>
 	- Binary dependent variables    
 	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture11_online.pdf %})   
 
-* **Lecture 12** (Dec 11, Week 15):
+* Dec 11, Week 15:
 
-	- No class (expected)    
+	- No class    
 
-* **Lecture 13** (Dec 18, Week 16):
+* **Lecture 12** (Dec 18, Week 16):
 
 	- Instrumental variables   
+	[[Slides]]({{ site.baseurl }}{% link /assets/pdf/AE[G]_2018_Lecture12_online.pdf %})   
 
-* **Final exam** (Dec 25, Week 17)
+* **Review** (Dec 25, Week 17)
 
+* **Final Exam**
+
+	- Dec 29, Saturday, 8:30 - 11:30, A410   
+	- Only the textbook is allowed to be used during the exam.
 
 
 ---
