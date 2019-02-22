@@ -1,10 +1,11 @@
 ---
 layout: page
 title: 合作博弈论专题研讨
-collections: seminar
+collections: Seminar
 permalink: /seminar/CGT.html
 ---
 
+---
 ### Basics and Applications of Cooperative Game Theory (spring 2018)
 
 #### 内容简介
@@ -24,3 +25,5 @@ permalink: /seminar/CGT.html
 实施地点：文科楼办公区1722   
 参与方式：自愿参加。欢迎对合作博弈论感兴趣、有一定数学基础、英语阅读理解能力较强的本科生及研究生报名。   
 报名方法：拟于4月14日星期六上午10:00在文科楼1722举行见面会，有意报名的同学请在4月13日之前邮件联系主讲教师。见面会上将商议之后的实施计划。   
+
+---

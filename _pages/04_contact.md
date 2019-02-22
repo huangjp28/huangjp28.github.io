@@ -1,18 +1,21 @@
 ---
 layout: page
 title: Contact
+group: "navigation"
 permalink: /contact/
 ---
 
+---
 ### Contact Information
 
-**Address**:   
->  Research Institute of New Economy and Finance    
+**Postal address**:   
 >  Shenzhen University  
->  Wen Ke Lou 2613, Nanhai Ave 3688  
->  Shenzhen, Guangdong, P.R.China, 518060   
+>  2613 Liberal Arts Building, 3688 Nanhai Ave  
+>  Shenzhen, Guangdong, 518060, P.R.China   
 
 **Tel**: +86-(0)755-26950548  
 **E-mail**: huangjp #at# szu . edu . cn   
 **Website**: <https://huangjp.com>   
 **Office hours**: Please make an appointment via e-mail.
+
+---

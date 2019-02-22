@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Calculus II
-collections: teaching
+collections: Teaching
 permalink: /teaching/calculus2.html
 ---
 
+---
 ### Calculus II (spring 2018)
 ##### aka Advanced Mathematics C(2)
 
@@ -95,3 +96,5 @@ Numbers are problems in the exercise sections of the textbook. Selected problems
 **Sec 7.1**: Exercises 7.1 -- 7, 19, 21, 33.    
 **Sec 7.2**: Exercises 7.2 -- 5, 7, 11, 13.    
 **Sec 7.6**: Exercises 7.6 -- 3, 13, 15.    
+
+---

@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Econometrics
-collections: teaching
+collections: Teaching
+group: null
 permalink: /teaching/econometrics.html
 ---
 
+---
 ### Econometrics I (fall 2018)
 
 This is the support page for **Econometrics I** (Applied Econometrics with R, fall 2018). You can find materials (slides, sample programs, assignments) and other information for the course.
@@ -215,3 +217,5 @@ Answer the above questions (either in Chinese or in English) within one page. Su
 
 1. Angrist, J. D. and Pischke, J.-S., *Mastering 'Metrics: The Path from Cause to Effect*, Princeton University Press, 2015.
 2. Angrist, J. D. and Pischke, J.-S., *Mostly Harmless Econometrics: An Empiricist’s Companion*, Princeton University Press, 2008.
+
+---
