@@ -6,7 +6,15 @@ permalink: /teaching/
 ---
 
 ---
-### [Calculus II]({{ site.baseurl }}{% link _teaching/03_calculus2.md %}) (undergraduate)
+### [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}) (undergraduate)
+spring 2019
+
+---
+### [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) (undergraduate)
+aka Advanced Mathematics C(1), spring 2019
+
+---
+### [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) (undergraduate)
 aka Advanced Mathematics C(2), spring 2018
 
 ---

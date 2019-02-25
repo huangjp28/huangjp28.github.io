@@ -15,3 +15,10 @@ My name is Jia-Ping HUANG (黄嘉平). I am an assistant professor at Shenzhen U
 More information about me can be found in the [Curriculum Vitae]({{ site.baseurl }}{% link _pages/01_CV.md %}) page.
 
 ---
+
+### News!
+
+* **Feb 2019** &nbsp; New publication on *Social Networks*   
+Huang, J.-P., Heidergott, B., & Lindner, I. (2019). Naïve Learning in Social Networks with Random Communication. *Social Networks*, 58, 1-11. Anyone can [download](https://authors.elsevier.com/c/1YWxM1M9LHZLpx) the paper with free access before March 29, 2019.
+
+---
