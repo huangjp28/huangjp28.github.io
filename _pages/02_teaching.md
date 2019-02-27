@@ -18,7 +18,7 @@ aka Advanced Mathematics C(1), spring 2019
 aka Advanced Mathematics C(2), spring 2018
 
 ---
-### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)
+### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)    
 金融统计软件应用（英文版）   
 spring 2019
 
