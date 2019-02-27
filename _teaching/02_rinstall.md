@@ -6,7 +6,7 @@ permalink: /teaching/rinstall.html
 ---
 
 ---
-### A brief installation guide for R and RStudio
+### A brief installation guide of R and RStudio
 
 #### Download and install R
 
@@ -42,5 +42,5 @@ A great feature of R is that there are many packages provided by the development
 4. Select *Tools > Install Packages...*, type "AER" below *Packages (separated multiple with space or comma)*, check *Install dependencies*, and then click *Install*.
 5. If RStudio returns no errors, you have successfully installed the package "AER" and other packages it relies on.   
 
- 
+
 ---

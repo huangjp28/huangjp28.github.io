@@ -18,8 +18,15 @@ aka Advanced Mathematics C(1), spring 2019
 aka Advanced Mathematics C(2), spring 2018
 
 ---
+### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)
+金融统计软件应用（英文版）   
+spring 2019
+
+---
 ### [Econometrics I]({{ site.baseurl }}{% link _teaching/01_econometrics.md %}) (graduate)
 fall 2018, fall 2017, fall 2016
+
+---
 
 * [An installation guide of R]({{ site.baseurl }}{% link _teaching/02_rinstall.md %})   
   We use R during classes, so it is preferred that all the participants install it to their own laptops before the course begins.
