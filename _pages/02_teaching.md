@@ -11,11 +11,13 @@ spring 2019
 
 ---
 ### [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) (undergraduate)
-aka Advanced Mathematics C(1), spring 2019
+aka Advanced Mathematics C(1)   
+spring 2019
 
 ---
 ### [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) (undergraduate)
-aka Advanced Mathematics C(2), spring 2018
+aka Advanced Mathematics C(2)   
+spring 2018
 
 ---
 ### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)    
