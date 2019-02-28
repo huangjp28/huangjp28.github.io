@@ -32,6 +32,8 @@ Pre-university mathematics.
 David M. Levine, Timothy C. Krehbiel, Mark L. Berenson (2013). *Business Statistics: A First Course*, Sixth Edition. Pearson.   
 Published in China as 《商务统计学（英文版·第6版）》, 戴维·莱文等著, 中国人民大学出版社, ISBN: 978-7-300-24722-9.
 
+* [Appendices of the book]({{ site.baseurl }}{% link /assets/pdf/LevineAppendices.pdf %})
+
 ---
 #### Topics to be Covered
 
@@ -113,6 +115,6 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 8**: to be announced    
 **Lecture 9**: to be announced    
 **Lecture 10**: to be announced    
-    
+
 
 ---
