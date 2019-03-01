@@ -25,7 +25,7 @@ This course covers the first half of calculus for business and economics student
 ---
 #### Prerequisites and Suggestions
 
-Knowledge of pre-university mathematics is required and will be checked on the first lecture. A graphical calculator may be useful for self-study but is not necessary for the course and is forbad in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
+Knowledge of pre-university mathematics is required and will be checked on the first lecture. A graphing calculator may be useful for self-study but is not necessary for the course and is forbad in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
 
 ---
 #### Textbook
