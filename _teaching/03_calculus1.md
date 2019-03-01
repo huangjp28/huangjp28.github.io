@@ -73,6 +73,8 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 16 | Jun 18 | Lecture 7-2 | Jun 21 | Lecture 7-3 |
 | Week 17 | Jun 25 | *Tutorial 7* | Jun 28 | Review |
 
+*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*
+
 **Diagnostic test**: algebra, analytic geometry, functions.   
 **Introduction**: the preview section   
 **Lecture 1-1**: 1.1   
