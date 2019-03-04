@@ -54,15 +54,39 @@ Case study
 ---
 #### Grading
 
-Attendance: 6%   
-In-class performance: 9%   
-Assignments: 45% (3 times)   
+Attendance: 6% (Three random roll-calls. On the spot = 3, late = 2.)     
+In-class performance: 9% (A = 9, B = 6.)   
+Assignments: 45% (3 times) (A = 15, B = 13, C = 10. Late submission leads to a 20% deduction.)     
 Final report: 40%   
 
 ---
-#### Materials
+#### Schedule
 
-To be uploaded.
+| Week | Lecture | Practice |
+| 1 | Chapter 1: Introduction | Basic operations |
+| 2 | Chapter 2: Creating a dataset | Vector, matrix, dataframe |
+| 3 | Chapter 4: Basic data management | Data selection, sorting, merging |
+| 4 | Chapter 5: Advanced data management | Probability distributions |
+| 5 | Chapter 5: Advanced data management | Loop, condition |
+| 6 | Chapter 3: Getting started with graphs | Drawing graphs |
+| 7 | Chapter 6: Basic graphs | Bar plots, phi charts, histograms |
+| 8 | Chapter 7: Basic statistics | Descriptive statistics |
+| 9 | Chapter 7: Basic statistics | Tests for means, ANOVA |
+| 10 | Chapter 8: Regression | Linear model |
+| 11 | Chapter 8: Regression | Regression diagnostics |
+| 12 | Chapter 8: Regression | Model assumptions and model selection |
+| 13 | Case study | Case study |
+| 14 | Case study | Case study |
+| 15 | Chapter 8: Regression | Logit model |
+| 16 | Case study | Case study |
+| 17 | Review | Self-study |
+
+*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*
+
+---
+#### Lecture Slides
+
+* [Chapter 1]({{ site.baseurl }}{% link /assets/files/R1.pptx %})
 
 ---
 #### Assignments
