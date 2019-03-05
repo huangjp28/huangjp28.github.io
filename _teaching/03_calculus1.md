@@ -33,6 +33,9 @@ Knowledge of pre-university mathematics is required and will be checked on the f
 James Stewart (2012). *Calculus: Early Transcendentals*, International Metric Edition, Seventh Edition. Brooks/Cole, Cengage Learnning.   
 Published in China as 《微积分（第7版）（上册）影印版》, James Stewart, 高等教育出版社, ISBN: 978-7-04-039620-1.
 
+* [Review of Algebra]({{ site.baseurl }}{% link /assets/pdf/Stewart_algebra.pdf %})
+* [Review of Analytic Geometry]({{ site.baseurl }}{% link /assets/pdf/Stewart_analgeom.pdf %})
+
 ---
 #### Topics to be Covered
 
