@@ -86,7 +86,10 @@ Final report: 40%
 ---
 #### Lecture Slides
 
+The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teacher82/139.html).
+
 * [Chapter 1]({{ site.baseurl }}{% link /assets/files/R1.pptx %})
+* [Chapter 2]({{ site.baseurl }}{% link /assets/files/R2.pptx %})
 
 ---
 #### Assignments

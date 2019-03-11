@@ -107,7 +107,12 @@ The course has lecture classes and tutorial classes, where in the former we focu
 ---
 #### Take-home Exercises
 
-**Lecture 1**: to be announced    
+You can find the following problems from the textbook. Write your answers on A4 papers (including tables and graphs) by hand, or type your answers with MS-Word (tables and graphs may be constructed by MS-Excel) and print out with A4 papers.
+
+**Lecture 1 (due on March 14)**:
+* 2.7, 2.11, 2.16, 2.17, 2.24(a), 2.38, 2.46, 2.47, 2.51   
+  Data needed: [Wonderlic.xls]({{ site.baseurl }}{% link /assets/files/Wonderlic.xls %})
+
 **Lecture 2**: to be announced    
 **Lecture 3**: to be announced    
 **Lecture 4**: to be announced    
