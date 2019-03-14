@@ -105,7 +105,13 @@ The course has lecture classes and tutorial classes, where in the former we focu
 ---
 #### Take-home Exercises   
 
-**Lecture 1**: to be announced    
+**Lecture 1 (due on March 22)**:
+* Section 1.1: Exercises 3, 25, 38
+* Section 1.2: Exercises 3, 8, 16
+* Section 1.3: Exercises 5, 31
+* Section 1.5: Exercises 1, 2, 3, 4
+* Section 1.6: Exercises 21, 25, 26, 35 
+
 **Lecture 2**: to be announced    
 **Lecture 3**: to be announced    
 **Lecture 4**: to be announced    
