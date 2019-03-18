@@ -70,7 +70,7 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 6 | Apr 8 | Lecture 4-1 | Apr 11 | Lecture 4-2 |
 | Week 7 | Apr 15 | *Tutorial 4* | Apr 18 | Lecture 5-1 |
 | Week 8 | Apr 22 | Lecture 5-2 | Apr 25 | *Tutorial 5* |
-| Week 9 | Apr 29 | Review | May 2 | **Mid-term exam** |
+| Week 9 | Apr 29 | **No class** | ~~May 2~~ &#8594; **Apr 27** | **Mid-term exam** |
 | Week 10 | May 6 | Lecture 6-1 | May 9 | Lecture 6-2 |
 | Week 11 | May 13 | *Tutorial 6* | May 16 | Lecture 7-1 |
 | Week 12 | May 20 | Lecture 7-2 | May 23 | *Tutorial 7* |
@@ -80,7 +80,8 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 16 | Jun 17 | Lecture 10-1 | Jun 20 | Lecture 10-2 |
 | Week 17 | Jun 24 | *Tutorial 10* | Jun 27 | Review |
 
-*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*
+~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
+*This schedule has been revised on Mar 18.*
 
 **Introduction**: 1.1-1.5   
 **Lecture 1-1**: 2.1-2.4   

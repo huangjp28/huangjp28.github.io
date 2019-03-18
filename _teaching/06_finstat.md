@@ -71,17 +71,19 @@ Final report: 40%
 | 6 | Chapter 3: Getting started with graphs | Drawing graphs |
 | 7 | Chapter 6: Basic graphs | Bar plots, phi charts, histograms |
 | 8 | Chapter 7: Basic statistics | Descriptive statistics |
-| 9 | Chapter 7: Basic statistics | Tests for means, ANOVA |
-| 10 | Chapter 8: Regression | Linear model |
-| 11 | Chapter 8: Regression | Regression diagnostics |
-| 12 | Chapter 8: Regression | Model assumptions and model selection |
-| 13 | Case study | Case study |
+| 9 | **No class** | **No class** |
+| 10 | Chapter 7: Basic statistics | Tests for means, ANOVA |
+| 11 | Chapter 8: Regression | Linear model |
+| 12 | Chapter 8: Regression | Regression diagnostics |
+| 13 | Chapter 8: Regression | Model assumptions and model selection |
 | 14 | Case study | Case study |
-| 15 | Chapter 8: Regression | Logit model |
-| 16 | Case study | Case study |
-| 17 | Review | Self-study |
+| 15 | Case study | Case study |
+| 16 | Chapter 8: Regression | Logit model |
+| 17 | Case study | Case study |
+| 18 | Review | Self-study |
 
-*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*
+~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
+*This schedule has been revised on Mar 18.*
 
 ---
 #### Lecture Slides

@@ -60,29 +60,31 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | &nbsp; &nbsp; | Tuesday | | Friday | |
 | Week 1 | Mar 5 | Course info and diagnostic test | Mar 18 | Introduction |
 | Week 2 | Mar 12 | Lecture 1-1 | Mar 15 | Lecture 1-2 |
-| Week 3 | Mar 19 | Lecture 1-3 | Mar 22 | *Tutorial 1* |
-| Week 4 | Mar 26 | Lecture 2-1 | Mar 29 | Lecture 2-2 |
-| Week 5 | Apr 2 | Lecture 2-3 | Apr 5 | No class |
-| Week 6 | Apr 9 | *Tutorial 2* | Apr 12 | Lecture 3-1 |
-| Week 7 | Apr 16 | Lecture 3-2 | Apr 19 | Lecture 3-3 |
-| Week 8 | Apr 23 | *Tutorial 3* | Apr 26 | Lecture 4-1 |
-| Week 9 | Apr 30 | Lecture 4-2 | May 3 | Lecture 4-3 |
-| Week 10 | May 7 | *Tutorial 4* | May 10 | **Mid-term exam** |
-| Week 11 | May 14 | Lecture 5-1 | May 17 | Lecture 5-2 |
-| Week 12 | May 21 | Lecture 5-3 | May 24 | *Tutorial 5* |
-| Week 13 | May 28 | Lecture 6-1 | May 31 | Lecture 6-2 |
-| Week 14 | Jun 4 | Lecture 6-3 | Jun 7 | No class |
-| Week 15 | Jun 11 | *Tutorial 6* | Jun 14 | Lecture 7-1 |
-| Week 16 | Jun 18 | Lecture 7-2 | Jun 21 | Lecture 7-3 |
+| Week 3 | Mar 19 | Lecture 1-3 | Mar 22 | Lecture 1-4 |
+| Week 4 | Mar 26 | *Tutorial 1* | Mar 29 | Lecture 2-1 |
+| Week 5 | Apr 2 | Lecture 2-2 | Apr 5 | No class |
+| Week 6 | Apr 9 | Lecture 2-3 | Apr 12 | *Tutorial 2* |
+| Week 7 | Apr 16 | Lecture 3-1 | Apr 19 | Lecture 3-2 |
+| Week 8 | Apr 23 | Lecture 3-3 | Apr 26 | *Tutorial 3* |
+| Week 9 | Apr 30 | **No class** | ~~May 3~~ &#8594; **Apr 28** | **Mid-term exam** |
+| Week 10 | May 7 | Lecture 4-1 | May 10 | Lecture 4-2  |
+| Week 11 | May 14 | Lecture 4-3 | May 17 | *Tutorial 4* |
+| Week 12 | May 21 | Lecture 5-1 | May 24 | Lecture 5-2 |
+| Week 13 | May 28 | Lecture 5-3 | May 31 | *Tutorial 5* |
+| Week 14 | Jun 4 | Lecture 6-1 | Jun 7 | No class |
+| Week 15 | Jun 11 | Lecture 6-2 | Jun 14 | Lecture 6-3 |
+| Week 16 | Jun 18 | *Tutorial 6* | Jun 21 | Lecture 7 |
 | Week 17 | Jun 25 | *Tutorial 7* | Jun 28 | Review |
 
-*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*
+~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
+*This schedule has been revised on Mar 18.*
 
 **Diagnostic test**: algebra, analytic geometry, functions.   
 **Introduction**: the preview section   
 **Lecture 1-1**: 1.1   
 **Lecture 1-2**: 1.2, 1.3   
-**Lecture 1-3**: 1.5, 1.6   
+**Lecture 1-3**: 1.5   
+**Lecture 1-4**: 1.6   
 **Lecture 2-1**: 2.1, 2.2   
 **Lecture 2-2**: 2.3, (2.4)   
 **Lecture 2-3**: 2.5   
@@ -98,19 +100,17 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 6-1**: 3.8   
 **Lecture 6-2**: 3.9   
 **Lecture 6-3**: 3.10   
-**Lecture 7-1**: 4.1, 4.2   
-**Lecture 7-2**: 4.3,   
-**Lecture 7-3**: 4.4, (4.7)   
+**Lecture 7**: 4.1, 4.2   
 
 ---
 #### Take-home Exercises   
 
-**Lecture 1 (due on March 22)**:
+**Lecture 1 (due on March ~~22~~ &#8594; 26)**:
 * Section 1.1: Exercises 3, 25, 38
 * Section 1.2: Exercises 3, 8, 16
 * Section 1.3: Exercises 5, 31
 * Section 1.5: Exercises 1, 2, 3, 4
-* Section 1.6: Exercises 21, 25, 26, 35 
+* Section 1.6: Exercises 21, 25, 26, 35
 
 **Lecture 2**: to be announced    
 **Lecture 3**: to be announced    
