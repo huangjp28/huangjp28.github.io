@@ -58,7 +58,7 @@ Final exam: 60%
 The course has lecture classes and tutorial classes, where in the former we focus on understanding concepts and methods, and in the latter the purpose is how to solve problems. Take-home exercises will be assigned before each tutorial and will be explained during the tutorial. Students must hand in their answers at the beginning of each tutorial class. Answers will be marked, and the best five scores will be recorded as assignments grades.
 
 | &nbsp; &nbsp; | Tuesday | | Friday | |
-| Week 1 | Mar 5 | Course info and diagnostic test | Mar 18 | Introduction |
+| Week 1 | Mar 5 | Course info and diagnostic test | Mar 8 | Introduction |
 | Week 2 | Mar 12 | Lecture 1-1 | Mar 15 | Lecture 1-2 |
 | Week 3 | Mar 19 | Lecture 1-3 | Mar 22 | Lecture 1-4 |
 | Week 4 | Mar 26 | *Tutorial 1* | Mar 29 | Lecture 2-1 |
