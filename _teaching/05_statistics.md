@@ -88,6 +88,7 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 1-2**: 2.5-2.8   
 **Lecture 2-1**: 3.1-3.3   
 **Lecture 2-2**: 3.4-3.6   
+&nbsp; &nbsp; [How to create a box plot in Excel](https://support.office.com/en-us/article/Create-a-box-plot-10204530-8cdf-40fe-a711-2eb9785e510f)
 **Lecture 3-1**: 4.1-4.3   
 **Lecture 3-2**: 4.4, 4.5   
 **Lecture 4-1**: 5.1, 5.2   
@@ -115,7 +116,7 @@ You can find the following problems from the textbook. Write your answers on A4 
   Data needed: [Wonderlic.xls]({{ site.baseurl }}{% link /assets/files/Wonderlic.xls %})
 
 **Lecture 2 (due on March 25)**:   
-* 3.3, 3.6, 3.15, 3.19(a,b,c), 3.24, 3.38, 3.41(a,b), 3.43 
+* 3.3, 3.6, 3.15, 3.19(a,b,c), 3.24, 3.38, 3.41(a,b), 3.43    
 
 **Lecture 3**: to be announced    
 **Lecture 4**: to be announced    
