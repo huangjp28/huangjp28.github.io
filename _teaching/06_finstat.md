@@ -83,7 +83,7 @@ Final report: 40%
 | 18 | Review | Self-study |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-*This schedule has been revised on Mar 18.*
+*This schedule was revised on Mar 18.*
 
 ---
 #### Lecture Slides
@@ -93,13 +93,19 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 1]({{ site.baseurl }}{% link /assets/files/R1.pptx %})
 * [Chapter 2]({{ site.baseurl }}{% link /assets/files/R2.pptx %})
 * [Chapter 4]({{ site.baseurl }}{% link /assets/files/R4.ppt %})
+* [Chapter 5-1]({{ site.baseurl }}{% link /assets/files/R5-1.ppt %})
 
 ---
 #### Assignments
 
-**Assignment 1**: to be announced    
+**Assignment 1 (due on Apr 7 24:00)**: See [Assignment 1]({{ site.baseurl }}{% link /assets/files/RA1.docx %})    
 **Assignment 2**: to be announced    
 **Assignment 3**: to be announced        
 
+* *Submission of assignments*:   
+  Following instructions in each assignment to create report files and send them with an email to **hjpszu %at% 163 . com** (change %at% to @, and remove unnecessary spaces). Your email should have a title in the format   
+  &nbsp; &nbsp; **RFS_Assignment#_studentID_name**   
+  e.g.: &nbsp; RFS_Assignment1_2018123456_张三   
+  You will receive an auto-reply only if your email is with a correct title.
 
 ---

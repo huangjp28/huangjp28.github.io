@@ -81,7 +81,7 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 17 | Jun 24 | *Tutorial 10* | Jun 27 | Review |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-*This schedule has been revised on Mar 18.*
+*This schedule was revised on Mar 18.*
 
 **Introduction**: 1.1-1.5   
 **Lecture 1-1**: 2.1-2.4   
