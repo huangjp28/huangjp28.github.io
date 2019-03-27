@@ -118,7 +118,12 @@ You can find the following problems from the textbook. Write your answers on A4 
 **Lecture 2 (due on March 25)**:   
 * 3.3, 3.6, 3.15, 3.19(a,b,c), 3.24, 3.38, 3.41(a,b), 3.43    
 
-**Lecture 3**: to be announced    
+**Lecture 3 (due on April 4)**:     
+* 4.1, 4.3, 4.6, 4.9, 4.11
+* 4.17, 4.18, 4.20, 4.22
+* 4.30, 4.37
+* 4.40, 4.43, 4.49
+
 **Lecture 4**: to be announced    
 **Lecture 5**: to be announced    
 **Lecture 6**: to be announced    
