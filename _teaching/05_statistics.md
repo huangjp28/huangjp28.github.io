@@ -89,8 +89,8 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 2-1**: 3.1-3.3   
 **Lecture 2-2**: 3.4-3.6   
 &nbsp; &nbsp; [How to create a box plot in Excel](https://support.office.com/en-us/article/Create-a-box-plot-10204530-8cdf-40fe-a711-2eb9785e510f)   
-**Lecture 3-1**: 4.1-4.3   
-**Lecture 3-2**: 4.4, 4.5   
+**Lecture 3-1**: 4.1, 4.2   
+**Lecture 3-2**: 4.3-4.5   
 **Lecture 4-1**: 5.1, 5.2   
 **Lecture 4-2**: 5.3   
 **Lecture 5-1**: 6.1   
