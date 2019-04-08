@@ -54,7 +54,7 @@ Case study
 ---
 #### Grading
 
-Attendance: 6% (Three random roll-calls. On the spot = 3, late = 2.)     
+Attendance: 6% (Three random roll-calls. On the spot = 2, late = 1.)     
 In-class performance: 9% (A = 9, B = 6.)   
 Assignments: 45% (3 times) (A = 15, B = 13, C = 10. Late submission leads to a 20% deduction.)     
 Final report: 40%   
