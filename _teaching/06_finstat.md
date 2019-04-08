@@ -97,6 +97,10 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 5-2]({{ site.baseurl }}{% link /assets/files/R5-2.ppt %})   
 * [Chapter 3]({{ site.baseurl }}{% link /assets/files/R3.ppt %})   
 
+Supplementary materials:
+
+* [The for-loop]({{ site.baseurl }}{% link /assets/pdf/for.pdf %})
+
 
 ---
 #### Assignments
