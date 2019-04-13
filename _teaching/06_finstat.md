@@ -69,7 +69,7 @@ Final report: 40%
 | 4 | Chapter 5: Advanced data management | Probability distributions |
 | 5 | Chapter 5: Advanced data management | Loop, condition |
 | 6 | Chapter 3: Getting started with graphs | Drawing graphs |
-| 7 | Chapter 6: Basic graphs | Bar plots, phi charts, histograms |
+| 7 | Chapter 6: Basic graphs | Bar plots, pie charts, histograms |
 | 8 | Chapter 7: Basic statistics | Descriptive statistics |
 | 9 | **No class** | **No class** |
 | 10 | Chapter 7: Basic statistics | Tests for means, ANOVA |
@@ -96,10 +96,14 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 5-1]({{ site.baseurl }}{% link /assets/files/R5-1.ppt %})
 * [Chapter 5-2]({{ site.baseurl }}{% link /assets/files/R5-2.ppt %})   
 * [Chapter 3]({{ site.baseurl }}{% link /assets/files/R3.ppt %})   
+* [Chapter 6]({{ site.baseurl }}{% link /assets/files/R6.ppt %})   
 
 Supplementary materials:
 
-* [The for-loop]({{ site.baseurl }}{% link /assets/pdf/for.pdf %})
+* [The for-loop]({{ site.baseurl }}{% link /assets/pdf/for.pdf %})   
+* Kernel density estimation:   
+  - From Wikipedia: [Kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)   
+  - Chen, Y.-C. (2017). A tutorial on kernel density estimation and recent advances. *Biostatistics & Epidemiology*, 1:161-187. [[Link]](https://www.tandfonline.com/doi/full/10.1080/24709360.2017.1396742)   
 
 
 ---
