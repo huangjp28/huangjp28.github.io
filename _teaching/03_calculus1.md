@@ -117,7 +117,11 @@ The course has lecture classes and tutorial classes, where in the former we focu
 * Section 2.3: Exercises 2(a,e), 4, 9, 10, 37, 48, 55   
 * Section 2.5: Exercises 3, 4, 14, 39, 56(a)   
 
-**Lecture 3**: to be announced    
+**Lecture 3 (due on April 26)**:    
+* Section 2.6: Exercises 2, 13, 17, 27, 35, 59   
+* Section 2.7: to be announced   
+* Section 2.8: to be announced
+
 **Lecture 4**: to be announced    
 **Lecture 5**: to be announced    
 **Lecture 6**: to be announced    

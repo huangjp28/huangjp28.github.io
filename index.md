@@ -24,3 +24,5 @@ Due to the announcement of spring holiday of Shenzhen University, schedules of c
 Huang, J.-P., Heidergott, B., & Lindner, I. (2019). Naïve Learning in Social Networks with Random Communication. *Social Networks*, 58, 1-11. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378873318300923)
 
 ---
+
+<a href="https://sfdora.org/"><img src="{{ site.baseurl }}{% link /assets/img/Dorabadge1.png %}" alt="DORA" title="DORA" height="50" /></a> 
