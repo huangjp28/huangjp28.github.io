@@ -95,8 +95,8 @@ The course has lecture classes and tutorial classes, where in the former we focu
 &nbsp; &nbsp; [Table of binomial probabilities]({{ site.baseurl }}{% link /assets/pdf/binomial.pdf %})   
 **Lecture 4-2**: 5.3   
 &nbsp; &nbsp; [Table of Poisson probabilities]({{ site.baseurl }}{% link /assets/pdf/poisson.pdf %})   
-**Lecture 5-1**: 6.1   
-**Lecture 5-2**: 6.2, 6.3   
+**Lecture 5-1**: 6.1, 6.2   
+**Lecture 5-2**: 6.3   
 **Lecture 6-1**: 7.1,7.2   
 **Lecture 6-2**: 7.3-7.5   
 **Lecture 7-1**: 8.1, 8.2   
@@ -131,7 +131,10 @@ You can find the following problems from the textbook. Write your answers on A4 
 * 5.9, 5.10, 5.13   
 * 5.18, 5.19, 5.21, 5.26   
 
-**Lecture 5**: to be announced    
+**Lecture 5 (due on April 25)**:    
+* 6.1, 6.2, 6.5, 6.6, 6.10    
+* to be continued   
+
 **Lecture 6**: to be announced    
 **Lecture 7**: to be announced   
 **Lecture 8**: to be announced    
