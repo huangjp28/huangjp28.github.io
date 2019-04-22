@@ -70,9 +70,9 @@ Final report: 40%
 | 5 | Chapter 5: Advanced data management | Loop, condition |
 | 6 | Chapter 3: Getting started with graphs | Drawing graphs |
 | 7 | Chapter 6: Basic graphs | Bar plots, pie charts, histograms |
-| 8 | Chapter 7: Basic statistics | Descriptive statistics |
+| 8 | Chapter 7: Basic statistics | Descriptive statistics, tables |
 | 9 | **No class** | **No class** |
-| 10 | Chapter 7: Basic statistics | Tests for means, ANOVA |
+| 10 | Chapter 7: Basic statistics | Tests for means |
 | 11 | Chapter 8: Regression | Linear model |
 | 12 | Chapter 8: Regression | Regression diagnostics |
 | 13 | Chapter 8: Regression | Model assumptions and model selection |
