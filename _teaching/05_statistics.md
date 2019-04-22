@@ -133,7 +133,8 @@ You can find the following problems from the textbook. Write your answers on A4 
 
 **Lecture 5 (due on April 25)**:    
 * 6.1, 6.2, 6.5, 6.6, 6.10    
-* to be continued   
+* 6.14, 6.15, 6.17   
+  Data needed: [BBCost2010.xls]({{ site.baseurl }}{% link /assets/files/BBCost2010.xls %})
 
 **Lecture 6**: to be announced    
 **Lecture 7**: to be announced   

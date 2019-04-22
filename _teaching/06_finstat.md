@@ -97,6 +97,8 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 5-2]({{ site.baseurl }}{% link /assets/files/R5-2.ppt %})   
 * [Chapter 3]({{ site.baseurl }}{% link /assets/files/R3.ppt %})   
 * [Chapter 6]({{ site.baseurl }}{% link /assets/files/R6.ppt %})   
+* [Chapter 7-1]({{ site.baseurl }}{% link /assets/files/R7-1.ppt %})   
+
 
 Supplementary materials:
 
