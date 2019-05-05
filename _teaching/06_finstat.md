@@ -98,6 +98,7 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 3]({{ site.baseurl }}{% link /assets/files/R3.ppt %})   
 * [Chapter 6]({{ site.baseurl }}{% link /assets/files/R6.ppt %})   
 * [Chapter 7-1]({{ site.baseurl }}{% link /assets/files/R7-1.ppt %})   
+* [Chapter 7-2]({{ site.baseurl }}{% link /assets/files/R7-2.ppt %})   
 
 
 Supplementary materials:
@@ -112,7 +113,7 @@ Supplementary materials:
 #### Assignments
 
 **Assignment 1 (due on Apr 7 24:00)**: See [Assignment 1]({{ site.baseurl }}{% link /assets/files/RA1.docx %})    
-**Assignment 2**: to be announced    
+**Assignment 2 (due on May 19 24:00)**: See [Assignment 2]({{ site.baseurl }}{% link /assets/files/RA2.docx %})       
 **Assignment 3**: to be announced        
 
 * *Submission of assignments*:   
