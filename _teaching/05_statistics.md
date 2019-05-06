@@ -136,7 +136,10 @@ You can find the following problems from the textbook. Write your answers on A4 
 * 6.14, 6.15, 6.17   
   Data needed: [BBCost2010.xls]({{ site.baseurl }}{% link /assets/files/BBCost2010.xls %})
 
-**Lecture 6**: to be announced    
+**Lecture 6 (due on May 13)**:    
+* 7.3, 7.4, 7.5   
+* 7.15, 7.19, 7.21, 7.23, 7.25   
+
 **Lecture 7**: to be announced   
 **Lecture 8**: to be announced    
 **Lecture 9**: to be announced    
