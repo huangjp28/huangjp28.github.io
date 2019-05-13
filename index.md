@@ -5,9 +5,9 @@ permalink: /
 ---
 
 ---
-Welcome to my website!
+Welcome to the website of Jia-Ping HUANG (黄嘉平)!
 
-My name is Jia-Ping HUANG (黄嘉平). I am an assistant professor at Shenzhen Univerisity, China. I have been granted a degree of PhD in Engineering from University of Tsukuba, Japan, and a degree of Doctor of Philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (VU University Amsterdam), the Netherlands. My current research interests include, but are not limited to,
+I am an assistant professor at Shenzhen Univerisity, China. I have been granted a degree of PhD in Engineering from University of Tsukuba, Japan, and a degree of Doctor of Philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (VU University Amsterdam), the Netherlands. My current research interests include, but are not limited to,
 * cooperative game theory,   
 * social and economic networks,   
 * mathematical economics.   
@@ -16,8 +16,10 @@ More information about me can be found in the [Curriculum Vitae]({{ site.baseurl
 
 ---
 
-### News!
+### News in 2019
 
+* **May 13, 2019** &nbsp; About final exams and teaching schedules    
+The dates of final exam have been determined for [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) and [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}). The teaching schedules of these two courses are changed correspondingly.   
 * **Mar 18, 2019** &nbsp; Change of teaching schedules    
 Due to the announcement of spring holiday of Shenzhen University, schedules of courses in the spring semester ([Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}), [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}), [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %})) are revised.    
 * **Feb 8, 2019** &nbsp; New publication on *Social Networks*   
@@ -25,4 +27,4 @@ Huang, J.-P., Heidergott, B., & Lindner, I. (2019). Naïve Learning in Social Ne
 
 ---
 
-<a href="https://sfdora.org/"><img src="{{ site.baseurl }}{% link /assets/img/Dorabadge1.png %}" alt="DORA" title="DORA" height="50" /></a> 
+<a href="https://sfdora.org/"><img src="{{ site.baseurl }}{% link /assets/img/Dorabadge1.png %}" alt="DORA" title="DORA" height="50" /></a>

@@ -78,7 +78,7 @@ Final report: 40%
 | 13 | Chapter 8: Regression | Model assumptions and model selection |
 | 14 | Case study | Case study |
 | 15 | Case study | Case study |
-| 16 | Chapter 8: Regression | Logit model |
+| 16 | Chapter 13: Regression | Logit model |
 | 17 | Case study | Case study |
 | 18 | Review | Self-study |
 
@@ -99,6 +99,7 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 6]({{ site.baseurl }}{% link /assets/files/R6.ppt %})   
 * [Chapter 7-1]({{ site.baseurl }}{% link /assets/files/R7-1.ppt %})   
 * [Chapter 7-2]({{ site.baseurl }}{% link /assets/files/R7-2.ppt %})   
+* [Chapter 8-1]({{ site.baseurl }}{% link /assets/files/R8-1.ppt %})   
 
 
 Supplementary materials:

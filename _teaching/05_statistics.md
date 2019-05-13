@@ -72,16 +72,17 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 8 | Apr 22 | Lecture 5-2 | Apr 25 | *Tutorial 5* |
 | Week 9 | Apr 29 | **No class** | ~~May 2~~ &#8594; **Apr 27** | **Mid-term exam** |
 | Week 10 | May 6 | Lecture 6-1 | May 9 | Lecture 6-2 |
-| Week 11 | May 13 | *Tutorial 6* | May 16 | Lecture 7-1 |
-| Week 12 | May 20 | Lecture 7-2 | May 23 | *Tutorial 7* |
-| Week 13 | May 27 | Lecture 8-1 | May 30 | Lecture 8-2 |
-| Week 14 | Jun 3 | *Tutorial 8* | Jun 6 | Lecture 9-1 |
-| Week 15 | Jun 10 | Lecture 9-2 | Jun 13 | *Tutorial 9* |
-| Week 16 | Jun 17 | Lecture 10-1 | Jun 20 | Lecture 10-2 |
-| Week 17 | Jun 24 | *Tutorial 10* | Jun 27 | Review |
+| Week 11 | May 13 | Review | May 16 | *Tutorial 6* |
+| Week 12 | May 20 | Lecture 7-1 | May 23 | Lecture 7-2 |
+| Week 13 | May 27 | *Tutorial 7* | May 30 | Lecture 8-1 |
+| Week 14 | Jun 3 | Lecture 8-2 | Jun 6 | *Tutorial 8* |
+| Week 15 | Jun 10 | Lecture 9-1 | Jun 13 | Lecture 9-2 |
+| Week 16 | Jun 17 | *Tutorial 9* | Jun 20 | Review |
+| Week 17 | Jun 24 | **Final exam** | Jun 27 | No class |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-*This schedule was revised on Mar 18.*
+~~*This schedule was revised on Mar 18.*~~   
+*This schedule was revised on May 13.*   
 
 **Introduction**: 1.1-1.5   
 **Lecture 1-1**: 2.1-2.4   
@@ -99,14 +100,12 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 5-2**: 6.3   
 **Lecture 6-1**: 7.1,7.2   
 **Lecture 6-2**: 7.3-7.5   
-**Lecture 7-1**: 8.1, 8.2   
-**Lecture 7-2**: 8.3-8.5   
+**Lecture 7-1**: 8.1      
+**Lecture 7-2**: 8.2, 8.4   
 **Lecture 8-1**: 9.1, 9.2   
-**Lecture 8-2**: 9.3, 9.4   
+**Lecture 8-2**: 9.3   
 **Lecture 9-1**: 12.1, 12.2   
-**Lecture 9-2**: 12.3, 12.4   
-**Lecture 10-1**: 12.5, 12.6   
-**Lecture 10-2**: 12.7-12.9   
+**Lecture 9-2**: 12.7      
 
 ---
 #### Take-home Exercises
@@ -142,8 +141,7 @@ You can find the following problems from the textbook. Write your answers on A4 
 
 **Lecture 7**: to be announced   
 **Lecture 8**: to be announced    
-**Lecture 9**: to be announced    
-**Lecture 10**: to be announced    
+**Lecture 9**: to be announced        
 
 
 ---

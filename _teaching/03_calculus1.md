@@ -68,16 +68,17 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 8 | Apr 23 | Lecture 3-3 | Apr 26 | *Tutorial 3* |
 | Week 9 | Apr 30 | **No class** | ~~May 3~~ &#8594; **Apr 28** | **Mid-term exam** |
 | Week 10 | May 7 | Lecture 4-1 | May 10 | Lecture 4-2  |
-| Week 11 | May 14 | Lecture 4-3 | May 17 | *Tutorial 4* |
-| Week 12 | May 21 | Lecture 5-1 | May 24 | Lecture 5-2 |
-| Week 13 | May 28 | Lecture 5-3 | May 31 | *Tutorial 5* |
-| Week 14 | Jun 4 | Lecture 6-1 | Jun 7 | No class |
-| Week 15 | Jun 11 | Lecture 6-2 | Jun 14 | Lecture 6-3 |
-| Week 16 | Jun 18 | *Tutorial 6* | Jun 21 | Lecture 7 |
-| Week 17 | Jun 25 | *Tutorial 7* | Jun 28 | Review |
+| Week 11 | May 14 | Lecture 4-3 | May 17 | Review |
+| Week 12 | May 21 | *Tutorial 4* | May 24 | Lecture 5-1 |
+| Week 13 | May 28 | Lecture 5-2 | May 31 | Lecture 5-3 |
+| Week 14 | Jun 4 | *Tutorial 5* | Jun 7 | No class |
+| Week 15 | Jun 11 | Lecture 6-1 | Jun 14 | Lecture 6-2 |
+| Week 16 | Jun 18 | *Tutorial 6* | Jun 21 | Review |
+| Week 17 | Jun 25 | **Final exam** | Jun 28 | No class |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-*This schedule was revised on Mar 18.*
+~~*This schedule was revised on Mar 18.*~~   
+*This schedule was revised on May 13.*   
 
 **Diagnostic test**: algebra, analytic geometry, functions.   
 **Introduction**: the preview section   
@@ -96,11 +97,10 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 4-3**: 3.4   
 **Lecture 5-1**: 3.5   
 **Lecture 5-2**: 3.6   
-**Lecture 5-3**: 3.7   
-**Lecture 6-1**: 3.8   
-**Lecture 6-2**: 3.9   
-**Lecture 6-3**: 3.10   
-**Lecture 7**: 4.1, 4.2   
+**Lecture 5-3**: 3.7, 3.8   
+**Lecture 6-1**: 4.1, 4.2   
+**Lecture 6-2**: 4.3   
+
 
 ---
 #### Take-home Exercises   
@@ -125,10 +125,10 @@ The course has lecture classes and tutorial classes, where in the former we focu
 **Lecture 4 (due on May 17)**:   
 * Section 3.1: Exercises 7, 10, 14, 19, 27, 51   
 * Section 3.2: Exercises 1, 2, 3, 16   
-* Section 3.3: to be announced   
+* Section 3.4: Exercises 2, 3, 5, 6      
 
 **Lecture 5**: to be announced    
 **Lecture 6**: to be announced    
-**Lecture 7**: to be announced    
+
 
 ---
