@@ -139,7 +139,10 @@ You can find the following problems from the textbook. Write your answers on A4 
 * 7.3, 7.4, 7.5   
 * 7.15, 7.19, 7.21, 7.23, 7.25   
 
-**Lecture 7**: to be announced   
+**Lecture 7 (due on May 27)**:   
+* 8.1, 8.2, 8.9   
+* to be continued   
+
 **Lecture 8**: to be announced    
 **Lecture 9**: to be announced        
 
