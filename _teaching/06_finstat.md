@@ -76,14 +76,14 @@ Final report: 40%
 | 11 | Chapter 8: Regression | Linear model |
 | 12 | Chapter 8: Regression | Regression diagnostics |
 | 13 | Chapter 8: Regression | Model assumptions and model selection |
-| 14 | Case study | Case study |
+| 14 | Chapter 13: Regression | Logit model |
 | 15 | Case study | Case study |
-| 16 | Chapter 13: Regression | Logit model |
+| 16 | Case study | Case study |
 | 17 | Case study | Case study |
-| 18 | Review | Self-study |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-*This schedule was revised on Mar 18.*
+~~*This schedule was revised on Mar 18.*~~
+This schedule was revised on May 20.*
 
 ---
 #### Lecture Slides
@@ -117,7 +117,7 @@ Supplementary materials:
 
 **Assignment 1 (due on Apr 7 24:00)**: See [Assignment 1]({{ site.baseurl }}{% link /assets/files/RA1.docx %})    
 **Assignment 2 (due on May 19 24:00)**: See [Assignment 2]({{ site.baseurl }}{% link /assets/files/RA2.docx %})       
-**Assignment 3**: to be announced        
+**Assignment 3 (due on June 9 24:00)**: See [Assignment 3]({{ site.baseurl }}{% link /assets/files/RA3.docx %}). Data file [alumni_giving_rate.csv]({{ site.baseurl }}{% link /assets/files/alumni_giving_rate.csv %})       
 
 * *Submission of assignments*:   
   Following instructions in each assignment to create report files and send them with an email to **hjpszu %at% 163 . com** (change %at% to @, and remove unnecessary spaces). Your email should have a title in the format   
