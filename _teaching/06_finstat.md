@@ -82,8 +82,8 @@ Final report: 40%
 | 17 | Case study | Case study |
 
 ~~*Since the spring holiday of Shenzhen University is not officially announced, this schedule is subject to change. Usually the holiday takes place on the first week of May.*~~   
-~~*This schedule was revised on Mar 18.*~~
-This schedule was revised on May 20.*
+~~*This schedule was revised on Mar 18.*~~   
+This schedule was revised on May 20.   
 
 ---
 #### Lecture Slides

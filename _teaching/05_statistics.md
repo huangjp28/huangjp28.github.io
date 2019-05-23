@@ -141,7 +141,8 @@ You can find the following problems from the textbook. Write your answers on A4 
 
 **Lecture 7 (due on May 27)**:   
 * 8.1, 8.2, 8.9   
-* to be continued   
+* 8.11, 8.12, 8.13, 8.14   
+* 8.34, 8.35, 8.39      
 
 **Lecture 8**: to be announced    
 **Lecture 9**: to be announced        
