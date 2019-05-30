@@ -144,7 +144,11 @@ You can find the following problems from the textbook. Write your answers on A4 
 * 8.11, 8.12, 8.13, 8.14   
 * 8.34, 8.35, 8.39      
 
-**Lecture 8**: to be announced    
+**Lecture 8 (due on June 6)**:   
+* 9.1, 9.3, 9.6, 9.14   
+* 9.18, 9.19, 9.20, 9.21, 9.24   
+* 9.46
+    
 **Lecture 9**: to be announced        
 
 
