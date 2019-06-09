@@ -103,6 +103,10 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Chapter 8-2]({{ site.baseurl }}{% link /assets/files/R8-2.ppt %})   
 * [Chapter 8-3]({{ site.baseurl }}{% link /assets/files/R8-3.ppt %})   
 * [Chapter 13]({{ site.baseurl }}{% link /assets/files/R13.pptx %})   
+* [Case 1]({{ site.baseurl }}{% link /assets/files/RC1.ppt %})   
+  Data file [[jobinfo.xlsx]]({{ site.baseurl }}{% link /assets/files/jobinfo.xlsx %})   
+  Source code [[jobinfo_lm.R]]({{ site.baseurl }}{% link /assets/files/jobinfo_lm.R %})   
+
 
 Supplementary materials:
 
@@ -124,5 +128,19 @@ Supplementary materials:
   &nbsp; &nbsp; **RFS_Assignment#_studentID_name**   
   e.g.: &nbsp; RFS_Assignment1_2018123456_张三   
   You will receive an auto-reply only if your email is with a correct title.
+
+---
+#### Final Report
+
+**The final report (due on June 28 13:00)**: See [Final Report]({{ site.baseurl }}{% link /assets/files/RFR.docx %}). Data file [customer_analysis.csv]({{ site.baseurl }}{% link /assets/files/customer_analysis.csv %})
+
+* *Submission of the final report*:   
+  1. Following instructions to create code and report files and send them with an email to **hjpszu %at% 163 . com** (change %at% to @, and remove unnecessary spaces). Your email should have a title in the format   
+  &nbsp; &nbsp; **RFS_FinalReport_studentID_name**   
+  e.g.: &nbsp; RFS_FinalReport_2018123456_张三   
+  You will receive an auto-reply only if your email is with a correct title.   
+  The official report title page can be downloaded [here](https://jwb.szu.edu.cn/info/1074/1077.htm). You need to attach it to your report.
+  2. In addition to 1, print out your report (not source code) with the official title page, and bring it to Wen Ke Lou 2613 between **13:00 and 17:00 of June 28 (Friday)**.
+
 
 ---
