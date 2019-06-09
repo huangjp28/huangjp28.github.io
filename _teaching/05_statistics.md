@@ -148,8 +148,11 @@ You can find the following problems from the textbook. Write your answers on A4 
 * 9.1, 9.3, 9.6, 9.14   
 * 9.18, 9.19, 9.20, 9.21, 9.24   
 * 9.46
-    
-**Lecture 9**: to be announced        
+
+**Lecture 9 (due on June 17)**:   
+* 12.1, 12.2, 12.6, 12.9   
+  Data needed: [Moving.xls]({{ site.baseurl }}{% link /assets/files/Moving.xls %}), [Rent.xls]({{ site.baseurl }}{% link /assets/files/Rent.xls %})   
+* 12.40, 12.43, 12.47   
 
 
 ---
