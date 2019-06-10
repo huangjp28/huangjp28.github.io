@@ -133,7 +133,9 @@ The course has lecture classes and tutorial classes, where in the former we focu
 * Section 3.7: 32, 33   
 * Section 3.8: 18(a), 20   
 
-**Lecture 6**: to be announced    
-
+**Lecture 6 (due on June 18)**:   
+* Section 4.1: 31, 35, 43, 48, 61   
+* Section 4.2: 5, 13, 15   
+* Section 4.3: 10, 36, 42   
 
 ---
