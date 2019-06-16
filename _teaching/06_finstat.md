@@ -106,6 +106,8 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
 * [Case 1]({{ site.baseurl }}{% link /assets/files/RC1.ppt %})   
   Data file [[jobinfo.xlsx]]({{ site.baseurl }}{% link /assets/files/jobinfo.xlsx %})   
   Source code [[jobinfo_lm.R]]({{ site.baseurl }}{% link /assets/files/jobinfo_lm.R %})   
+* [Case 2]({{ site.baseurl }}{% link /assets/files/RC2.pdf %})   
+  Source code [[Options.R]]({{ site.baseurl }}{% link /assets/files/Options.R %})
 
 
 Supplementary materials:
