@@ -6,95 +6,85 @@ permalink: /teaching/calculus2.html
 ---
 
 ---
-### Calculus II (spring 2018)
+### Calculus II (fall 2019)
 ##### aka Advanced Mathematics C(2)
 
-This is a subsequent course of Calculus I, aka Advanced Mathematics C(1). You will learn exponential and logarithmic functions, integration, and calculus for several variables in this course. The main focus will be integration, which is the inverse operation of differentiation.
+This is the subsequent course of Calculus 1, aka Advanced Mathematics C(1). This course covers the second half of calculus for business and economics students. The focus of this course is integrals, techniques of integration, and applications. As in Calculus 1, topics with trigonometric and hyperbolic functions are not covered.
 
 ---
 #### Course Information
 
-**Course ID**: 0203990002   
-**Lecture time**: Tuesday/Thursday, Class 3-4 (10:20-11:50)   
-**Classroom**: Wenke Building H1-103   
+**Course ID**: 0208490001   
+**Credit**: 4    
+**Lecture time**: Session 5-6 (14:30:20-16:00 up to Sep 30, 14:00-15:30 from Oct 1) on Tuesday/Thursday    
+**Classroom**: H1-502 Liberal Arts Building (Wen Ke Lou)   
 **Instructor**: Dr. Jia-Ping Huang   
-**Office hour**: Monday 13:00-14:00   
+**Office hour**: Thursday 16:00-17:00, 2613 Liberal Arts Building   
 **E-mail**: huangjp #at# szu . edu . cn
 
 ---
 #### Prerequisites
 
-Knowledge of Calculus I, aka Advanced Mathematics C(1).
+Attendance of Calculus 1 is requisite. A graphical calculator may be useful for self-study but is not necessary for the course and is forbad in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
 
 ---
 #### Textbook
 
-Hoffmann, L. D. and Bradley, G. L. (2010). *Calculus for Business, Economics, and the Social and Life Sciences*, Brief Tenth Edition. McGraw-Hill Higher Education.
+James Stewart (2012). *Calculus: Early Transcendentals*, International Metric Edition, Seventh Edition. Brooks/Cole, Cengage Learnning.   
+Published in China as 《微积分（第7版）（上册）影印版》, James Stewart, 高等教育出版社, ISBN: 978-7-04-039620-1.
+
+* [Review of Algebra]({{ site.baseurl }}{% link /assets/pdf/Stewart_algebra.pdf %})   
+* [Review of Analytic Geometry]({{ site.baseurl }}{% link /assets/pdf/Stewart_analgeom.pdf %})   
 
 ---
 #### Topics to be Covered
 
-Ch. 4  Exponential and Logarithmic Functions: 4.1-4.3   
-Ch. 5  Integration: 5.1-5.4, (5.5)   
-Ch. 6  Additional Topics in Integration: 6.1   
-Ch. 7  Calculus of Several Variables: 7.1, 7.2, (7.6)
+Chapter 5: Integrals   
+Chapter 6: Applications of Integration   
+Chapter 7: Techniques of Integration   
+Chapter 8: Further Application of Integration   
 
 ---
 #### Grading
 
-Attitude and performance during lectures: 40%   
-Final exam: 60%
-
----
-#### Attendance
-
-Attendance is required and will be recorded. However, the evaluation is not based on the attendance. Instead, a good manner in class and after class is taken into account.
+Attendance: 10%   
+Mini tests: 20% (twice, open-book)   
+Homework: 10% (10 times)   
+Final exam: 60%   
 
 ---
 #### Schedule
 
-|  | Tuesday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Thursday |
-| Week 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Review | 4.1 (1) |
-| Week 2 | 4.1 (2) | Tutorial (1) |
-| Week 3 | 4.2 (1) | 4.2 (2) |
-| Week 4 | Tutorial (2) | 4.3 (1) |
-| Week 5 | 4.3 (2) | no class |
-| Week 6 | Tutorial (3) | 5.1 (1) |
-| Week 7 | 5.1 (2) | Tutorial (4) |
-| Week 8 | 5.2 (1) | 5.2 (2) |
-| Week 9 | no class | **Tutorial (5)** -- move to April 29 (Sunday) |    
-| Week 10 | 5.3 (1) | 5.3 (2) |
-| Week 11 | Tutorial (6) | 5.4 (1) |
-| Week 12 | 5.4 (2) or 5.5 | Tutorial (7) |
-| Week 13 | 6.1 (1) | 6.2 (2) |
-| Week 14 | Tutorial (8) | 7.1 (1) |
-| Week 15 | 7.1 (2) | Tutorial (9) |
-| Week 16 | 7.2 (1) | 7.2 (2) or 7.6 |
-| Week 17 | Tutorial (10) | Review and Q&A |
+The course has lecture classes and tutorial classes, where in the former we focus on understanding concepts and methods, and in the latter the purpose is how to solve problems. Two open-book mini tests will take place and the answers will be graded.
+
+
+| &nbsp; &nbsp; | Tuesday | | Thursday | |
+| Week 1 | Sep 3 | Review of differentiation, intro to integration | Sep 5 | Lecture 5.1 (1) |
+| Week 2 | Sep 10 | Tutorial | Sep 12 | Lecture 5.1 (2) |
+| Week 3 | Sep 17 | Tutorial | Sep 19 | Lecture 5.2 (1) |
+| Week 4 | Sep 24 | Tutorial | Sep 26 | Lecture 5.2 (2) |
+| Week 5 | Oct 1 | **No class** | Oct 3 | **No class** |
+| Week 6 | Oct 8 | Tutorial | Oct 10 | *Mini test (1)* |
+| Week 7 | Oct 15 | Review of mini test | Oct 17 | Lecture 5.3 (1) |
+| Week 8 | Oct 22 | Tutorial | Oct 24 | Lecture 5.3 (2) |
+| Week 9 | Oct 29 | Tutorial | Oct 31 | Lecture 5.4 |
+| Week 10 | Nov 5 | Tutorial | Nov 7 | Lecture 5.5  |
+| Week 11 | Nov 12 | Tutorial | Nov 14 | *Mini test (2)* |
+| Week 12 | Nov 19 | Review of mini test | Nov 21 | Lecture 6.1 |
+| Week 13 | Nov 26 | Tutorial | Nov 28 | Lecture Gini index, 6.5, 8.4 |
+| Week 14 | Dec 3 | Tutorial | Dec 5 | Lecture 7.1 |
+| Week 15 | Dec 10 | Tutorial | Dec 12 | Lecture 7.4 (1) |
+| Week 16 | Dec 17 | Tutorial | Dec 19 | Lecture 7.4 (2), 7.5 |
+| Week 17 | Dec 24 | Tutorial | Dec 26 | Review |
+
+*This schedule is subject to change due to the sports day of Shenzhen University, whose date usually will be announced in November.*
 
 ---
-#### Take-home Exercises
+#### About tutorial and homework
 
-Numbers are problems in the exercise sections of the textbook. Selected problems will be explained in the tutorial classes.   
+In the tutorial classes some selected exercises from the textbook will be explained. After each tutorial class you can write down the answers of the exercises having been explained as homework. In order to get the 10% scores from homework you need to hand in at least 10 times.
 
-**Sec 4.1 (1)**: Exercises 4.1 -- 13a, 15a, 19, 27, 31 (without using a graphing calculator), 47, 69, 79.   
-**Sec 4.1 (2)**: Exercises 4.1 -- 35bc, 39, 51, 57, 59.   
-**Sec 4.2 (1)**: Exercises 4.2 -- 11, 13, 23, 71, 87.    
-**Sec 4.2 (2)**: Exercises 4.2 -- 7, 15, 17, 19, 27, 33, 41, 45, 57.    
-**Sec 4.3 (1)**: Exercises 4.3 -- 7, 11, 15, 19, 23, 29, 41, 45, 51.    
-**Sec 4.3 (2)**: Exercises 4.3 -- 35, 37, 53, 55, 59, 71, 93.    
-**Sec 5.1 (1)**: Exercises 5.1 -- 5, 11, 15, 19, 21, 25, 27.    
-**Sec 5.1 (2)**: Exercises 5.1 -- 31, 33, 39, 41, 45, 51, 65.    
-**Sec 5.2 (1)**: Exercises 5.2 -- 3, 5, 9, 13, 17, 21.    
-**Sec 5.2 (2)**: Exercises 5.2 -- 29, 35, 51, 65, 67.    
-**Sec 5.3 (1)**: Exercises 5.3 -- 3, 7, 9, 15, 39, 43, 51.    
-**Sec 5.3 (2)**: Exercises 5.3 -- 19, 25, 37, 41, 53, 71a.    
-**Sec 5.4 (1)**: Exercises 5.4 -- 1, 3, 5, 11, 31, 43.    
-**Sec 5.4 (2)**: Exercises 5.4 -- 19, 23, 35, 37.    
-**Sec 6.1 (1)**: Exercises 6.1 -- 3, 5, 9, 15, 19, 39.    
-**Sec 6.1 (2)**: Exercises 6.1 -- 25, 35, 57, 61.    
-**Sec 7.1**: Exercises 7.1 -- 7, 19, 21, 33.    
-**Sec 7.2**: Exercises 7.2 -- 5, 7, 11, 13.    
-**Sec 7.6**: Exercises 7.6 -- 3, 13, 15.    
+
+
 
 ---
