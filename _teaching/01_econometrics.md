@@ -11,7 +11,7 @@ permalink: /teaching/econometrics.html
 
 This is the support page for **Econometrics I**. You can find materials (slides, sample programs, assignments) and other information for the course.
 
-We use gretl in this course. As a preparation you need to install the software into your own laptop computer and bring it to the classroom. [Here]() is a brief guide of how to install and use gretl.
+We use gretl in this course. As a preparation you need to install the software into your own laptop computer and bring it to the classroom. [Here]({{ site.baseurl }}{% link /assets/pdf/introgretl.pdf %}) is a brief guide of how to install and use gretl.
 
 ---
 #### Course Information

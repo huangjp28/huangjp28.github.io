@@ -82,7 +82,7 @@ The course has lecture classes and tutorial classes, where in the former we focu
 ---
 #### About tutorial and homework
 
-In the tutorial classes some selected exercises from the textbook will be explained. After each tutorial class you can write down the answers of the exercises having been explained as homework. In order to get the 10% scores from homework you need to hand in at least 10 times.
+Each tutorial class has two sessions. The first session is given to you to solve some selected exercises from the textbook. In the second session the exercises will be explained. After each tutorial class you can write down the answers of the exercises as homework and submit it in the next class. In order to get the 10% scores from homework you need to hand in at least 10 times.
 
 
 
