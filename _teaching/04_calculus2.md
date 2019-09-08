@@ -84,6 +84,13 @@ The course has lecture classes and tutorial classes, where in the former we focu
 
 Each tutorial class has two sessions. The first session is given to you to solve some selected exercises from the textbook. In the second session the exercises will be explained. After each tutorial class you can write down the answers of the exercises as homework and submit it in the next class. In order to get the 10% scores from homework you need to hand in at least 10 times.
 
+**Exercises for tutorials**
+
+* Sep 10    
+  1. Section 5.1: Exercises 1   
+  2. Prove that $1 + 2 + \dots + n = \tfrac{n(n+1)}{2}$   
+    Hint: observe that $1 + n = 2 + (n-1) = \dots = n+1$   
+  3. Find a formula for $k + (k+1) + \dots + n$ for any integer $k$ and $n$ such that $1 \leq k \leq n-1$
 
 
 
