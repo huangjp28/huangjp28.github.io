@@ -90,7 +90,7 @@ Each tutorial class has two sessions. The first session is given to you to solve
   1. Section 5.1: Exercises 1   
   2. Prove \\[1 + 2 + \dots + n = \frac{n(n+1)}{2}\\]   
     Hint: observe that \\(1 + n = 2 + (n-1) = \dots = n+1\\)   
-  3. Find a formula for \\[k + (k+1) + \dots + n\\] for any integer *k* and *n* such that \\[1 \leq k \leq n-1\\]
+  3. Find a formula for the sum \\[k + (k+1) + \dots + n\\] for any integer \\(k\\) and \\(n\\) such that \\(1 \leq k \leq n-1\\)
 
 
 
