@@ -23,7 +23,7 @@ Published in China as 《计量经济学：第三版》英文版，斯托克、�
 京东: <https://item.jd.com/11583008.html>   
 当当网: <http://product.dangdang.com/23621137.html>    
 **Software**:   
-Gretl (GNE Regression, Econometrics and Time-series Library). For more information see its homepage <http://gretl.sourceforge.net/>.
+Gretl (GNE Regression, Econometrics and Time-series Library). For more information see its homepage <http://gretl.sourceforge.net/>.   
 **Instructor**: Dr. Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Thursday 16:00-17:00      
