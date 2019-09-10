@@ -9,7 +9,7 @@ permalink: /teaching/econometrics.html
 ---
 ### Econometrics I (fall 2019)
 
-This is the support page for **Econometrics I**. You can find materials (slides, sample programs, assignments) and other information for the course.
+This is the homepage for **Econometrics I**. You can find materials (slides, sample programs, assignments) and other useful information for the course.
 
 We use gretl in this course. As a preparation you need to install the software into your own laptop computer and bring it to the classroom. [Here]({{ site.baseurl }}{% link /assets/pdf/introgretl.pdf %}) is a brief guide of how to install and use gretl.
 
@@ -22,6 +22,8 @@ James H. Stock & Mark W. Watson, *Introduction to Econometrics*, 3rd Edition, 20
 Published in China as 《计量经济学：第三版》英文版，斯托克、沃森著，格致出版社，2015. ISBN: 978-7-5432-2227-4.    
 京东: <https://item.jd.com/11583008.html>   
 当当网: <http://product.dangdang.com/23621137.html>    
+**Software**:   
+Gretl (GNE Regression, Econometrics and Time-series Library). For more information see its homepage <http://gretl.sourceforge.net/>.
 **Instructor**: Dr. Jia-Ping HUANG   
 **E-mail**: huangjp #at# szu . edu . cn  
 **Office hours**: Thursday 16:00-17:00      
@@ -30,13 +32,58 @@ Published in China as 《计量经济学：第三版》英文版，斯托克、�
 ---
 #### Schedule and Materials
 
-To be uploaded ...
+* **Lecture 1** (Sep 16, Week 3)
+  - Introduction   
+
+* **Lecture 2** (Sep 23, Week 4)
+  - Basic functions of gretl   
+
+* **Lecture 3** (Sep 30, Week 5)
+  - Writing scripts in gretl   
+
+* **Lecture 4** (~~Oct7~~ &#8594; **Oct 12**, Week 6)
+  - to be announced ...   
+
+* **Lecture 5** (Oct 14, Week 7)
+  - to be announced ...   
+
+* **Lecture 6** (Oct 21, Week 8)
+  - to be announced ...   
+
+* **Lecture 7** (Oct 28, Week 9)
+  - to be announced ...   
+
+* **Lecture 8** (Nov 4, Week 10)
+  - to be announced ...   
+
+* **Lecture 9** (Nov 11, Week 11)
+  - to be announced ...   
+
+* **Lecture 10** (Nov 18, Week 12)
+  - to be announced ...   
+
+* **Lecture 11** (Nov 25, Week 13)
+  - to be announced ...   
+
+* **Lecture 12** (Dec 2, Week 14)
+  - to be announced ...   
+
+* **Lecture 13** (Dec 9, Week 15)
+  - to be announced ...   
+
+* **Lecture 14** (Dec 16, Week 16)
+  - to be announced ...   
+
+* **Lecture 15** (Dec 23, Week 17)
+  - to be announced ...   
+
+* **Final exam** (Dec 30, Week 18)
 
 
 ---
 #### Assignments
 
-To be uploaded ...
+To be announced ...
 
 
 ---
@@ -77,7 +124,7 @@ To be uploaded ...
 1. Studenmund, A. H., *Using Econometrics: A Practical Guide*, 6th Edition, Pearson, 2011.
 
 ---
-#### Further Reading
+#### Further Readings
 
 **Introductory level**
 
