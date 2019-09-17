@@ -33,49 +33,49 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 #### Schedule and Materials
 
 * **Lecture 1** (Sep 16, Week 3)
-  - Introduction   
+  - Introduction -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture1_online.pdf %})   
 
 * **Lecture 2** (Sep 23, Week 4)
   - Basic functions of gretl   
 
 * **Lecture 3** (Sep 30, Week 5)
-  - Writing scripts in gretl   
+  - Review of probability    
 
 * **Lecture 4** (~~Oct7~~ &#8594; **Oct 12**, Week 6)
-  - to be announced ...   
+  - Review of statistics     
 
 * **Lecture 5** (Oct 14, Week 7)
-  - to be announced ...   
+  - Writing scripts in gretl      
 
 * **Lecture 6** (Oct 21, Week 8)
-  - to be announced ...   
+  - Linear regression (1)      
 
 * **Lecture 7** (Oct 28, Week 9)
-  - to be announced ...   
+  - Linear regression (2)   
 
 * **Lecture 8** (Nov 4, Week 10)
-  - to be announced ...   
+  - Nonlinear regression   
 
 * **Lecture 9** (Nov 11, Week 11)
-  - to be announced ...   
+  - Regression with panel data (1)   
 
 * **Lecture 10** (Nov 18, Week 12)
-  - to be announced ...   
+  - Regression with panel data (2)    
 
 * **Lecture 11** (Nov 25, Week 13)
-  - to be announced ...   
+  - Binary dependent variable    
 
 * **Lecture 12** (Dec 2, Week 14)
-  - to be announced ...   
+  - Instrumental variable     
 
 * **Lecture 13** (Dec 9, Week 15)
-  - to be announced ...   
+  - Advanced topic    
 
 * **Lecture 14** (Dec 16, Week 16)
-  - to be announced ...   
+  - Practice (1)   
 
 * **Lecture 15** (Dec 23, Week 17)
-  - to be announced ...   
+  - Practice (1)   
 
 * **Final exam** (Dec 30, Week 18)
 
