@@ -142,6 +142,11 @@ To be announced ...
 1. Wooldridge, J., *Econometric Analysis of Cross Section and Panel Data*, 2nd edition, MIT Press, 2010.
 2. Hayashi, F., *Econometrics*, Princeton University Press, 2000.
 
+**Theoretical foundations**
+
+1. Stachurski, J., *A Primer in Econometric Theory*, MIT Press, 2016.   
+  See <http://johnstachurski.net/emet.html> for sample chapters and lecture slides.
+
 **Modern monographs**
 
 1. Angrist, J. D. and Pischke, J.-S., *Mastering 'Metrics: The Path from Cause to Effect*, Princeton University Press, 2015.
