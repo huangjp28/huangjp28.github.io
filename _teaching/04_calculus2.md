@@ -96,7 +96,12 @@ Each tutorial class has two sessions. The first session is given to you to solve
   1. Section 5.1, Exercises: 13
   2. Section 5.1, Exercises: 19
   3. Section 5.1, Exercises: 22
-  4. (Optional) Section 5.1, Exercises: 25
+  4. (Optional) Section 5.1, Exercises: 25   
+
+* Sep 24
+  1. Section 5.2, Exercises: 1   
+  2. Section 5.2, Exercises: 26   
+  3. Section 5.2, Exercises: 27    
 
 
 
