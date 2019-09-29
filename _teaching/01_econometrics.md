@@ -11,7 +11,7 @@ permalink: /teaching/econometrics.html
 
 This is the homepage for **Econometrics I**. You can find materials (slides, sample programs, assignments) and other useful information for the course.
 
-We use gretl in this course. As a preparation you need to install the software into your own laptop computer and bring it to the classroom. [Here]({{ site.baseurl }}{% link /assets/pdf/introgretl.pdf %}) is a brief guide of how to install and use gretl.
+We use gretl in this course. As a preparation you need to install the software into your own laptop computer and bring it to the classroom. [Here]({{ site.baseurl }}{% link /assets/pdf/gretlintro.pdf %}) is a brief guide of how to install and use gretl.
 
 ---
 #### Course Information
@@ -39,7 +39,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Basic functions of gretl -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture2_online.pdf %})     
 
 * **Lecture 3** (Sep 30, Week 5)
-  - Review of probability    
+  - Review of probability -- [[slides]], [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %})    
 
 * **Lecture 4** (~~Oct7~~ &#8594; **Oct 12**, Week 6)
   - Review of statistics     

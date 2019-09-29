@@ -32,7 +32,7 @@ fall 2019
 
 From 2019 academic year we use **gretl** (GNU Regression, Econometrics and Time-series Library) in this course. Gretl is a cross-platform software package for econometric analysis. It is free and open-source. For more information see its homepage <http://gretl.sourceforge.net/>.
 
-* [A beginner's guide to gretl]({{ site.baseurl }}{% link /assets/pdf/introgretl.pdf %})
+* [A beginner's guide to gretl]({{ site.baseurl }}{% link /assets/pdf/gretlintro.pdf %})
 
 R is also a good choice for econometric studies and research. Students who are familiar with programming may try to use R. Here is some useful information.   
 * [An installation guide of R & RStudio]({{ site.baseurl }}{% link _teaching/02_rinstall.md %})   
