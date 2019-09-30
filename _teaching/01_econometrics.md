@@ -39,7 +39,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Basic functions of gretl -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture2_online.pdf %})     
 
 * **Lecture 3** (Sep 30, Week 5)
-  - Review of probability -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture3_online.pdf %}), [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %})    
+  - Review of probability -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture3_online.pdf %}), [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
 
 * **Lecture 4** (~~Oct7~~ &#8594; **Oct 12**, Week 6)
   - Review of statistics     
