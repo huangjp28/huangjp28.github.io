@@ -103,6 +103,11 @@ Each tutorial class has two sessions. The first session is given to you to solve
   2. Section 5.2, Exercises: 26   
   3. Section 5.2, Exercises: 27    
 
-
+* Oct 8
+  1. Section 5.2, Exercises: 43
+  2. Section 5.2, Exercises: 47
+  3. Section 5.2, Exercises: 49
+  4. Section 5.2, Exercises: 50
+  5. Section 5.2, Exercises: 53
 
 ---
