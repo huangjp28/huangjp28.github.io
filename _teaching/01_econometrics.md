@@ -42,13 +42,13 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Review of probability -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture3_online.pdf %}), [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
 
 * **Lecture 4** (~~Oct7~~ &#8594; **Oct 12**, Week 6)
-  - Review of statistics -- [[slides]], [[Statistics in Gretl]]    
+  - Review of statistics -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture4_online.pdf %}), [[Statistics in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlstats.pdf %})    
     Further readings about the *p*-value:   
     - [The ASA's Statement on *p*-Values: Context, Process, and Purpose](https://doi.org/10.1080/00031305.2016.1154108) (Wasserstein and Lazar, 2016)     
     - [Moving to a World Beyond "*p* < 0.05"](https://doi.org/10.1080/00031305.2019.1583913) (Wasserstein, Schirm, and Lazar, 2019)   
 
 * **Lecture 5** (Oct 14, Week 7)
-  - Writing scripts in gretl -- [[notes]]     
+  - Writing scripts in gretl -- [[notes]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})     
 
 * **Lecture 6** (Oct 21, Week 8)
   - Linear regression (1)      
@@ -86,7 +86,8 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 ---
 #### Assignments
 
-To be announced ...
+* [Assignment 1]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A1.pdf %})   
+  Submit via email no later than 23:59:59 on Oct 20, 2019.   
 
 
 ---
