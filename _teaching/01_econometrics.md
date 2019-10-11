@@ -87,7 +87,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 #### Assignments
 
 * [Assignment 1]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A1.pdf %})   
-  Data file: [cps_ch3.xlsx]({{ site.baseurl }}{% link /assets/files/cps_ch3.xlsx %}), [cps_ch3.docx]({{ site.baseurl }}{% link /assets/files/cps_ch3.docx %})   
+  Data file: [[cps_ch3.xlsx]]({{ site.baseurl }}{% link /assets/files/cps_ch3.xlsx %}), [[cps_ch3.docx]]({{ site.baseurl }}{% link /assets/files/cps_ch3.docx %})   
   Submit via email no later than 23:59:59 on Oct 20, 2019.   
 
 
