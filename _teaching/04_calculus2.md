@@ -65,8 +65,8 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 4 | Sep 24 | Tutorial | Sep 26 | Lecture 5.2 (2) |
 | Week 5 | Oct 1 | **No class** | Oct 3 | **No class** |
 | Week 6 | Oct 8 | Tutorial | Oct 10 | *Mini test (1)* |
-| Week 7 | Oct 15 | Review of mini test | Oct 17 | Lecture 5.3 (1) |
-| Week 8 | Oct 22 | Tutorial | Oct 24 | Lecture 5.3 (2) |
+| Week 7 | Oct 15 | Review of mini test | Oct 17 | Lecture 4.9 |
+| Week 8 | Oct 22 | Tutorial | Oct 24 | Lecture 5.3 |
 | Week 9 | Oct 29 | Tutorial | Oct 31 | Lecture 5.4 |
 | Week 10 | Nov 5 | Tutorial | Nov 7 | Lecture 5.5  |
 | Week 11 | Nov 12 | Tutorial | Nov 14 | *Mini test (2)* |
