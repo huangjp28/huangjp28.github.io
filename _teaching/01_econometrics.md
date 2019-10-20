@@ -51,7 +51,8 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Writing scripts in gretl -- [[notes]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})     
 
 * **Lecture 6** (Oct 21, Week 8)
-  - Linear regression (1)    
+  - Linear regression (1) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture6_online.pdf %})    
+    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})   
     Further readings about heteroskedasticity-robust estimation in OLS regressions:   
     - [Long & Ervin (2000)](https://doi.org/10.1080/00031305.2000.10474549)   
     - [Cribari-Neto (2004)](https://doi.org/10.1016/S0167-9473(02)00366-3)   
