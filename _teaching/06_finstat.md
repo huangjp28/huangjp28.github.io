@@ -19,7 +19,7 @@ This course introduces the basic operations of the R language, with emphasis on 
 **Course ID**: 0205740001   
 **Credit**: 3      
 **Lecture time**: Session 5-6 (lecture) and 7-8 (practice) on Monday    
-**Classroom**: H3-202 (lecture) and H6-501 (practice), Liberal Arts Building (Wen Ke Lou)   
+**Classroom**: H3-202 (lecture) and H6-501 (practice), Huiwen Building (Liberal Arts Building)   
 **Instructor**: Dr. Jia-Ping Huang   
 **Office hour**: Tuesday 13:00-14:00, 2613 Liberal Arts Building    
 **E-mail**: huangjp #at# szu . edu . cn
@@ -107,7 +107,7 @@ The following lecture slides are made by [Dr. Han Li](http://bs.szu.edu.cn/?Teac
   Data file [[jobinfo.xlsx]]({{ site.baseurl }}{% link /assets/files/jobinfo.xlsx %})   
   Source code [[jobinfo_lm.R]]({{ site.baseurl }}{% link /assets/files/jobinfo_lm.R %})   
 * [Case 2]({{ site.baseurl }}{% link /assets/files/RC2.pdf %})   
-  Source code [[Options.R]]({{ site.baseurl }}{% link /assets/files/Options.R %})
+  Source code [[Options.R]]({{ site.baseurl }}{% link /assets/files/O.R %})
 
 
 Supplementary materials:

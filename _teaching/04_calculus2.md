@@ -17,7 +17,7 @@ This is the subsequent course of Calculus 1, aka Advanced Mathematics C(1). This
 **Course ID**: 0208490001   
 **Credit**: 4    
 **Lecture time**: Session 5-6 (14:30:20-16:00 up to Sep 30, 14:00-15:30 from Oct 1) on Tuesday/Thursday    
-**Classroom**: H1-502 Liberal Arts Building (Wen Ke Lou)   
+**Classroom**: H1-502 Huiwen Building (Liberal Arts Building)   
 **Instructor**: Dr. Jia-Ping Huang   
 **Office hour**: Thursday 16:00-17:00, 2613 Liberal Arts Building   
 **E-mail**: huangjp #at# szu . edu . cn
@@ -118,6 +118,14 @@ Each tutorial class has two sessions. The first session is given to you to solve
   5. Section 4.9, Exercises: 14   
   6. Section 4.9, Exercises: 25   
   7. Section 4.9, Exercises: 34   
+
+* Oct 29
+  1. Section 5.3, Exercises: 3   
+  2. Section 5.3, Exercises: 5   
+  3. Section 5.3, Exercises: 13   
+  4. Section 5.3, Exercises: 21   
+  5. Section 5.3, Exercises: 36   
+  6. Section 5.3, Exercises: 41   
 
 
 ---

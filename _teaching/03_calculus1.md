@@ -17,7 +17,7 @@ This course covers the first half of calculus for business and economics student
 **Course ID**: 0208520001   
 **Credit**: 4    
 **Lecture time**: Session 3-4 (10:20-11:50) on Tuesday/Friday    
-**Classroom**: H1-404 Liberal Arts Building (Wen Ke Lou)   
+**Classroom**: H1-404 Huiwen Building (Liberal Arts Building)   
 **Instructor**: Dr. Jia-Ping Huang   
 **Office hour**: Tuesday 13:00-14:00, 2613 Liberal Arts Building   
 **E-mail**: huangjp #at# szu . edu . cn

@@ -16,7 +16,7 @@ We use gretl in this course. As a preparation you need to install the software i
 ---
 #### Course Information
 
-**Time and classroom**: Session 5-7 on Monday, A406    
+**Time and classroom**: Session 5-7 on Monday, A406 Huizi Building    
 **Textbook**:   
 James H. Stock & Mark W. Watson, *Introduction to Econometrics*, 3rd Edition, 2012, Pearson.   
 Published in China as 《计量经济学：第三版》英文版，斯托克、沃森著，格致出版社，2015. ISBN: 978-7-5432-2227-4.    
