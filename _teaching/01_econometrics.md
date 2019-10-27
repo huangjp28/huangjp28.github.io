@@ -59,7 +59,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
     - [MacKinnon (2013)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
 * **Lecture 7** (Oct 28, Week 9)
-  - Linear regression (2) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture7_online.pdf %})    
+  - Linear regression (2) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture7_online.pdf %})   
 
 * **Lecture 8** (Nov 4, Week 10)
   - Nonlinear regression   
