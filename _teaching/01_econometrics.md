@@ -62,13 +62,13 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Linear regression (2) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture7_online.pdf %})   
 
 * **Lecture 8** (Nov 4, Week 10)
-  - Nonlinear regression   
+  - Nonlinear regression functions -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture8_online.pdf %})   
 
 * **Lecture 9** (Nov 11, Week 11)
-  - Regression with panel data (1)   
+  - Practice (1)   
 
 * **Lecture 10** (Nov 18, Week 12)
-  - Regression with panel data (2)    
+  - Regression with panel data   
 
 * **Lecture 11** (Nov 25, Week 13)
   - Binary dependent variable    
@@ -77,13 +77,13 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Instrumental variable     
 
 * **Lecture 13** (Dec 9, Week 15)
-  - Advanced topic    
+  - Experiments and quasi-experiments       
 
 * **Lecture 14** (Dec 16, Week 16)
-  - Practice (1)   
+  - Advanced topic   
 
 * **Lecture 15** (Dec 23, Week 17)
-  - Practice (1)   
+  - Practice (2)   
 
 * **Final exam** (Dec 30, Week 18)
 
