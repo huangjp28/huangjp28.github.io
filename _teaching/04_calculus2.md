@@ -134,7 +134,7 @@ Each tutorial class has two sessions. The first session is given to you to solve
   4. Section 5.4, Exercises: 35   
   5. Section 5.4, Exercises: 59   
   6. Section 5.4, Exercises: 67   
-  7. Section 5.4, Exercises: 50 (optional)   
+  7. (Optional) Section 5.4, Exercises: 50    
 
 
 ---
