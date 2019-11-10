@@ -97,7 +97,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 
 * [Assignment 2]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A2.pdf %})     
   Data file: [[HOUSE.txt]]({{ site.baseurl }}{% link /assets/files/HOUSE.txt %})   
-  **Save in PDF format** and submit via email no later than 23:59:59 on Nov 17, 2019.   
+  **Save your report in PDF format** and submit via email no later than 23:59:59 on Nov 17, 2019.   
 
 
 ---
