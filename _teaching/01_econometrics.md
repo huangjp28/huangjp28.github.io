@@ -65,7 +65,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Nonlinear regression functions -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture8_online.pdf %})   
 
 * **Lecture 9** (Nov 11, Week 11)
-  - Practice (1)   
+  - Practice (1) -- Exercises in Lectures 6-8 and Assignment 2  
 
 * **Lecture 10** (Nov 18, Week 12)
   - Regression with panel data   
@@ -94,6 +94,10 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 * [Assignment 1]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A1.pdf %}) -- [[solution]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A1ans.pdf %})    
   Data file: [[cps_ch3.xlsx]]({{ site.baseurl }}{% link /assets/files/cps_ch3.xlsx %}), [[cps_ch3.docx]]({{ site.baseurl }}{% link /assets/files/cps_ch3.docx %})   
   Submit via email no later than 23:59:59 on Oct 20, 2019.   
+
+* [Assignment 2]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_A2.pdf %})     
+  Data file: [[HOUSE.txt]]({{ site.baseurl }}{% link /assets/files/HOUSE.txt %})   
+  **Save in PDF format** and submit via email no later than 23:59:59 on Nov 17, 2019.   
 
 
 ---
