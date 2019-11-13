@@ -17,7 +17,8 @@ More information about me can be found in the [Curriculum Vitae]({{ site.baseurl
 ---
 
 ### News in 2019
-
+* **Nov 13, 2019** &nbsp; Change of teaching schedules    
+Due to the announcement of sports day of Shenzhen University, the schedule of [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) is revised.   
 * **May 13, 2019** &nbsp; About final exams and teaching schedules    
 The dates of final exam have been determined for [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) and [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}). The teaching schedules of these two courses are changed correspondingly.   
 * **Mar 18, 2019** &nbsp; Change of teaching schedules    
