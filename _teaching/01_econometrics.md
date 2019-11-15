@@ -68,7 +68,10 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Practice (1) -- Exercises in Lectures 6-8 and Assignment 2  
 
 * **Lecture 10** (Nov 18, Week 12)
-  - Regression with panel data   
+  - Regression with panel data -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture10_online.pdf %})     
+    Data file: [[fatality.xlsx]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}), [[fatality.docx]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})    
+    Further readings about alcohol and vehicle fatalities:   
+    - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
 
 * **Lecture 11** (Nov 25, Week 13)
   - Binary dependent variable    
