@@ -74,11 +74,12 @@ The course has lecture classes and tutorial classes, where in the former we focu
 | Week 13 | Nov 26 | Tutorial | Nov 28 | Lecture Gini index, 6.5, 8.4 |
 | Week 14 | Dec 3 | **No class** (sports day) | Dec 5 | Tutorial |
 | Week 15 | Dec 10 | Lecture 7.1 | Dec 12 | Tutorial |
-| Week 16 | Dec 17 | Lecture 7.4, 7.5 | Dec 19 | Tutorial |
-| Week 17 | Dec 24 | Review | Dec 26 | Q&A |
+| Week 16 | Dec 17 | Lecture 7.4, 7.5 | Dec 19 | Review |
+| Week 17 | Dec 24 | **Final exam** | Dec 26 | **No class** |
 
 ~~*This schedule is subject to change due to the sports day of Shenzhen University, whose date usually will be announced in November.*~~    
-*The 2019 sports day will take place on Dec 3-4. On these days there will be no class.*
+*The 2019 sports day will take place on Dec 3-4. On these days there will be no class.*    
+*The final exam will take place on Dec 24. No class on Dec 26.*   
 
 ---
 #### About tutorial and homework
