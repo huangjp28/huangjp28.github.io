@@ -74,7 +74,11 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
     - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
 
 * **Lecture 11** (Nov 25, Week 13)
-  - Binary dependent variable    
+  - Binary dependent variable -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture11_online.pdf %})    
+    Data file: [[hmda_sw1.csv]]({{ site.baseurl }}{% link /assets/files/hmda_sw1.csv %}), [[hmda.docx]]({{ site.baseurl }}{% link /assets/files/hmda.docx %})   
+    Further readings about mortgage lending and race:   
+    - [Munnell et al. (1996)](https://www.jstor.org/stable/2118254)    
+    - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
 
 * **Lecture 12** (Dec 2, Week 14)
   - Instrumental variable     
@@ -108,6 +112,8 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
 
 * Select an applied econometrics article that is published on 2010 or later in a journal from the journal list below, read it intensively, and write a report *in English*.
 * The report must contain a summary of the article (800 words), your comments describing the pros and cons (400 words), and optionally your research idea inspired by the article.
+* Save in PDF format and submit via email. **Deadline**: 23:59:59 of Dec 29, 2019.
+
 
 *Journal list* (not a ranking)
 
