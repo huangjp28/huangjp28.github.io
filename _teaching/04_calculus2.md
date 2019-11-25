@@ -145,7 +145,14 @@ Each tutorial class has two sessions. The first session is given to you to solve
   4. Section 5.5, Exercises: 21   
   5. Section 5.5, Exercises: 60   
   6. Section 5.5, Exercises: 67   
-  7. (Optional) Section 5.5, Exercises: 87   
+  7. (Optional) Section 5.5, Exercises: 87    
+
+* Nov 26   
+  1. Section 6.1, Exercises: 1   
+  2. Section 6.1, Exercises: 4   
+  3. Section 6.1, Exercises: 18   
+  4. Section 6.1, Exercises: 22   
+  5. Section 6.1, Exercises: 29   
 
 
 ---
