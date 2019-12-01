@@ -81,16 +81,19 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
     - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
 
 * **Lecture 12** (Dec 2, Week 14)
-  - Instrumental variable     
+  - Instrumental variables (1) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture12_online.pdf %})    
+    Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
+    Further readings about smoking regulation in the US:   
+    - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
 
 * **Lecture 13** (Dec 9, Week 15)
-  - Experiments and quasi-experiments       
+  - Instrumental variables (2)          
 
 * **Lecture 14** (Dec 16, Week 16)
-  - Advanced topic   
+  - Experiments and quasi-experiments    
 
 * **Lecture 15** (Dec 23, Week 17)
-  - Practice (2)   
+  - Practice (2) and Q&A   
 
 * **Final exam** (Dec 30, Week 18)
 
