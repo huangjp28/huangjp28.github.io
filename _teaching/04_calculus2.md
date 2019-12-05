@@ -156,7 +156,7 @@ Each tutorial class has two sessions. The first session is given to you to solve
 
 * Dec 5
   1. Section 6.5, Exercises: 14   
-  2. Section 6.5, Exercises: 16   
+  2. Section 6.5, Exercises: 16 (use \\(n=3\\))   
   3. Section 8.4, Exercises: 4   
   4. Section 8.4, Exercises: 8   
   5. A small company has an owner and 4 employees. Two of the employees receive 5 thousand Yuan per month, the other two employees receives 10 thousand Yuan per month, and the owner receives 20 thousand Yuan per month. Express the Lorentz curve of this company using a piece-wise defined function, and evaluate the Gini index.   
