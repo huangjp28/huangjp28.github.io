@@ -154,5 +154,17 @@ Each tutorial class has two sessions. The first session is given to you to solve
   4. Section 6.1, Exercises: 22   
   5. Section 6.1, Exercises: 29   
 
+* Dec 5
+  1. Section 6.5, Exercises: 14   
+  2. Section 6.5, Exercises: 16 (use \\(n=3\\))   
+  3. Section 8.4, Exercises: 4   
+  4. Section 8.4, Exercises: 8   
+  5. A small company has an owner and 4 employees. Two of the employees receive 5 thousand Yuan per month, the other two employees receives 10 thousand Yuan per month, and the owner receives 20 thousand Yuan per month. Express the Lorentz curve of this company using a piece-wise defined function, and evaluate the Gini index.   
+  6. Suppose a study indicates that the distribution of income for professional baseball players is given by the Lorentz curve
+    \\[L_b(x) = \tfrac{2}{3}x^3 + \tfrac{1}{3}x\\]
+    while that of professional football players is
+    \\[L_f(x) = \tfrac{5}{6}x^2 + \tfrac{1}{6}x\\]
+    Which profession has the more equitable income distribution?   
+
 
 ---
