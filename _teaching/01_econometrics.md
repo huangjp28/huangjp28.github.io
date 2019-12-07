@@ -87,7 +87,7 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
     - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
 
 * **Lecture 13** (Dec 9, Week 15)
-  - Instrumental variables (2)          
+  - Instrumental variables (2) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture13_online.pdf %})           
 
 * **Lecture 14** (Dec 16, Week 16)
   - Experiments and quasi-experiments    
