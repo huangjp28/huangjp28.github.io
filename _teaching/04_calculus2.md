@@ -79,7 +79,7 @@ The course has lecture classes and tutorial classes, where in the former we focu
 
 ~~*This schedule is subject to change due to the sports day of Shenzhen University, whose date usually will be announced in November.*~~    
 *The 2019 sports day will take place on Dec 3-4. On these days there will be no class.*    
-*The final exam will take place on Dec 24. No class on Dec 26.*   
+*The final exam will take place on Dec 24, 14:00-15:30 (H1-502). No class on Dec 26.*   
 
 ---
 #### About tutorial and homework
@@ -165,6 +165,13 @@ Each tutorial class has two sessions. The first session is given to you to solve
     while that of professional football players is
     \\[L_f(x) = \tfrac{5}{6}x^2 + \tfrac{1}{6}x\\]
     Which profession has the more equitable income distribution?   
+
+* Dec 12
+  1. Section 7.1, Exercises: 5   
+  2. Section 7.1, Exercises: 9   
+  3. Section 7.1, Exercises: 15   
+  4. Section 7.1, Exercises: 38   
+  5. Section 7.1, Exercises: 41   
 
 
 ---
