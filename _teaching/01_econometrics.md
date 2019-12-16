@@ -90,7 +90,8 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
   - Instrumental variables (2) -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture13_online.pdf %})           
 
 * **Lecture 14** (Dec 16, Week 16)
-  - Experiments and quasi-experiments    
+  - Experiments and quasi-experiments -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture14_online.pdf %})    
+    Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
 
 * **Lecture 15** (Dec 23, Week 17)
   - Practice (2) and Q&A   
