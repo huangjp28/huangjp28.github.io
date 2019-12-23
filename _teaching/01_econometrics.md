@@ -94,7 +94,8 @@ Gretl (GNE Regression, Econometrics and Time-series Library). For more informati
     Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
 
 * **Lecture 15** (Dec 23, Week 17)   
-  - Practice (2) and Q&A   
+  - Practice (2) -- Exercises in Lectures 10-14     
+  - Q&A   
 
 * **Final exam** (Dec 30, Week 18)   
   - Time: Dec 30 (Monday), 14:30~16:30    
