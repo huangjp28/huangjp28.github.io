@@ -16,15 +16,10 @@ More information about me can be found in the [Curriculum Vitae]({{ site.baseurl
 
 ---
 
-### News in 2019
-* **Nov 13, 2019** &nbsp; Change of teaching schedules    
-Due to the announcement of sports day of Shenzhen University, the schedule of [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) is revised.   
-* **May 13, 2019** &nbsp; About final exams and teaching schedules    
-The dates of final exam have been determined for [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) and [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}). The teaching schedules of these two courses are changed correspondingly.   
-* **Mar 18, 2019** &nbsp; Change of teaching schedules    
-Due to the announcement of spring holiday of Shenzhen University, schedules of courses in the spring semester ([Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}), [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}), [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %})) are revised.    
-* **Feb 8, 2019** &nbsp; New publication on *Social Networks*   
-Huang, J.-P., Heidergott, B., & Lindner, I. (2019). Naïve Learning in Social Networks with Random Communication. *Social Networks*, 58, 1-11. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378873318300923)
+### News in 2020
+* **Jan 2, 2020** &nbsp; Job opening     
+Fixed-term Full-time Research Fellow Position on FinTech and regulation at Shenzhen University, see <https://hr.szu.edu.cn/info/1141/4050.htm> (information in Chinese)   
+
 
 ---
 
