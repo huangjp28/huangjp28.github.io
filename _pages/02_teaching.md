@@ -7,18 +7,20 @@ permalink: /teaching/
 
 ---
 ### [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}) (undergraduate)
-spring 2019
+spring 2019   
+(information for spring 2020 is on Blackboard of SZU)
 
 ---
 ### [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) (undergraduate)
 aka Advanced Mathematics C(1)   
-spring 2019
+spring 2019   
+(information for spring 2020 is on Blackboard of SZU)
 
 ---
 ### [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) (undergraduate)
 aka Advanced Mathematics C(2)   
 fall 2019   
-(previously taught in spring 2018)
+(information for fall 2020 is on Blackboard of SZU, previously taught in spring 2018)
 
 ---
 ### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)    
