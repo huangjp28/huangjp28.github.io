@@ -8,7 +8,7 @@ permalink: /teaching/
 ---
 ### [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}) (undergraduate)
 spring 2019   
-(information for spring 2020 is on Blackboard of SZU)
+(information for spring 2021 is on Blackboard of SZU, previously taught in spring 2020)
 
 ---
 ### [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) (undergraduate)
@@ -28,11 +28,12 @@ fall 2019
 spring 2019
 
 ---
-### [Econometrics I]({{ site.baseurl }}{% link _teaching/01_econometrics.md %}) (graduate)
-fall 2019   
-(previously taught in fall 2018, fall 2017, and fall 2016)
+### [Econometrics]({{ site.baseurl }}{% link _teaching/01_econometrics.md %}) (graduate)
+高级计量经济学   
+spring 2021   
+(previously taught in fall 2016-2019 as Econometrics I)
 
-From 2019 academic year we use **gretl** (GNU Regression, Econometrics and Time-series Library) in this course. Gretl is a cross-platform software package for econometric analysis. It is free and open-source. For more information see its homepage <http://gretl.sourceforge.net/>.
+From 2019 academic year we use **gretl** (GNU Regression, Econometrics and Time-series Library) in this course. Gretl is a cross-platform software package for econometric analysis. It is free and open-source. For more information see its homepage <http://gretl.sourceforge.net/>. The following document provides a quick walkthrough for absolute beginners.
 
 * [A beginner's guide to gretl]({{ site.baseurl }}{% link /assets/pdf/gretlintro.pdf %})
 

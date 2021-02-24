@@ -10,10 +10,10 @@ permalink: /contact/
 
 **Postal address**:   
 >  Shenzhen University  
->  2613 Huiwen Building (Liberal Arts Building), 3688 Nanhai Ave  
->  Shenzhen, Guangdong, 518060, P.R.China   
+>  2613 Huiwen Building, Yuehai Campus   
+>  3688 Nanhai Ave, Shenzhen, Guangdong, 518060, P.R.China   
 
-**Tel**: +86-(0)755-26950548   
+**Tel**: +86-(0)755-26950548 (office)   
 **E-mail**: huangjp #at# szu . edu . cn   
 **Website**: <https://huangjp.com>   
 **Office hours**: Please make an appointment via e-mail.   
