@@ -20,7 +20,7 @@ permalink: /teaching/econometrics.html
 **教科书**：   
 《计量经济学（第三版）》，[美]斯托克、[美]沃森著，沈根祥、孙燕译，格致出版社，2012。 ISBN: 978-7-5432-2059-1    
 《计量经济学（第三版）》英文版，斯托克、沃森著，格致出版社，2015。 ISBN: 978-7-5432-2227-4      
-**软件**：Gretl (GNE Regression, Econometrics and Time-series Library). 官网 <http://gretl.sourceforge.net/>.   
+**软件**：gretl (GNE Regression, Econometrics and Time-series Library). 官网 <http://gretl.sourceforge.net/>.   
 **任课教师**：黄嘉平    
 **E-mail**：huangjp #at# szu . edu . cn  
 **接访时间**：请提前发邮件预约      
