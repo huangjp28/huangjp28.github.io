@@ -30,9 +30,7 @@ permalink: /teaching/econometrics.html
 #### 进度与资料
 
 * **Lecture 1** （第2周 3月9日）
-<!---
-      - 绪论 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2019_Lecture1_online.pdf %})   
--->
+  - 绪论 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture1C.pdf %})   
 
 * **Lecture 2** （第3周 3月16日）
 <!---   
