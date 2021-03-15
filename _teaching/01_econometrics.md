@@ -33,6 +33,7 @@ permalink: /teaching/econometrics.html
   - 绪论 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture1C.pdf %})   
 
 * **Lecture 2** （第3周 3月16日）
+  - 概率论复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture2C.pdf %})   
 
 * **Lecture 3** （第4周 3月23日）
 <!--
