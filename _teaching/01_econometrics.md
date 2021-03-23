@@ -37,6 +37,10 @@ permalink: /teaching/econometrics.html
 
 * **Lecture 3** （第4周 3月23日）
   - 统计学复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture3C.pdf %})   
+    Further readings about the *p*-value:   
+    - [The ASA's Statement on *p*-Values: Context, Process, and Purpose](https://doi.org/10.1080/00031305.2016.1154108) (Wasserstein and Lazar, 2016)     
+    - [Moving to a World Beyond "*p* < 0.05"](https://doi.org/10.1080/00031305.2019.1583913) (Wasserstein, Schirm, and Lazar, 2019)   
+
 <!--
       [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
 -->
