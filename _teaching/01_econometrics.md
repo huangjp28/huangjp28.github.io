@@ -36,8 +36,9 @@ permalink: /teaching/econometrics.html
   - 概率论复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture2C.pdf %})   
 
 * **Lecture 3** （第4周 3月23日）
+  - 统计学复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture3C.pdf %})   
 <!--
-      - Review of probability -- [[slides]], [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
+      [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
 -->
 
 * **Lecture 4** （第5周 3月30日）
