@@ -33,7 +33,8 @@ permalink: /teaching/econometrics.html
   - 绪论 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture1C.pdf %})   
 
 * **Lecture 2** （第3周 3月16日）
-  - 概率论复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture2C.pdf %})   
+  - 概率论复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture2C.pdf %})    
+    参考资料：[[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})
 
 * **Lecture 3** （第4周 3月23日）
   - 统计学复习 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture3C.pdf %})   
@@ -41,17 +42,12 @@ permalink: /teaching/econometrics.html
     - [The ASA's Statement on *p*-Values: Context, Process, and Purpose](https://doi.org/10.1080/00031305.2016.1154108) (Wasserstein and Lazar, 2016)     
     - [Moving to a World Beyond "*p* < 0.05"](https://doi.org/10.1080/00031305.2019.1583913) (Wasserstein, Schirm, and Lazar, 2019)   
 
-<!--
-      [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %}), [[LLN and CLT in Excel]]({{ site.baseurl }}{% link /assets/files/LLN_CLT.xlsx %})    
--->
-
 * **Lecture 4** （第5周 3月30日）
-<!--
-      - Review of statistics -- [[slides]], [[Statistics in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlstats.pdf %})    
-        Further readings about the *p*-value:   
-        - [The ASA's Statement on *p*-Values: Context, Process, and Purpose](https://doi.org/10.1080/00031305.2016.1154108) (Wasserstein and Lazar, 2016)     
-        - [Moving to a World Beyond "*p* < 0.05"](https://doi.org/10.1080/00031305.2019.1583913) (Wasserstein, Schirm, and Lazar, 2019)   
--->
+  - gretl 入门之数据篇 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture4C.pdf %})   
+    拓展学习资料：   
+    - [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %})
+    - [[Statistics in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlstats.pdf %})
+    - [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})
 
 * **Lecture 5** （第6周 4月6日）
 <!--
