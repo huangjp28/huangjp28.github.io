@@ -48,6 +48,7 @@ permalink: /teaching/econometrics.html
     - [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %})
     - [[Statistics in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlstats.pdf %})
     - [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})   
+
     数据文件：
     - 截面数据 [[wage.csv]]({{ site.baseurl }}{% link /assets/files/wage.csv %})
     - 面板数据 [[panel.csv]]({{ site.baseurl }}{% link /assets/files/panel.csv %})
