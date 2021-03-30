@@ -43,15 +43,11 @@ permalink: /teaching/econometrics.html
     - [Moving to a World Beyond "*p* < 0.05"](https://doi.org/10.1080/00031305.2019.1583913) (Wasserstein, Schirm, and Lazar, 2019)   
 
 * **Lecture 4** （第5周 3月30日）
-  - gretl 入门之数据篇 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture4C.pdf %})   
+  - gretl 入门之数据篇 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture4C.pdf %}), 截面数据 [[wage.csv]]({{ site.baseurl }}{% link /assets/files/wage.csv %}),面板数据 [[panel.csv]]({{ site.baseurl }}{% link /assets/files/panel.csv %})    
     拓展学习资料：   
     - [[Probability in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlprob.pdf %})
     - [[Statistics in Gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlstats.pdf %})
     - [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})   
-
-    数据文件：
-    - 截面数据 [[wage.csv]]({{ site.baseurl }}{% link /assets/files/wage.csv %})
-    - 面板数据 [[panel.csv]]({{ site.baseurl }}{% link /assets/files/panel.csv %})
 
 * **Lecture 5** （第6周 4月6日）
 <!--
