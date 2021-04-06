@@ -50,9 +50,9 @@ permalink: /teaching/econometrics.html
     - [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})   
 
 * **Lecture 5** （第6周 4月6日）
-<!--
-      - Writing scripts in gretl -- [[notes]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})     
--->
+  - 一元线性回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture5C.pdf %})   
+    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %}) 
+
 
 * **Lecture 6** （第7周 4月13日）
 <!--
