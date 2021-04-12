@@ -55,7 +55,7 @@ permalink: /teaching/econometrics.html
 
 
 * **Lecture 6** （第7周 4月13日）
-  - 一元线性回归（二） -- [[slides]]（{{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture6C.pdf %})   
+  - 一元线性回归（二） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture6C.pdf %})   
     Further readings about heteroskedasticity-robust estimation in OLS regressions:   
     - [White (1980)](https://doi.org/10.2307/1912934)   
     - [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7)   
