@@ -50,19 +50,18 @@ permalink: /teaching/econometrics.html
     - [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})   
 
 * **Lecture 5** （第6周 4月6日）
-  - 一元线性回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture5C.pdf %})   
-    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %}) 
+  - 一元线性回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture5C.pdf %}) 4月12日更新  
+    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})
 
 
 * **Lecture 6** （第7周 4月13日）
-<!--
-      - Linear regression (1) -- [[slides]]    
-        Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})   
-        Further readings about heteroskedasticity-robust estimation in OLS regressions:   
-        - [Long & Ervin (2000)](https://doi.org/10.1080/00031305.2000.10474549)   
-        - [Cribari-Neto (2004)](https://doi.org/10.1016/S0167-9473(02)00366-3)   
-        - [MacKinnon (2013)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
--->
+  - 一元线性回归（二） -- [[slides]]（{{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture6C.pdf %})   
+    Further readings about heteroskedasticity-robust estimation in OLS regressions:   
+    - [White (1980)](https://doi.org/10.2307/1912934)   
+    - [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7)   
+    - [Long & Ervin (2000)](https://doi.org/10.1080/00031305.2000.10474549)   
+    - [Cribari-Neto (2004)](https://doi.org/10.1016/S0167-9473(02)00366-3)   
+    - [MacKinnon (2013)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
 * **Lecture 7** （第8周 4月20日）
 <!--
