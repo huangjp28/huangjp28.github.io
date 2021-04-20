@@ -69,16 +69,16 @@ permalink: /teaching/econometrics.html
     - Adkins et al. (2015), [Collinearity Diagnostics in gretl](https://ideas.repec.org/p/okl/wpaper/1506.html)    
     - Department of Biology, Bates College, [Almost Everything You Wanted to Know About Making Tables and Figures](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html)   
 
-* **Lecture 8** （第9周 4月27日）
+* **Tutorial 1** （第9周 4月27日）
   - 课堂练习（一）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
 
-* **Lecture 9** （第11周 5月11日）
+* **Lecture 8** （第11周 5月11日）
 <!--
       - Practice (1) -- Exercises in Lectures 6-8 and Assignment 2  
       - Nonlinear regression functions -- [[slides]]
 -->
 
-* **Lecture 10** （第12周 5月18日）
+* **Lecture 9** （第12周 5月18日）
 <!--
       - Regression with panel data -- [[slides]]     
         Data file: [[fatality.xlsx]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}), [[fatality.docx]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})    
@@ -86,7 +86,7 @@ permalink: /teaching/econometrics.html
         - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
 -->
 
-* **Lecture 11** （第13周 5月25日）
+* **Lecture 10** （第13周 5月25日）
 <!--
       - Binary dependent variable -- [[slides]]    
         Data file: [[hmda_sw1.csv]]({{ site.baseurl }}{% link /assets/files/hmda_sw1.csv %}), [[hmda.docx]]({{ site.baseurl }}{% link /assets/files/hmda.docx %})   
@@ -95,7 +95,7 @@ permalink: /teaching/econometrics.html
         - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
 -->
 
-* **Lecture 12** （第14周 6月1日）
+* **Lecture 11** （第14周 6月1日）
 <!--
       - Instrumental variables (1) -- [[slides]]    
         Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
@@ -103,18 +103,18 @@ permalink: /teaching/econometrics.html
         - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
 -->
 
-* **Lecture 13** （第15周 6月8日）
+* **Lecture 12** （第15周 6月8日）
 <!--
       - Instrumental variables (2) -- [[slides]]           
 -->
 
-* **Lecture 14** （第16周 6月15日）
+* **Lecture 13** （第16周 6月15日）
 <!--
       - Experiments and quasi-experiments -- [[slides]]    
         Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
 -->
 
-* **Lecture 15** （第17周 6月22日）   
+* **Lecture 14** （第17周 6月22日）   
 <!--
       - Practice (2) -- Exercises in Lectures 10-14     
       - Q&A   
