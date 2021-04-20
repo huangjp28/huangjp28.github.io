@@ -66,8 +66,8 @@ permalink: /teaching/econometrics.html
   - 多元线性回归 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture7C.pdf %})    
     Further readings:
     - [Bigoni et al. (2015)](https://doi.org/10.1111/ecoj.12292)   
-    - Collinearity Diagnostics in gretl [Adkins et al. (2015)](https://ideas.repec.org/p/okl/wpaper/1506.html)   
-    - Almost Everything You Wanted to Know About Making Tables and Figures [Department of Biology, Bates College](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html)
+    - Adkins et al. (2015), [Collinearity Diagnostics in gretl](https://ideas.repec.org/p/okl/wpaper/1506.html)    
+    - Department of Biology, Bates College, [Almost Everything You Wanted to Know About Making Tables and Figures](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html)   
 
 * **Lecture 8** （第9周 4月27日）
   - 课堂练习（一）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
