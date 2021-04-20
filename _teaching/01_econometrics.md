@@ -51,8 +51,7 @@ permalink: /teaching/econometrics.html
 
 * **Lecture 5** （第6周 4月6日）
   - 一元线性回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture5C.pdf %}) 4月12日更新  
-    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})
-
+    Data file: [[caschool.xlsx]]({{ site.baseurl }}{% link /assets/files/caschool.xlsx %}), [[californiatestscores.docx]]({{ site.baseurl }}{% link /assets/files/californiatestscores.docx %})   
 
 * **Lecture 6** （第7周 4月13日）
   - 一元线性回归（二） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture6C.pdf %})   
@@ -64,18 +63,19 @@ permalink: /teaching/econometrics.html
     - [MacKinnon (2013)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
 * **Lecture 7** （第8周 4月20日）
-<!--
-      - Linear regression (2) -- [[slides]]   
--->
+  - 多元线性回归 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture7C.pdf %})    
+    Further readings:
+    - [Bigoni et al. (2015)](https://doi.org/10.1111/ecoj.12292)   
+    - Collinearity Diagnostics in gretl [Adkins et al. (2015)](https://ideas.repec.org/p/okl/wpaper/1506.html)   
+    - Almost Everything You Wanted to Know About Making Tables and Figures [Department of Biology, Bates College](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html)
 
 * **Lecture 8** （第9周 4月27日）
-<!--
-      - Nonlinear regression functions -- [[slides]]   
--->
+  - 课堂练习（一）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
 
 * **Lecture 9** （第11周 5月11日）
 <!--
       - Practice (1) -- Exercises in Lectures 6-8 and Assignment 2  
+      - Nonlinear regression functions -- [[slides]]
 -->
 
 * **Lecture 10** （第12周 5月18日）
