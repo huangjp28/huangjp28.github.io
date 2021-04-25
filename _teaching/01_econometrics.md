@@ -71,6 +71,10 @@ permalink: /teaching/econometrics.html
 
 * **Tutorial 1** （第9周 4月27日）
   - 课堂练习（一）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
+    - 学习并掌握第四讲拓展学习资料中的 gretl 编程模式，并针对第五至七讲课件中提及的 gretl 练习部分进行练习。已经在课下完成练习者可忽略。   
+      [[Writing scripts in gretl]]({{ site.baseurl }}{% link /assets/pdf/gretlscripts.pdf %})，[[第五至七讲练习汇总]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Tutorial1.pdf %})   
+    - 用 gretl 尝试复制第7.6节中的分析结果，包括图7.2和表7.1的内容。
+    - 完成第一次个人作业中的练习，并在 Blackboard 上提交。
 
 * **Lecture 8** （第11周 5月11日）
 <!--
@@ -127,12 +131,26 @@ permalink: /teaching/econometrics.html
 -->
 
 ---
-#### 作业
+#### 平时作业
 
-待更新
+* **Blackboard**   
+  Blackboard 平台是国际上广泛使用的在线学习平台。深圳大学的 Blackboard 平台由信息中心维护，可以从内部网或经由 WebVPN 系统从校外访问。   
+  - 内部网访问：在校园网内访问 <http://elearning.szu.edu.cn> ，或访问内部网 > 教师事务 > Blackboard
+  - 从校外经由 WebVPN 访问：访问 <https://webvpn.szu.edu.cn> 并登陆后点击 Blackboard 连接   
+   
+  本门课程的作业和期末报告均需经由 Blackboard 平台提交。本门课程在 Blackboard 上的名称为    
+  **20202-02012000-1206078-1608713150109: 高级计量经济学**    
+
+* **第一次个人作业**
+  - 发布日期：2021年4月27日   
+  - 作业内容：[[Assignment1]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Assignment1.pdf %})   
+  - 相关文件：[[CollegeDistance.xls]]({{ site.baseurl }}{% link /assets/files/CollegeDistance.xls %}), [[CollegeDistance_DataDescription.pdf]]({{ site.baseurl }}{% link /assets/files/CollegeDistance_DataDescription.pdf %})   
+  - 提交方法：按 Blackboard 中的要求提交   
+  - 截止时间：2021年5月10日晚23:59   
 
 
 ---
 #### 期末报告
 
-待更新
+* **分组**   
+  期末报告以小组为单位提交。已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。
