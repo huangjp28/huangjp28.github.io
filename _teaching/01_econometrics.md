@@ -77,10 +77,12 @@ permalink: /teaching/econometrics.html
     - 完成第一次个人作业中的练习，并在 Blackboard 上提交。
 
 * **Lecture 8** （第11周 5月11日）
-<!--
-      - Practice (1) -- Exercises in Lectures 6-8 and Assignment 2  
-      - Nonlinear regression functions -- [[slides]]
--->
+  - 非线性回归函数 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture8C.pdf %})   
+    Further readings:
+    - [Kuznets (1995)](https://www.jstor.org/stable/1811581)   
+    - [Acemoglu & Robinson (2002)](https://doi.org/10.1111/1467-9361.00149)   
+    - [周云波 (2009)](http://www.oaj.pku.edu.cn/jjx/CN/Y2009/V8/I4/1239)   
+    - [Lind & Mehlum (2010)]( https://doi.org/10.1111/j.1468-0084.2009.00569.x)   
 
 * **Lecture 9** （第12周 5月18日）
 <!--
@@ -137,7 +139,7 @@ permalink: /teaching/econometrics.html
   Blackboard 平台是国际上广泛使用的在线学习平台。深圳大学的 Blackboard 平台由信息中心维护，可以从内部网或经由 WebVPN 系统从校外访问。   
   - 内部网访问：在校园网内访问 <http://elearning.szu.edu.cn> ，或访问内部网 > 教师事务 > Blackboard
   - 从校外经由 WebVPN 访问：访问 <https://webvpn.szu.edu.cn> 并登陆后点击 Blackboard 连接   
-   
+
   本门课程的作业和期末报告均需经由 Blackboard 平台提交。本门课程在 Blackboard 上的名称为    
   **20202-02012000-1206078-1608713150109: 高级计量经济学**    
 
