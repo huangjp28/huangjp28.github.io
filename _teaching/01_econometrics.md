@@ -77,7 +77,7 @@ permalink: /teaching/econometrics.html
     - 完成第一次个人作业中的练习，并在 Blackboard 上提交。
 
 * **Lecture 8** （第11周 5月11日）
-  - 非线性回归函数 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture8C.pdf %})   
+  - 非线性回归函数 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture8C.pdf %}), Data file: [[fatality.xlsx]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}), [[fatality.docx]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})    
     Further readings:
     - [Kuznets (1995)](https://www.jstor.org/stable/1811581)   
     - [Acemoglu & Robinson (2002)](https://doi.org/10.1111/1467-9361.00149)   
