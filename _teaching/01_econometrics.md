@@ -85,12 +85,10 @@ permalink: /teaching/econometrics.html
     - [Lind & Mehlum (2010)]( https://doi.org/10.1111/j.1468-0084.2009.00569.x)   
 
 * **Lecture 9** （第12周 5月18日）
-<!--
-      - Regression with panel data -- [[slides]]     
-        Data file: [[fatality.xlsx]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}), [[fatality.docx]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})    
-        Further readings about alcohol and vehicle fatalities:   
-        - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
--->
+  - 面板数据回归 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture9C.pdf %})     
+    Data file: [[fatality.xlsx]]({{ site.baseurl }}{% link /assets/files/fatality.xlsx %}), [[fatality.docx]]({{ site.baseurl }}{% link /assets/files/fatality.docx %})    
+    Further readings:   
+    - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
 
 * **Lecture 10** （第13周 5月25日）
 <!--
