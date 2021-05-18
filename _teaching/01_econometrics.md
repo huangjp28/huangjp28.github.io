@@ -90,7 +90,7 @@ permalink: /teaching/econometrics.html
     Further readings:   
     - [Ruhm (1996)](https://doi.org/10.1016/S0167-6296(96)00490-0)   
 
-    订正：在课堂上讲解如何在“个体中心化”形式下估计个体固定效应时，将估计量错误的写成 \\(\hat{\alpha}_i = Y_{it} - \hat{\beta}_1 X_{it}\\)，正确的估计量是 \\(\hat{\alpha}_i = \overline{Y}_{i} - \hat{\beta}_1 \overline{X}_{i}\\)，特此订正。
+    **订正**：在课堂上讲解如何在“个体中心化”形式下估计个体固定效应时，将估计量错误地写成 $$\hat{\alpha}_i = Y_{it} - \hat{\beta}_1 X_{it}$$，正确的估计量是 $$\hat{\alpha}_i = \bar{Y}_{i} - \hat{\beta}_1 \bar{X}_{i}$$，特此订正。
 
 * **Lecture 10** （第13周 5月25日）
 <!--
