@@ -93,13 +93,11 @@ permalink: /teaching/econometrics.html
     **订正**：在课堂上讲解如何在“个体中心化”形式下估计个体固定效应时，将估计量错误地写成 $$\hat{\alpha}_i = Y_{it} - \hat{\beta}_1 X_{it}$$，正确的估计量是 $$\hat{\alpha}_i = \bar{Y}_{i} - \hat{\beta}_1 \bar{X}_{i}$$，特此订正。
 
 * **Lecture 10** （第13周 5月25日）
-<!--
-      - Binary dependent variable -- [[slides]]    
+  - 二值因变量回归 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture10C.pdf %})    
         Data file: [[hmda_sw1.csv]]({{ site.baseurl }}{% link /assets/files/hmda_sw1.csv %}), [[hmda.docx]]({{ site.baseurl }}{% link /assets/files/hmda.docx %})   
-        Further readings about mortgage lending and race:   
+        Further readings about mortgage lending:   
         - [Munnell et al. (1996)](https://www.jstor.org/stable/2118254)    
         - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
--->
 
 * **Lecture 11** （第14周 6月1日）
 <!--
