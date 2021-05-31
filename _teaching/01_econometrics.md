@@ -104,7 +104,6 @@ permalink: /teaching/econometrics.html
         Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
         Further readings about smoking regulation in the US:   
         - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
--->
 
 * **Lecture 12** （第15周 6月8日）
 <!--
