@@ -100,8 +100,7 @@ permalink: /teaching/econometrics.html
         - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
 
 * **Lecture 11** （第14周 6月1日）
-<!--
-      - Instrumental variables (1) -- [[slides]]    
+  - 工具变量回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture11C.pdf %})    
         Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
         Further readings about smoking regulation in the US:   
         - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
@@ -109,7 +108,10 @@ permalink: /teaching/econometrics.html
 
 * **Lecture 12** （第15周 6月8日）
 <!--
-      - Instrumental variables (2) -- [[slides]]           
+      - Instrumental variables (2) -- [[slides]]       
+              Further readings:   
+              - [Angrist & Krueger (2001)](https://doi.org/10.1257/jep.15.4.69)    
+              - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
 -->
 
 * **Lecture 13** （第16周 6月15日）
