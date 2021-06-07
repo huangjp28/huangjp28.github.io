@@ -105,25 +105,23 @@ permalink: /teaching/econometrics.html
         Further readings about smoking regulation in the US:   
         - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
 
-* **Lecture 12** （第15周 6月8日）
-<!--
-      - Instrumental variables (2) -- [[slides]]       
-              Further readings:   
-              - [Angrist & Krueger (2001)](https://doi.org/10.1257/jep.15.4.69)    
-              - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
--->
+* **Lecture 12** （第15周 6月7日）   
+  - 工具变量回归（二） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture12C.pdf %})       
+        Further readings:   
+        - [Angrist & Krueger (2001)](https://doi.org/10.1257/jep.15.4.69)    
+        - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
 
-* **Lecture 13** （第16周 6月15日）
-<!--
-      - Experiments and quasi-experiments -- [[slides]]    
-        Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
--->
+* **Tutorial 2** （第16周 6月15日）   
+  - 课堂练习（二）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
 
-* **Lecture 14** （第17周 6月22日）   
-<!--
-      - Practice (2) -- Exercises in Lectures 10-14     
-      - Q&A   
--->
+
+* **Final exam** （第17周 6月22日）   
+  - 期末考试（随堂）   
+
+  <!--
+        - Experiments and quasi-experiments -- [[slides]]    
+          Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
+  -->
 
 <!--
     * **Final exam** （第3周 3月16日）   
@@ -148,13 +146,19 @@ permalink: /teaching/econometrics.html
   - 相关文件：[[CollegeDistance.xls]]({{ site.baseurl }}{% link /assets/files/CollegeDistance.xls %}), [[CollegeDistance_DataDescription.pdf]]({{ site.baseurl }}{% link /assets/files/CollegeDistance_DataDescription.pdf %})   
   - 提交方法：按 Blackboard 中的要求提交   
   - 截止时间：2021年5月10日晚23:59   
+
 * **第二次作业（小组提交）**
   - 分组：已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。
+  - 发布日期：2021年6月8日   
+  - 作业内容：[[Assignment2]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Assignment2.pdf %})   
+  - 提交方法：按 Blackboard 中的要求提交   
+  - 截止时间：2021年6月21日晚23:59   
 
 
 ---
-#### 期末报告
+#### 期末考试
 
+* **6月7日更新**：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，地点为汇紫楼A409（平时上课的教室）。   
 * **5月11日更新**：经和研究生院确认，期末成绩的依据（考试或论文形式）不能以小组为单位呈现，必须一人一份答案。为避免违规，现决定将第二次平时作业改为小组作业，期末改为个人提交，分数比例还是期末占50%。期末测试的具体形式将于5月末前公布。本次调整源于我的经验不足，对由此给大家带来的麻烦我深表歉意。   
 * ~~**分组**~~   
   ~~期末报告以小组为单位提交。已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。~~
