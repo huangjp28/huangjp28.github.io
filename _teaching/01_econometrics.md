@@ -94,22 +94,22 @@ permalink: /teaching/econometrics.html
 
 * **Lecture 10** （第13周 5月25日）
   - 二值因变量回归 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture10C.pdf %})    
-        Data file: [[hmda_sw1.csv]]({{ site.baseurl }}{% link /assets/files/hmda_sw1.csv %}), [[hmda.docx]]({{ site.baseurl }}{% link /assets/files/hmda.docx %})   
-        Further readings about mortgage lending:   
-        - [Munnell et al. (1996)](https://www.jstor.org/stable/2118254)    
-        - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
+    Data file: [[hmda_sw1.csv]]({{ site.baseurl }}{% link /assets/files/hmda_sw1.csv %}), [[hmda.docx]]({{ site.baseurl }}{% link /assets/files/hmda.docx %})   
+    Further readings about mortgage lending:   
+    - [Munnell et al. (1996)](https://www.jstor.org/stable/2118254)    
+    - [Ladd (1998)](https://doi.org/10.1257/jep.12.2.41)    
 
 * **Lecture 11** （第14周 6月1日）
   - 工具变量回归（一） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture11C.pdf %})    
-        Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
-        Further readings about smoking regulation in the US:   
-        - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
+    Data file: [[cig_ch12.xlsx]]({{ site.baseurl }}{% link /assets/files/cig_ch12.xlsx %}), [[cigarette.docx]]({{ site.baseurl }}{% link /assets/files/cigarette.docx %})   
+    Further readings about smoking regulation in the US:   
+    - [Gruber (2001)](https://doi.org/10.1257/jep.15.2.193)   
 
 * **Lecture 12** （第15周 6月7日）   
   - 工具变量回归（二） -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture12C.pdf %})       
-        Further readings:   
-        - [Angrist & Krueger (2001)](https://doi.org/10.1257/jep.15.4.69)    
-        - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
+    Further readings:   
+    - [Angrist & Krueger (2001)](https://doi.org/10.1257/jep.15.4.69)    
+    - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
 
 * **Tutorial 2** （第16周 6月15日）   
   - 课堂练习（二）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
@@ -117,6 +117,7 @@ permalink: /teaching/econometrics.html
 
 * **Final exam** （第17周 6月22日）   
   - 期末考试（随堂）   
+    - 考试教室调整为**汇紫楼B207**。
 
   <!--
         - Experiments and quasi-experiments -- [[slides]]    
@@ -158,7 +159,8 @@ permalink: /teaching/econometrics.html
 ---
 #### 期末考试
 
-* **6月7日更新**：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，地点为汇紫楼A409（平时上课的教室）。   
+* **6月11日更新**：为确保考试时考生之间不相邻，考试教室调整为**汇紫楼B207**。
+* **6月7日更新**：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，~~地点为汇紫楼A409（平时上课的教室）~~。   
 * **5月11日更新**：经和研究生院确认，期末成绩的依据（考试或论文形式）不能以小组为单位呈现，必须一人一份答案。为避免违规，现决定将第二次平时作业改为小组作业，期末改为个人提交，分数比例还是期末占50%。期末测试的具体形式将于5月末前公布。本次调整源于我的经验不足，对由此给大家带来的麻烦我深表歉意。   
 * ~~**分组**~~   
   ~~期末报告以小组为单位提交。已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。~~
