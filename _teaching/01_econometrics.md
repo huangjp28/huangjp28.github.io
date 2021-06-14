@@ -112,23 +112,19 @@ permalink: /teaching/econometrics.html
     - [Murrey (2006)](https://doi.org/10.1257/jep.20.4.111)    
 
 * **Tutorial 2** （第16周 6月15日）   
-  - 课堂练习（二）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。   
-
+  - 课堂练习（二）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。    
+    - 针对第八讲以后的课件中提及的可操作内容进行练习。已经在课下完成练习者可忽略，并可利用课堂时间准备小组报告或期末考试。   
 
 * **Final exam** （第17周 6月22日）   
   - 期末考试（随堂）   
-    - 考试教室调整为**汇紫楼B207**。
+    - 考试时间为上课时间：19:00 - 20:20   
+    - 考试教室调整为**汇紫楼B207**   
 
   <!--
         - Experiments and quasi-experiments -- [[slides]]    
           Data file: [[star_sw.xlsx]]({{ site.baseurl }}{% link /assets/files/star_sw.xlsx %}), [[star.docx]]({{ site.baseurl }}{% link /assets/files/star.docx %})   
   -->
 
-<!--
-    * **Final exam** （第3周 3月16日）   
-      - Time: Dec 30 (Monday), 14:30~16:30    
-      - Place: A407 Huizi Building    
--->
 
 ---
 #### 平时作业
