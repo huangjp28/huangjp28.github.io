@@ -7,7 +7,7 @@ permalink: /
 ---
 Welcome to the website of Jia-Ping HUANG (黄嘉平)!
 
-I am an assistant professor at Shenzhen Univerisity, China. I have been granted a degree of PhD in Engineering from University of Tsukuba, Japan, and a degree of Doctor of Philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (VU University Amsterdam), the Netherlands. My current research interests include, but are not limited to,
+I am an assistant professor at Shenzhen University, China. I have been granted a degree of PhD in Engineering from University of Tsukuba, Japan, and a degree of Doctor of Philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (VU University Amsterdam), the Netherlands. My current research interests include, but are not limited to,
 * cooperative game theory,   
 * social and economic networks,   
 * mathematical economics.   
