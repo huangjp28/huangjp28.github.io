@@ -17,7 +17,7 @@ permalink: /teaching/econometrics.html
 #### 基本信息
 
 **上课时间与地点**：星期五7-8节，丽湖校区四方楼 南105    
-**疫情封校期间线上教学平台**：腾讯课堂（腾讯会议作为备用选项）   
+**疫情封校期间线上教学平台**：~~腾讯课堂~~ 腾讯会议深大版，请大家参照学校通知中的步骤注册使用   
 **教科书**：   
 William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pearson   
 威廉 · H. 格林, 《计量经济分析（英文版·第八版）》, 中国人民大学出版社, ISBN: 978-7-300-27478-2    
@@ -56,7 +56,8 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **线上教学平台试课** （第1周 2月27日）   
   - 时间：2月27日15:00-16:00
   - 内容：检验教学平台的各项功能   
-    请选课同学事先下载安装腾讯课堂客户端，并将课程关联到自己的账户。请有时间的同学参加试课。   
+    请选课同学事先下载安装~~腾讯课堂~~客户端，并将课程关联到自己的账户。请有时间的同学参加试课。   
+    **2月27日更新**: 因腾讯课堂卡顿严重，改用腾讯会议深大版。感谢参与试课的同学！
 
 * **Lecture 1** （第2周 3月4日）
   - Introduction <!-- -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2021_Lecture1.pdf %}) -->   
