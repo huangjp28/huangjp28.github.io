@@ -6,26 +6,9 @@ permalink: /teaching/
 ---
 
 ---
-### [Statistics]({{ site.baseurl }}{% link _teaching/05_statistics.md %}) (undergraduate)
-spring 2019   
-(information for spring 2021 is on Blackboard of SZU, previously taught in spring 2020)
+### [Advanced Mathematics C1]({{ site.baseurl }}{% link _teaching/02_mathc1.md %}) (undergraduate)
+spring 2022   
 
----
-### [Calculus I]({{ site.baseurl }}{% link _teaching/03_calculus1.md %}) (undergraduate)
-aka Advanced Mathematics C(1)   
-spring 2019   
-(information for spring 2020 is on Blackboard of SZU)
-
----
-### [Calculus II]({{ site.baseurl }}{% link _teaching/04_calculus2.md %}) (undergraduate)
-aka Advanced Mathematics C(2)   
-fall 2019   
-(information for fall 2020 is on Blackboard of SZU, previously taught in spring 2018)
-
----
-### [Using R in Financial Statistics]({{ site.baseurl }}{% link _teaching/06_finstat.md %}) (undergraduate)    
-金融统计软件应用（英文版）   
-spring 2019
 
 ---
 ### [Advanced Econometrics]({{ site.baseurl }}{% link _teaching/01_econometrics.md %}) (graduate)
@@ -33,7 +16,7 @@ spring 2019
 spring 2022   
 (previously taught in spring 2021 under the same title, and fall 2016-2019 as Econometrics I)
 
-If you are a beginner in econometrics, you can find information and materials from the page for the spring semester of 2021 [here]({{ site.baseurl }}{% link _teaching/010_econometrics_2021.md %}), which is based on Stock & Watson (2012), to help yourself get a glimpse of the subject. 
+If you are a beginner in econometrics, you can find information and materials from the page for the spring semester of 2021 [here]({{ site.baseurl }}{% link _teaching/010_econometrics_2021.md %}), which is based on Stock & Watson (2012), to help yourself get a glimpse of the subject.
 
 From 2019 academic year we use **gretl** (GNU Regression, Econometrics and Time-series Library) in this course. Gretl is a cross-platform software package for econometric analysis. It is free and open-source. For more information see its homepage <http://gretl.sourceforge.net/>. The following document provides a quick walkthrough for absolute beginners.
 
@@ -41,8 +24,7 @@ From 2019 academic year we use **gretl** (GNU Regression, Econometrics and Time-
 * [gretl 初次使用指南]({{ site.baseurl }}{% link /assets/pdf/gretlintro_C.pdf %})
 
 R is also a good choice for econometric studies and research. Students who are familiar with programming may try to use R. Here is some useful information.   
-* [An installation guide of R & RStudio]({{ site.baseurl }}{% link _teaching/02_rinstall.md %})   
-* [Introduction with Econometrics with R](https://www.econometrics-with-r.org/) (an empirical companion to Stock & Watson (2015) by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer)
+* [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) (an empirical companion to Stock & Watson (2015) by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer)
 * [A cheat sheet for basic commands in R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 * [A cheat sheet for RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 
