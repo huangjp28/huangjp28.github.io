@@ -60,7 +60,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
     **2月27日更新**: 因腾讯课堂卡顿严重，改用腾讯会议深大版。感谢参与试课的同学！
 
 * **Lecture 1** （第2周 3月4日）
-  - Introduction <!-- -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2021_Lecture1.pdf %}) -->   
+  - Introduction -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2021_Lecture1.pdf %})    
     补充资料：[[Online Appendices]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
 
