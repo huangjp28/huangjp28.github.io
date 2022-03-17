@@ -50,7 +50,7 @@ Chapter 1: Essentials of Logic and Set Theory
 Chapter 2: Algebra   
 Chapter 3: Solving Equations   
 Chapter 15: Matrix and Vector Algebra    
-Chapter 16: Determinants and Inverse Matrcies   
+Chapter 16: Determinants and Inverse Matrices   
 Chapter 4: Functions of One Variable    
 Chapter 5: Properties of Functions  
 
@@ -64,6 +64,20 @@ Final exam: 60%
 ---
 #### Homework Exercises   
 
-to be announced...
+* Homework 1 (**March 7**)   
+  - Section 1.1: 1, 4, 6
+  - Section 1.2: 2(c,e), 4(a)
+  - Section 1.3: 3
+  - Section 1.4: 1, 2   
+
+* Homework 2 (**March 17**)   
+  - Prove that \\( \sqrt{2} \\) is an irrational number.   
+    Hint: If \\( \sqrt{2} \\) is a rational number, we can always find integers \\(p\\) and \\(q\\) such that \\( \sqrt{2} = p/q \\) where \\(q\neq 0\\), and \\(p, q\\) are not both even (because if they are, we can cancel the common factor 2 and call the resulting numerator and denominator \\(p\\) and \\(q\\) respectively). Assume \\( \sqrt{2} \\) is rational and then try to find a contradiction.
+  - Section 2.2: 4(b,d,f), 5(c,g,i)
+  - Section 2.3: 2(a), 3(f), 9(d), 10(a,e)
+  - Section 2.4: 2(b,e), 5(a,e)
+  - Section 2.5: 1(e,h), 4(b,e,g), 5(b,c)   
+
+
 
 ---
