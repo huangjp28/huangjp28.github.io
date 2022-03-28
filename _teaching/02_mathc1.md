@@ -78,6 +78,11 @@ Final exam: 60%
   - Section 2.4: 2(b,e), 5(a,e)
   - Section 2.5: 1(e,h), 4(b,e,g), 5(b,c)   
 
+* Homework 3 (**March 28**)
+  - Section 2.6: 2(b,d), 4(e,"ell")   
+  - Section 2.7: 2   
+  - Section 2.8: 2(b,c), 3(e,d)   
+  - Section 2.9: 1   
 
 
 ---
