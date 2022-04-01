@@ -63,15 +63,17 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - Introduction -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2021_Lecture1.pdf %})    
     补充资料：[[Online Appendices]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
-* **Lecture 2** （第3周 3月11日）
+* **Lecture 2** （第3周 3月11日）  
   - The linear regression model (1) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220311.pdf %})    
 
-* **Lecture 3** （第4周 3月18日）
+* **Lecture 3** （第4周 3月18日）  
   - The linear regression model (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220318.pdf %})    
 
-* **Lecture 4** （第5周 3月25日）
+* **Lecture 4** （第5周 3月25日）  
   - The linear regression model (3) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220325.pdf %})    
 
+* **Lecture 5** （第6周 4月1日）  
+  - The linear regression model (4) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220401.pdf %})    
 
 
 
