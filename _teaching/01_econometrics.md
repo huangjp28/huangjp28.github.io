@@ -75,6 +75,8 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 5** （第6周 4月1日）  
   - The linear regression model (4) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220401.pdf %})    
 
+* **Lecture 6** （第7周 4月8日）  
+  - The linear regression model (5) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220408.pdf %})    
 
 
 
