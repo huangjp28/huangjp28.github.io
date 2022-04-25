@@ -104,7 +104,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - 参考答案：[[Solution of Assignment 1]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A1Ans.pdf %})   
 
 **第2次作业**    
-  - 题目：[[Assignment 2]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A2.pdf %})   
+  - 题目：[[Assignment 2]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A2_v2.pdf %})  **(2022年4月25日更新)**    
   - 截止日期：北京时间 **2022年4月28日 23:59:59**，以邮箱收件时间为准，**过期视为未提交**。   
 
 
