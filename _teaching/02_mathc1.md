@@ -95,6 +95,11 @@ Final exam: 60%
   - Section 15.3: 2, 3, 5, 7   
   - Section 15.4: 1, 2   
 
+* Homework 6 (**April 28**)   
+  - Section 15.5: 1, 2(a), 4   
+  - Section 15.6: 1(a,c), 2   
+  - Section 15.7: 7   
+  - Section 15.8: 1, 6   
 
 
 ---
