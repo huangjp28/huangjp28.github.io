@@ -82,7 +82,10 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - The linear regression model (6) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220415.pdf %})    
 
 * **Lecture 8** （第9周 4月22日）  
-  - The linear regression model (7) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220422.pdf %})    
+  - The linear regression model (7) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220422.pdf %})   
+
+* **Lecture 9** （第10周 4月29日）  
+  - Review of statistical inference -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220429.pdf %})   
 
 
 
@@ -106,6 +109,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 **第2次作业**    
   - 题目：[[Assignment 2]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A2_v2.pdf %})  **(2022年4月25日更新)**    
   - 截止日期：北京时间 **2022年4月28日 23:59:59**，以邮箱收件时间为准，**过期视为未提交**。   
+  - 参考答案：[[Solution of Assignment 2]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A2Ans.pdf %})   
 
 
 ---
