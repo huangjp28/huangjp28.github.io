@@ -87,6 +87,9 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 9** （第10周 4月29日）  
   - Review of statistical inference -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220429.pdf %})   
 
+* **Lecture 10** （第11周 5月6日）   
+  - The Gauss-Markov theorem -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220506.pdf %})    
+
 
 
 
