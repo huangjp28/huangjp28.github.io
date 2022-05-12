@@ -101,5 +101,11 @@ Final exam: 60%
   - Section 15.7: 7   
   - Section 15.8: 1, 6   
 
+* Homework 7 (**May 12**)   
+  - Section 16.1: 3(a,b), 4, 6   
+  - Section 16.2: 3(c)   
+  - Section 16.3: 1(b), 2, 3
+    Hint to 16.3.2: first show that \\( A B\\) is also upper triangular.
+
 
 ---
