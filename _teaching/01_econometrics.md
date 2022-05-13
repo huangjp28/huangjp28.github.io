@@ -90,7 +90,8 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 10** （第11周 5月6日）   
   - The Gauss-Markov theorem -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220506.pdf %})    
 
-
+* **Lecture 11** （第12周 5月13日）   
+  - Consistency -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220513.pdf %})    
 
 
 
