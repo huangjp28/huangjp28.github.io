@@ -93,6 +93,10 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 11** （第12周 5月13日）   
   - Consistency -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220513.pdf %})    
 
+* **Lecture 12** （第13周 5月20日）   
+  - Hypothesis testing (1) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220520.pdf %})   
+    注：板书中包含订正，请查看紫色部分！    
+
 
 
 ---
