@@ -105,7 +105,11 @@ Final exam: 60%
   - Section 16.1: 3(a,b), 4, 6   
   - Section 16.2: 3(c)   
   - Section 16.3: 1(b), 2, 3   
-    Hint to 16.3.2: first show that \\( A B\\) is also upper triangular.
+    Hint to 16.3.2: first show that \\( A B\\) is also upper triangular.   
 
+* Homework 8 (**May 23**)   
+  - Section 16.4: 3(b), 6(a,c), 8   
+  - Section 16.6: 1, 2, 3(a)    
+  - Section 16.7: 2 (use both the general formula and elementary row operations)    
 
 ---
