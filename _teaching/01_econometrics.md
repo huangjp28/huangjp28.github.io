@@ -97,6 +97,9 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - Hypothesis testing (1) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220520.pdf %})   
     注：板书中包含订正，请查看紫色部分！    
 
+* **Lecture 13** （第14周 5月27日）   
+  - Hypothesis testing (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220527.pdf %})   
+
 
 
 ---
