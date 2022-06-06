@@ -112,4 +112,22 @@ Final exam: 60%
   - Section 16.6: 1, 2, 3(a)    
   - Section 16.7: 2 (use both the general formula and elementary row operations)    
 
+* Homework 9 (**June 6**)   
+  - Section 4.2: 14, 15   
+  - Section 4.4: 1(a), 6, 10   
+  - Section 4.6: 2, 6   
+  - Section 4.7: 2(c), 5(b), 7   
+
+---
+#### Final Assignment    
+
+The final assignment will be given on the last lecture day June 23 in the online share folder of this course.
+
+* **Deadline**: June 25, 23:59:59 (in China Standard Time, UTC+8)
+* **Submission**:    
+  1. Please print out the assignment file and write answers on it.    
+  2. Scan your answers and save in a single pdf file.    
+  3. Send the file via email to huangjp #at# szu . edu . cn (delete unnecessary spaces and #s) before the deadline.
+
+
 ---
