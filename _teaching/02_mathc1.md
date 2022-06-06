@@ -121,11 +121,11 @@ Final exam: 60%
 ---
 #### Final Assignment    
 
-The final assignment will be given on the last lecture day June 23 in the online share folder of this course.
+The final assignment will be given on the last lecture day **June 23** in the online share folder of this course.
 
-* **Deadline**: June 25, 23:59:59 (in China Standard Time, UTC+8)
-* **Submission**:    
-  1. Please print out the assignment file and write answers on it.    
+* **Deadline**: **June 25, 23:59:59** (in China Standard Time, UTC+8)
+* **Submission**: Please follow the procedure below.   
+  1. Print out the assignment file and write answers directly on it.    
   2. Scan your answers and save in a single pdf file.    
   3. Send the file via email to huangjp #at# szu . edu . cn (delete unnecessary spaces and #s) before the deadline.
 
