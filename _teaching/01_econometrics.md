@@ -100,6 +100,14 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 13** （第14周 5月27日）   
   - Hypothesis testing (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220527.pdf %})   
 
+* **Lecture 14** （第16周 6月10日）   
+  - Causal Inference (1) -- [[note]]    
+    Supplementary materials:    
+    1. Matt Masten, Causal Inference Bootcamp, Duke University    
+      [[Part 1 on bilibili]](https://www.bilibili.com/video/BV1m7411g7kV), [[Part 2 on bilibili]](https://www.bilibili.com/video/BV117411g7mz), [[Author's website]](https://mattmasten.github.io/)   
+    2. The Nobel Prize in Economic Sciences 2021 (David Card, Joshua D. Angrist, Guido W. Imbens)  
+      [[The Nobel Prize Website]](https://www.nobelprize.org/prizes/economic-sciences/2021/summary/), [[Nobel Prize Lectures on bilibili]](https://www.bilibili.com/video/BV18b4y1v7xy)   
+    3. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/)
 
 
 ---
@@ -127,8 +135,19 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - 截止日期：北京时间 **2022年5月26日 23:59:59**，以邮箱收件时间为准，**过期视为未提交**。   
   - 参考答案：[[Solution of Assignment 3]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A3Ans.pdf %})   
 
+**第4次作业**   
+  - 题目：[[Assignment 4]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A4.pdf %})   
+  - 截止日期：北京时间 **2022年6月16日 23:59:59**，以邮箱收件时间为准，**过期视为未提交**。   
+
+
 
 ---
 #### 期末考试
 
-待更新
+期末考试采取课程论文形式。
+* 题目与要求：[[Final Assignment]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_FA.pdf %})    
+* 提交日期：
+* 提交方法：已返校的同学将论文用A4纸双面打印后，提交至丽湖校区明德楼（经济学院）1011郑岚老师处。没有返校的同学将论文保存为PDF格式后发送至 hjpszu@163.com ，邮件主题和论文文件名均采用 “AE2022-FA-学号-姓名” 的格式。
+* 附件：[[深圳大学研究生课程论文封面]]({{ site.baseurl }}{% link /assets/files/termpapercover.doc %})    
+
+---
