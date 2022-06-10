@@ -101,7 +101,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
   - Hypothesis testing (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220527.pdf %})   
 
 * **Lecture 14** （第16周 6月10日）   
-  - Causal Inference (1) -- [[note]]    
+  - Causal Inference (1) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220610.pdf %})    
     Supplementary materials:    
     1. Matt Masten, Causal Inference Bootcamp, Duke University    
       [[Part 1 on bilibili]](https://www.bilibili.com/video/BV1m7411g7kV), [[Part 2 on bilibili]](https://www.bilibili.com/video/BV117411g7mz), [[Author's website]](https://mattmasten.github.io/)   
@@ -146,7 +146,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 
 期末考试采取课程论文形式。
 * 题目与要求：[[Final Assignment]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_FA.pdf %})    
-* 提交日期：
+* 提交日期：**2022年7月4日（星期一）**   
 * 提交方法：已返校的同学将论文用A4纸双面打印后，提交至丽湖校区明德楼（经济学院）1011郑岚老师处。没有返校的同学将论文保存为PDF格式后发送至 hjpszu@163.com ，邮件主题和论文文件名均采用 “AE2022-FA-学号-姓名” 的格式。
 * 附件：[[深圳大学研究生课程论文封面]]({{ site.baseurl }}{% link /assets/files/termpapercover.doc %})    
 
