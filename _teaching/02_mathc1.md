@@ -118,6 +118,15 @@ Final exam: 60%
   - Section 4.6: 2, 6   
   - Section 4.7: 2(c), 5(b), 7   
 
+* Homework 10 (**June 16**)   
+  - Section 4.9: 7, 10   
+  - Section 4.10: 1, 2(b,c,e), 4, 7   
+  - Section 5.1: 5*   
+  - Section 5.3: 9*    
+    Questions with * can be omitted if the topic is not discussed in the lecture.   
+
+
+
 ---
 #### Final Assignment    
 
