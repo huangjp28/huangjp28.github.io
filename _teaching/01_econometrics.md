@@ -107,7 +107,10 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
       [[Part 1 on bilibili]](https://www.bilibili.com/video/BV1m7411g7kV), [[Part 2 on bilibili]](https://www.bilibili.com/video/BV117411g7mz), [[Author's website]](https://mattmasten.github.io/)   
     2. The Nobel Prize in Economic Sciences 2021 (David Card, Joshua D. Angrist, Guido W. Imbens)  
       [[The Nobel Prize Website]](https://www.nobelprize.org/prizes/economic-sciences/2021/summary/), [[Nobel Prize Lectures on bilibili]](https://www.bilibili.com/video/BV18b4y1v7xy)   
-    3. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/)
+    3. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/)   
+
+* **Lecture 15** （第17周 6月17日）   
+  - Causal Inference (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220617.pdf %})   
 
 
 ---
@@ -138,7 +141,7 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 **第4次作业**   
   - 题目：[[Assignment 4]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A4.pdf %})   
   - 截止日期：北京时间 **2022年6月16日 23:59:59**，以邮箱收件时间为准，**过期视为未提交**。   
-
+  - 参考答案：[[Solution of Assignment 4]]({{ site.baseurl }}{% link /assets/pdf/Metrics2022_A4Ans.pdf %})   
 
 
 ---
