@@ -112,6 +112,9 @@ William H. Greene (2020), Econometric Analysis, 8th Edition, Global Edition, Pea
 * **Lecture 15** （第17周 6月17日）   
   - Causal Inference (2) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220617.pdf %})   
 
+* **Lecture 16** （第18周 6月24日）   
+  - Causal Inference (3) -- [[note]]({{ site.baseurl }}{% link /assets/pdf/MetricsNote20220624.pdf %})   
+
 
 ---
 #### 作业
