@@ -28,10 +28,12 @@ Advanced Mathematics C2 is a subsequent course of Advanced Mathematics C1. In th
 In this semester we take an asynchronous approach for online learning, since this better suits the situation that our students are in different countries around the world. In this approach, students need to be more active instead of massively watching a lecture video. During each 80 minutes study time, students are recommended to read the textbook first, trying to understand the topics for that class. Supportive materials like video clips are provided, which can help students deepen their understanding. In tutorial classes, students are asked to solve some exercises from the textbook independently, then watch explanation videos to check their answers. A quiz will be given when attendance is taken for each class.   
 
 All materials can be found in the following OneDrive folder:    
-
   <https://1drv.ms/u/s!ArnbvtxDgBZsoDYksOJnkzU4vXP3?e=FlePVh>    
 
-A password is required to access this folder, which can be obtained in the communication group of this course. If you are living in mainland China, you may need a VPN service to access the folder.    
+or the following Tencent Weiyun folder:   
+  <https://share.weiyun.com/DC8XNPjU>
+
+Both folders are password protected. Passwords can be obtained in the communication group of this course. If you are living outside of mainland China, please use the OneDrive folder. The Tencent Weiyun folder is for those living inside mainland China, where a VPN service is needed to access the OneDrive folder.    
 
 For every particular class day you will find a corresponding subfolder named with the date following a consecutive number, e.g., "1.Sep 6". In each subfolder, there is a study guide for that class saved in a file named "Readme.pdf". You can read this file first, then use the textbook and other supportive materials given in the subfolder to finish your study. The attendance quiz will be provided through a web survey for each class.
 
