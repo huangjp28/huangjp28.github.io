@@ -72,13 +72,13 @@ Final assignment: 60%
 ---
 #### Final Assignment    
 
-The final assignment will be given on the last lecture day **December 22, 2022** in the online share folder of this course.
+The final assignment will be given in the class on ~~December 22~~ **December 20, 2022** using the online share folder of this course.
 
-* **Deadline**: **December 24, 23:59:59** (in China Standard Time, UTC+8)
+* **Deadline**: ~~December 24~~ **December 22, 23:59:59** (in China Standard Time, UTC+8)
 * **Submission**: Please follow the procedure below.   
   1. Print out the assignment file and write answers directly on it.    
   2. Scan your answers and save in a single pdf file.    
-  3. Send the file via email to huangjp #at# szu . edu . cn (delete unnecessary spaces and #s) before the deadline.
+  3. Send the pdf file containing your answers via email to huangjp #at# szu . edu . cn (delete unnecessary spaces and #) before the deadline.
 
 
 ---
