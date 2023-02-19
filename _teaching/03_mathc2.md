@@ -6,7 +6,7 @@ permalink: /teaching/mathc2.html
 ---
 
 ---
-### Advanced Mathematics C2
+### Advanced Mathematics C2 (fall 2022)
 
 Advanced Mathematics C2 is a subsequent course of Advanced Mathematics C1. In this course we learn calculus, including differentiation, single variable optimization, applications in economics, and integration. Students who finish this course will have a minimum foundation of mathematical knowledge in their study of further topics in economics and management.
 
