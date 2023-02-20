@@ -62,7 +62,7 @@ permalink: /teaching/econometrics.html
 
 以下为教学计划。实际教学进度可能根据实际情况进行必要的调整。
 * **Lecture 1** （第1周 2月20日）
-  - 绪论     
+  - 绪论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture1.pdf %})     
     补充资料：[[Online Appendices of Greene (2020)]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
 * **Lecture 2** （第2周 2月27日）  
