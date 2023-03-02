@@ -66,13 +66,13 @@ permalink: /teaching/econometrics.html
     补充资料：[[Online Appendices of Greene (2020)]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
 * **Lecture 2** （第2周 2月27日）  
-  - 最小二乘估计（OLS）    
+  - 最小二乘估计（OLS）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture2.pdf %})       
 
 * **Lecture 3** （第3周 3月6日）  
-  - 线性模型的几何特征    
+  - 线性模型的几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture3.pdf %})    
 
 * **Lecture 4** （第4周 3月13日）  
-  - Frisch-Waugh-Lovel 定理    
+  - Frisch-Waugh-Lovell 定理    
 
 * **Lecture 5** （第5周 3月20日）  
   - OLS 的统计学性质（一）    

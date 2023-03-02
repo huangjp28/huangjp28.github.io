@@ -14,7 +14,7 @@ I am an assistant professor at Shenzhen University, China. I have been granted a
 
 More information about me can be found in the [Curriculum Vitae]({{ site.baseurl }}{% link _pages/01_CV.md %}) page.
 
-
+如果你是学生，在考虑是否选我为导师，请先阅读 [Supervision]({{ site.baseurl }}{% link _pages/04_supervision.md %}) 部分。
 
 ---
 
