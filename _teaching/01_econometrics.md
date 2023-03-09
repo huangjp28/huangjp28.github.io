@@ -72,7 +72,10 @@ permalink: /teaching/econometrics.html
   - 线性模型的几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture3.pdf %})    
 
 * **Lecture 4** （第4周 3月13日）  
-  - Frisch-Waugh-Lovell 定理    
+  - Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture4.pdf %})    
+    课外阅读：   
+    * [Frisch & Waugh (1933)](https://www.jstor.org/stable/1907330)   
+    * [Lovell (1963)](https://www.jstor.org/stable/2283327)    
 
 * **Lecture 5** （第5周 3月20日）  
   - OLS 的统计学性质（一）    
