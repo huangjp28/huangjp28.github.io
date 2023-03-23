@@ -78,16 +78,16 @@ permalink: /teaching/econometrics.html
     * [Lovell (1963)](https://www.jstor.org/stable/2283327)    
 
 * **Lecture 5** （第5周 3月20日）  
-  - OLS 的统计学性质（一）    
+  - OLS 的统计学性质（一）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture5.pdf %})    
 
 * **Lecture 6** （第6周 3月27日）  
-  - OLS 的统计学性质（二）    
+  - OLS 的统计学性质（二）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture6.pdf %})    
 
 * **Lecture 7** （第7周 4月3日）  
-  - 假设检验    
+  - 假设检验（一）    
 
 * **Lecture 8** （第8周 4月10日）  
-  - 置信区间   
+  - 假设检验（二）、置信区间、HCCME    
 
 * **Lecture 9** （第9周 4月17日）  
   - NLS 与 GLS   
