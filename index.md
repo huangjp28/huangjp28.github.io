@@ -16,6 +16,7 @@ More information about me can be found in the [Curriculum Vitae]({{ site.baseurl
 
 如果你是学生，在考虑是否选我为导师，请先阅读 [Supervision]({{ site.baseurl }}{% link _pages/04_supervision.md %}) 部分。
 
+
 ---
 
 <a href="https://sfdora.org/"><img src="{{ site.baseurl }}{% link /assets/img/Dorabadge1.png %}" alt="DORA" title="DORA" height="50" /></a>

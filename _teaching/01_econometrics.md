@@ -84,10 +84,14 @@ permalink: /teaching/econometrics.html
   - OLS 的统计学性质（二）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture6.pdf %})    
 
 * **Lecture 7** （第7周 4月3日）  
-  - 假设检验（一）    
+  - 假设检验（一）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture7.pdf %})    
 
 * **Lecture 8** （第8周 4月10日）  
-  - 假设检验（二）、置信区间、HCCME    
+  - 假设检验（二）、置信区间、HCCME：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture8.pdf %})    
+    课外阅读：   
+    * [White (1980)](http://www.jstor.org/stable/1912934)   
+    * [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7)   
+    * [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
 * **Lecture 9** （第9周 4月17日）  
   - NLS 与 GLS   
