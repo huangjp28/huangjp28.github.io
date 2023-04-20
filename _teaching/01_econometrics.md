@@ -94,10 +94,14 @@ permalink: /teaching/econometrics.html
     * [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
 * **Lecture 9** （第9周 4月17日）  
-  - NLS 与 GLS   
+  - 非线形回归、NLS、GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture9.pdf %})      
 
 * **Lecture 10** （第10周 4月24日）   
-  - 工具变量估计（IV）    
+  - 工具变量估计（IV）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture10.pdf %})   
+    课外阅读：   
+    * [Angrist & Kruger (1991)](https://www.jstor.org/stable/2937954)   
+    * [Bound, Jaeger, & Baker (1995)](https://www.jstor.org/stable/2291055)   
+    * [Angrist, Imbens, & Kruger (1999)](https://www.jstor.org/stable/223249)   
 
 * **Lecture 11** （第12周 5月8日）   
   - 反事实因果推断基础    
@@ -109,7 +113,7 @@ permalink: /teaching/econometrics.html
   - 断点回归（RD）   
 
 * **Lecture 14** （第15周 5月29日）   
-  - 工具变量法
+  - 工具变量法    
 
 * **Lecture 15** （第16周 6月5日）   
   - 合成控制法（synthetic control）   
