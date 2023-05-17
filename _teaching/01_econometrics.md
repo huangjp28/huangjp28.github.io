@@ -61,65 +61,64 @@ permalink: /teaching/econometrics.html
 #### 进度与资料
 
 以下为教学计划。实际教学进度可能根据实际情况进行必要的调整。
-* **Lecture 1** （第1周 2月20日）
+* **Lecture 1**
   - 绪论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture1.pdf %})     
     补充资料：[[Online Appendices of Greene (2020)]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
-* **Lecture 2** （第2周 2月27日）  
+* **Lecture 2**   
   - 最小二乘估计（OLS）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture2.pdf %})       
 
-* **Lecture 3** （第3周 3月6日）  
+* **Lecture 3**   
   - 线性模型的几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture3.pdf %})    
 
-* **Lecture 4** （第4周 3月13日）  
+* **Lecture 4**   
   - Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture4.pdf %})    
     课外阅读：   
     * [Frisch & Waugh (1933)](https://www.jstor.org/stable/1907330)   
     * [Lovell (1963)](https://www.jstor.org/stable/2283327)    
 
-* **Lecture 5** （第5周 3月20日）  
+* **Lecture 5**   
   - OLS 的统计学性质（一）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture5.pdf %})    
 
-* **Lecture 6** （第6周 3月27日）  
+* **Lecture 6**   
   - OLS 的统计学性质（二）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture6.pdf %})    
 
-* **Lecture 7** （第7周 4月3日）  
+* **Lecture 7**   
   - 假设检验（一）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture7.pdf %})    
 
-* **Lecture 8** （第8周 4月10日）  
+* **Lecture 8**     
   - 假设检验（二）、置信区间、HCCME：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture8.pdf %})    
     课外阅读：   
     * [White (1980)](http://www.jstor.org/stable/1912934)   
     * [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7)   
     * [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17)   
 
-* **Lecture 9** （第9周 4月17日）  
+* **Lecture 9**   
   - 非线形回归、NLS、GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture9.pdf %})      
 
-* **Lecture 10** （第10周 4月24日）   
+* **Lecture 10**    
   - 工具变量估计（IV）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture10.pdf %})   
     课外阅读：   
     * [Angrist & Kruger (1991)](https://www.jstor.org/stable/2937954)   
     * [Bound, Jaeger, & Baker (1995)](https://www.jstor.org/stable/2291055)   
     * [Angrist, Imbens, & Kruger (1999)](https://www.jstor.org/stable/223249)   
 
-* **Lecture 11** （第12周 5月8日）   
-  - 反事实因果推断基础    
+* **Lecture 11**     
+  - Neyman-Rubin 因果模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture11.pdf %})    
 
-* **Lecture 12** （第13周 5月15日）   
-  - 双重差分法（DID）    
+* **Lecture 12**    
+  - 双重差分法（DID）和合成控制法（synthetic control）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture12.pdf %})    
+    课外阅读：
+    * [LaLonde (1986)](http://www.jstor.org/stable/1806062)   
+    * [Dehejia & Wahba (1999)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10473858)    
+    * [Gruber (1994)](http://www.jstor.org/stable/2118071)   
 
-* **Lecture 13** （第14周 5月22日）   
-  - 断点回归（RD）   
+* **Lecture 13**    
+  - 工具变量法和LATE   
 
-* **Lecture 14** （第15周 5月29日）   
-  - 工具变量法    
+* **Lecture 14**   
+  - 断点回归设计（RDD）        
 
-* **Lecture 15** （第16周 6月5日）   
-  - 合成控制法（synthetic control）   
-
-* **Lecture 16** （第17周 6月12日）   
-  - 总结与答疑   
 
 
 ---
