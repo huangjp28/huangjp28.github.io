@@ -108,16 +108,21 @@ permalink: /teaching/econometrics.html
 
 * **Lecture 12**    
   - 双重差分法（DID）和合成控制法（synthetic control）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture12.pdf %})    
-    课外阅读：
-    * [LaLonde (1986)](http://www.jstor.org/stable/1806062)   
+    课外阅读：   
+    * [LaLonde (1986)](http://www.jstor.org/stable/1806062)    
     * [Dehejia & Wahba (1999)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10473858)    
-    * [Gruber (1994)](http://www.jstor.org/stable/2118071)   
+    * [Gruber (1994)](http://www.jstor.org/stable/2118071)    
 
 * **Lecture 13**    
-  - 工具变量法和LATE   
+  - 工具变量法和LATE：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture13.pdf %})       
 
 * **Lecture 14**   
-  - 断点回归设计（RDD）        
+  - 断点回归设计（RDD）：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_Lecture14.pdf %})            
+    课外阅读：   
+    * [Bertrand et al. (2004)](https://www.jstor.org/stable/25098683)    
+    * [Stephens-Davidowitz et al. (2017)](https://link.springer.com/article/10.1007/s11129-016-9179-0)    
+    * [Acemoglu et al. (2001)](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369)    
+    * [Agrist & Lavy (1999)](https://www.jstor.org/stable/2587016)    
 
 
 
