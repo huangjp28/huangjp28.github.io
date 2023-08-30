@@ -10,21 +10,18 @@ permalink: /teaching/econometrics2021.html
 ### 高级计量经济学 (2021年春季)
 
 
-本页面包含深圳大学全日制专业硕士课程 **高级计量经济学 (2021)** 的相关内容，包括课程信息、课程资料、作业发布等。如果你在寻找**正在进行的课程信息**，请访问[[这里]]({{ site.baseurl }}{% link _teaching/01_econometrics.md %})。
+本页面包含深圳大学全日制专业硕士课程 **高级计量经济学 (2021)** 的相关内容，包括课程信息、课程资料、作业发布等。如果你在寻找**正在进行的课程信息**，请访问[[硕士高级计量经济学]]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %})或[[博士高级计量经济学]]({{ site.baseurl }}{% link _teaching/31_deconometrics.md %})。
 
 本门课程采用 gretl 作为计量分析软件。建议选课同学预先在个人电脑中安装该软件。软件的安装方法及简单的使用方法可在[[这里]]({{ site.baseurl }}{% link /assets/pdf/gretlintro_C.pdf %})找到。Gretl 是在 GNU 协议下开发的跨系统（cross-platform）、免费（free）、开源（open-source）的计量经济分析软件。该软件以C语言写成，运行速度快，拥有类似 EViews 的简洁而直观的 GUI 操作界面，支持大多数常用的计量模型，支持多种数据格式，可编程，可满足从本科到博士研究生阶段的学习和科研需要。
 
 ---
 #### 基本信息
 
-**上课时间与地点**：星期二11-12节，粤海校区汇紫楼 A409    
 **教科书**：   
 《计量经济学（第三版）》，[美]斯托克、[美]沃森著，沈根祥、孙燕译，格致出版社，2012。 ISBN: 978-7-5432-2059-1    
 《计量经济学（第三版）》英文版，斯托克、沃森著，格致出版社，2015。 ISBN: 978-7-5432-2227-4      
 **软件**：gretl (GNE Regression, Econometrics and Time-series Library). 官网 <http://gretl.sourceforge.net/>.   
 **任课教师**：黄嘉平    
-**E-mail**：huangjp #at# szu . edu . cn  
-**接访时间**：请提前发邮件预约      
 **成绩评价**：课堂表现 (20%) + 作业 (30%) + 期末报告 (50%)
 
 ---
@@ -131,26 +128,16 @@ permalink: /teaching/econometrics2021.html
 ---
 #### 平时作业
 
-* **Blackboard**   
-  Blackboard 平台是国际上广泛使用的在线学习平台。深圳大学的 Blackboard 平台由信息中心维护，可以从内部网或经由 WebVPN 系统从校外访问。   
-  - 内部网访问：在校园网内访问 <http://elearning.szu.edu.cn> ，或访问内部网 > 教师事务 > Blackboard
-  - 从校外经由 WebVPN 访问：访问 <https://webvpn.szu.edu.cn> 并登陆后点击 Blackboard 连接   
-
-  本门课程的作业和期末报告均需经由 Blackboard 平台提交。本门课程在 Blackboard 上的名称为    
-  **20202-02012000-1206078-1608713150109: 高级计量经济学**    
-
 * **第一次作业（个人提交）**
   - 发布日期：2021年4月27日   
   - 作业内容：[[Assignment1]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Assignment1.pdf %})   
   - 相关文件：[[CollegeDistance.xls]]({{ site.baseurl }}{% link /assets/files/CollegeDistance.xls %}), [[CollegeDistance_DataDescription.pdf]]({{ site.baseurl }}{% link /assets/files/CollegeDistance_DataDescription.pdf %})   
-  - 提交方法：按 Blackboard 中的要求提交   
   - 截止时间：2021年5月10日晚23:59   
 
 * **第二次作业（小组提交）**
   - 分组：已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。
   - 发布日期：2021年6月8日   
   - 作业内容：[[Assignment2]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Assignment2.pdf %})   
-  - 提交方法：按 Blackboard 中的要求提交   
   - 截止时间：2021年6月21日晚23:59   
 
 
@@ -159,6 +146,3 @@ permalink: /teaching/econometrics2021.html
 
 * **6月11日更新**：为确保考试时考生之间不相邻，考试教室调整为**汇紫楼B207**。
 * **6月7日更新**：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，~~地点为汇紫楼A409（平时上课的教室）~~。   
-* **5月11日更新**：经和研究生院确认，期末成绩的依据（考试或论文形式）不能以小组为单位呈现，必须一人一份答案。为避免违规，现决定将第二次平时作业改为小组作业，期末改为个人提交，分数比例还是期末占50%。期末测试的具体形式将于5月末前公布。本次调整源于我的经验不足，对由此给大家带来的麻烦我深表歉意。   
-* ~~**分组**~~   
-  ~~期末报告以小组为单位提交。已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。~~

@@ -44,7 +44,7 @@ Basically you need to be studying within the class time. However, if you really 
 ---
 #### Prerequisites and Suggestions
 
-Knowledge of the topics in [Advanced Mathematics C1]({{ site.baseurl }}{% link _teaching/02_mathc1.md %}) is required. A graphing calculator may be useful for self-study but is not necessary for the course and is forbidden in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
+Knowledge of the topics in [Advanced Mathematics C1]({{ site.baseurl }}{% link _teaching/11_mathc1.md %}) is required. A graphing calculator may be useful for self-study but is not necessary for the course and is forbidden in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
 
 ---
 #### Textbook

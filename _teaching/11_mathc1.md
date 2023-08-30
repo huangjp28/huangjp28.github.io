@@ -68,7 +68,7 @@ Final exam: 60%
 ---
 #### Final Exam    
 
-The final exam usually will take place at the last teaching week of this semester. It is open-book, but only materials in paper format (textbook, printouts, study notes, etc.) are permitted. No electronic device is allowed during the exam, including your smart phone. 
+The final exam usually will take place at the last teaching week of this semester. It is open-book, but only materials in paper format (textbook, printouts, study notes, etc.) are permitted. No electronic device is allowed during the exam, including your smart phone.
 
 
 ---

@@ -3,13 +3,13 @@ layout: page
 title: Econometrics
 collections: Teaching
 group: null
-permalink: /teaching/econometrics.html
+permalink: /teaching/meconometrics.html
 ---
 
 ---
 ### 高级计量经济学 (2023年春夏)
 
-本页面包含深圳大学经济学院国际商务专业硕士课程 **高级计量经济学** 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。
+本页面包含深圳大学**经济学院国际商务（专业学位）**硕士课程 **高级计量经济学** 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。
 
 本门课程以理论学习为主，要求选课学生掌握本科阶段的概率论、统计学、微积分、线性代数、初级计量经济学的基本内容，并了解至少一种计量分析软件（例如 Stata 或 R 等) 的使用方法。不具备以上知识储备的同学可参考下面列出的参考书或本网站内容自行学习。实证练习为课后自主进行。   
 
@@ -29,19 +29,21 @@ permalink: /teaching/econometrics.html
 
 **成绩评价**：签到 (20%) + 作业 (30%) + 期末考核 (50%)   
 **教学辅助工具**：微助教（主要用于签到和发布资料）   
-**教科书**：   
+**主要参考书**：   
 1. Davidson, R. & MacKinnon, J. G. (2021). Econometric Theory and Methods. Oxford University Press.      
 本书可以在作者网站下载：<http://qed.econ.queensu.ca/ETM/>   
 2. Angrist, J. D. & Pischke, J.-S. (2009). Mostly Harmless Econometrics: An Empiricist's Companion. Princeton University Press.    
 
 
 ---
-#### 参考书
+#### 参考资料
 
 **初等至中等难度**   
 1. Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach, 7th Edition. Cengage Learning.   
 2. Stock, J. H. & Watson, M. W. (2020). Introduction to Econometrics, 4th Edition. Pearson.   
 3. Maddala, G. S. & Lahiri, K. (2009). Introduction to Econometrics, 4th Edition. Wiley.      
+4. [本门课程2021年资料]({{ site.baseurl }}{% link _teaching/51_econometrics_2021.md %})（内容比较简单，等同或略高于本科水平）.      
+
 
 **中等以上难度**   
 1. Goldberger, R. S. (1991). A Course in Econometrics. Harvard University Press.   
