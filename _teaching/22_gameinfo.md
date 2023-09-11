@@ -44,13 +44,15 @@ permalink: /teaching/gameinfo.html
 3. Laffont, J.-J. & Martimort, D. (2001). The Theory of Incentives. Princeton University Press.   
 4. Bolton, P. & Dewatripont, M. (2005). Contract Theory. MIT Press.   
 5. 张维迎，博弈论与信息经济学，格致出版社，ISBN 9787543220751.    
+6. Kreps, D. M. (2023). Microeconomic Foundations II: Imperfect Competetion, Information, and Strategic Interaction. Princeton University Press.
 
 **基础巩固**
-1. Frank, R. (2021). Microeconomics and Behavior, 10th Edition. McGraw-Hill.  
-2. Sydsaeter, K., Hammond, P., Strom, A., & Carvajal, A. (2016). Essential Mathematics for Economic Analysis, 5th Edition. Pearson.   
-3. Sydsaeter, K., Hammond, P., Seierstad, A., & Strom, A. (2008). Further Mathematics for Economic Analysis. Prentice Hall.    
-4. Hoy, M., Livernois, J., McKenna, C., Rees, R., & Stengos, T. (2022). Mathematics for Economics, 4th Edition. The MIT Press.
-5. Chiang, A. C. & Wainwright, K. (2005). Fundamental Methods of Mathematical Economics, 4th Edition. McGraw-Hill.
+1. Frank, R. (2021). Microeconomics and Behavior, 10th Edition. McGraw-Hill.   
+2. Varian, H. R. (2019). Intermediate Microeconomics: A Modern Approach. W. W. Norton & Company.    
+3. Sydsaeter, K., Hammond, P., Strom, A., & Carvajal, A. (2016). Essential Mathematics for Economic Analysis, 5th Edition. Pearson.   
+4. Sydsaeter, K., Hammond, P., Seierstad, A., & Strom, A. (2008). Further Mathematics for Economic Analysis. Prentice Hall.    
+5. Hoy, M., Livernois, J., McKenna, C., Rees, R., & Stengos, T. (2022). Mathematics for Economics, 4th Edition. The MIT Press.   
+6. Chiang, A. C. & Wainwright, K. (2005). Fundamental Methods of Mathematical Economics, 4th Edition. McGraw-Hill.    
 
 ---
 #### 进度与资料
