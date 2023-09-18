@@ -58,7 +58,7 @@ permalink: /teaching/gameinfo.html
 #### 进度与资料
 
 * **Lecture 0**    
-  - 导论  
+  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture0.pdf %})   
 
 * **Lecture 1**
   - 不确定性下的理性决策：偏好、不确定性、期望效用最大化   
