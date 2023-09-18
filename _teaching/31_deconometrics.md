@@ -74,7 +74,7 @@ permalink: /teaching/deconometrics.html
 
 **第一学期**
 * **Lecture 0**    
-  - 导论  
+  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture0.pdf %})   
 
 * **Lecture 1**
   - 概率与统计   
