@@ -62,6 +62,7 @@ permalink: /teaching/gameinfo.html
 
 * **Lecture 1**
   - 不确定性下的理性决策：偏好、不确定性、期望效用最大化   
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture1.pdf %})   
 
 * **Lecture 2**   
   - 完全信息静态博弈（一）：标准式博弈、解的概念、优势策略、最优反应     
