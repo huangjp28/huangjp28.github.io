@@ -77,7 +77,7 @@ permalink: /teaching/deconometrics.html
   - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture0.pdf %})   
 
 * **Lecture 1**
-  - 概率与统计   
+  - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture1-1.pdf %})      
 
 * **Lecture 2**   
   - 线性代数     
