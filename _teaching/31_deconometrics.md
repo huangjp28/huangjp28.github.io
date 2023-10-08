@@ -64,6 +64,7 @@ permalink: /teaching/deconometrics.html
 **因果推断**
 1. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/)   
 2. Angrist, J. D. & Pischke, J.-S. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton University Press.   
+3. Morgan, S. L. & Winship, C. (2015). Counterfactuals and Causal Inference: Methods and Principles for Social Research, 2nd Edition. Cambridge University Press.
 
 
 
