@@ -66,7 +66,7 @@ permalink: /teaching/gameinfo.html
 
 * **Lecture 2**   
   - 完全信息静态博弈（一）：标准式博弈、解的概念、优势策略与劣势策略、信念和最优反应     
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture2.pdf %})   
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture2.pdf %})（10/17更新）   
 
 * **Lecture 3**   
   - 完全信息静态博弈（二）：纳什均衡、混合策略、纳什的存在性定理    
