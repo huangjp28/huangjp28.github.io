@@ -69,7 +69,8 @@ permalink: /teaching/gameinfo.html
     [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture2.pdf %})（10/17更新）   
 
 * **Lecture 3**   
-  - 完全信息静态博弈（二）：纳什均衡、混合策略、纳什的存在性定理    
+  - 完全信息静态博弈（二）：纳什均衡、混合策略、纳什存在性定理   
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture3.pdf %})    
 
 * **Lecture 4**   
   - 完全信息动态博弈（一）：扩展式博弈、完美信息与非完美信息、纳什均衡   
