@@ -81,7 +81,7 @@ permalink: /teaching/deconometrics.html
   - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture1-1.pdf %})（10/17更新）, [[slides 2]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture1-2.pdf %})（10/30更新）      
 
 * **Lecture 2**   
-  - 线性代数     
+  - 线性代数：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture2.pdf %})        
 
 * **Lecture 3**   
   - 线性回归模型    
