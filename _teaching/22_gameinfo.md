@@ -73,10 +73,11 @@ permalink: /teaching/gameinfo.html
     [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture3.pdf %})（10/31更新）    
 
 * **Lecture 4**   
-  - 完全信息动态博弈（一）：扩展式博弈、完美信息与非完美信息、纳什均衡   
+  - 完全信息动态博弈（一）：扩展式博弈、完美信息与非完美信息、扩展式博弈的纳什均衡    
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture4.pdf %})   
 
 * **Lecture 5**   
-  - 完全信息动态博弈（二）：序贯理性、子博弈完美均衡、重复博弈、无名氏定理    
+  - 完全信息动态博弈（二）：序贯理性、子博弈完美均衡    
 
 * **Lecture 6**   
   - 不完全信息博弈（一）：贝叶斯博弈、贝叶斯纳什均衡    
@@ -99,5 +100,13 @@ permalink: /teaching/gameinfo.html
 * **Lecture 12**    
   - 逆向选择问题与信号传递（二）    
 
+
+---
+#### 作业
+
+1. 混合策略纳什均衡   
+  问题：[[assignment 1]]({{ site.baseurl }}{% link /assets/pdf/Game2023_A1.pdf %})   
+  截止日期：2023年11月12日，23:59:59    
+  提交方式：将答案扫描为PDF文件（可用手机中的扫描软件），通过微助教中的作业功能提交   
 
 ---
