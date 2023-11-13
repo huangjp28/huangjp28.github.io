@@ -71,7 +71,7 @@ permalink: /teaching/deconometrics.html
 ---
 #### 进度与资料
 
-以下为教学计划。实际教学进度可能根据实际情况进行必要的调整。
+以下为教学计划。实际教学进度可能根据实际情况进行调整。
 
 **第一学期**
 * **Lecture 0**    
@@ -84,7 +84,7 @@ permalink: /teaching/deconometrics.html
   - 线性代数：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture2.pdf %})        
 
 * **Lecture 3**   
-  - 线性回归模型    
+  - 线性回归模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture3.pdf %})      
 
 * **Lecture 4**   
   - 最小二乘回归（一）：最小二乘解   
