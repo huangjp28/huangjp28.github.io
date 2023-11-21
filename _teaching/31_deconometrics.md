@@ -84,19 +84,19 @@ permalink: /teaching/deconometrics.html
   - 线性代数：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture2.pdf %})        
 
 * **Lecture 3**   
-  - 线性回归模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture3.pdf %})      
+  - 线性回归模型（一）最小二乘解：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture3.pdf %})      
 
 * **Lecture 4**   
-  - 最小二乘回归（一）：最小二乘解   
+  - 线性回归模型（二）几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture4.pdf %})       
 
 * **Lecture 5**   
-  - 最小二乘回归（二）：Frisch-Waugh-Lovell 定理    
+  - 线性回归模型（三）Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture5.pdf %})        
 
 * **Lecture 6**   
-  - 最小二乘回归（三）：OLS估计量的统计学特征    
+  - 线性回归模型（四）OLS估计量的统计学性质：    
 
 * **Lecture 7**   
-  - 最小二乘回归（四）：Gauss-Markov 定理       
+  - 最小二乘回归（五）Gauss-Markov 定理：       
 
 * **Lecture 8**     
   - 假设检验与区间估计    

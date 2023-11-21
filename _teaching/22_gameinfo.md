@@ -78,11 +78,11 @@ permalink: /teaching/gameinfo.html
 
 * **Lecture 5**   
   - 完全信息动态博弈（二）：序贯理性、子博弈完美均衡    
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture5.pdf %})
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture5.pdf %})（11/21更新）   
 
 * **Lecture 6**   
   - 不完全信息博弈（一）：贝叶斯博弈、贝叶斯纳什均衡    
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture6.pdf %})
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture6.pdf %})   
 
 * **Lecture 7**     
   - 不完全信息博弈（二）：不完全信息动态博弈、完美贝叶斯均衡   
