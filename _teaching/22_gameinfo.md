@@ -85,10 +85,11 @@ permalink: /teaching/gameinfo.html
     [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture6.pdf %})   
 
 * **Lecture 7**     
-  - 不完全信息博弈（二）：不完全信息动态博弈、完美贝叶斯均衡   
+  - 不完全信息博弈（二）：不完全信息动态博弈、完美贝叶斯均衡    
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture7.pdf %})   
 
 * **Lecture 8**   
-  - 逆向选择问题与信号传递    
+  - 逆向选择问题与信号传递博弈    
 
 * **Lecture 9**    
   - 道德风险问题与委托代理模型   
