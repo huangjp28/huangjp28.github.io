@@ -93,67 +93,64 @@ permalink: /teaching/deconometrics.html
   - 线性回归模型（三）Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture5.pdf %})        
 
 * **Lecture 6**   
-  - 线性回归模型（四）OLS估计量的统计学性质：    
+  - 线性回归模型（四）OLS估计量的统计学性质：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture6.pdf %})        
 
-* **Lecture 7**   
-  - 最小二乘回归（五）Gauss-Markov 定理：       
-
-* **Lecture 8**     
+* **Lecture 7**     
   - 假设检验与区间估计    
 
-* **Lecture 9**   
+* **Lecture 8**   
   - 异方差性与稳健标准误     
 
-* **Lecture 10**    
+* **Lecture 9**    
   - 重采样（Resampling）   
 
-* **Lecture 11**     
+* **Lecture 10**     
   - 非线性回归   
 
-* **Lecture 12**    
+* **Lecture 11**    
   - GLS, IV, and GMM    
 
-* **Lecture 13**    
+* **Lecture 12**    
   - 回归方程组     
 
 **第二学期**
-* **Lecture 14**    
+* **Lecture 13**    
   - 面板数据模型（一）    
 
-* **Lecture 15**    
+* **Lecture 14**    
   - 面板数据模型（二）    
 
-* **Lecture 16**    
+* **Lecture 15**    
   - 最大似然估计    
 
-* **Lecture 17**    
+* **Lecture 16**    
   - 离散因变量模型（一）  
 
-* **Lecture 18**    
+* **Lecture 17**    
   - 离散因变量模型（二）      
 
-* **Lecture 19**    
+* **Lecture 18**    
   - 机器学习方法    
 
-* **Lecture 20**    
+* **Lecture 19**    
   - 非参数估计    
 
-* **Lecture 21**    
+* **Lecture 20**    
   - Neyman-Rubin 潜在结果模型
 
-* **Lecture 22**    
+* **Lecture 21**    
   - 基于可观测协变量的因果推断：匹配
 
-* **Lecture 23**    
+* **Lecture 22**    
   - 基于不可观测协变量的因果推断（一）：双重差分
 
-* **Lecture 24**    
+* **Lecture 23**    
   - 基于不可观测协变量的因果推断（二）：合成控制
 
-* **Lecture 25**    
+* **Lecture 24**    
   - 基于不可观测协变量的因果推断（三）：IV与LATE
 
-* **Lecture 26**    
+* **Lecture 25**    
   - 基于不可观测协变量的因果推断（四）：断点回归设计
 
 
