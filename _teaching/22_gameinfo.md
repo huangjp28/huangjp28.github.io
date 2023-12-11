@@ -89,7 +89,7 @@ permalink: /teaching/gameinfo.html
     [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture7.pdf %})   
 
 * **Lecture 8**   
-  - 逆向选择问题与信号传递博弈    
+  - 逆向选择问题与信号传递博弈：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture8.pdf %})        
 
 * **Lecture 9**    
   - 道德风险问题与委托代理模型   
