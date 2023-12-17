@@ -89,10 +89,10 @@ permalink: /teaching/gameinfo.html
     [[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture7.pdf %})   
 
 * **Lecture 8**   
-  - 逆向选择问题与信号传递博弈：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture8.pdf %})        
+  - 逆向选择问题与信号传递博弈：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture8.pdf %})（12/17更新）        
 
 * **Lecture 9**    
-  - 道德风险问题与委托代理模型   
+  - 道德风险问题与委托代理模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture9.pdf %})   
 
 
 
@@ -103,5 +103,15 @@ permalink: /teaching/gameinfo.html
   问题：[[assignment 1]]({{ site.baseurl }}{% link /assets/pdf/Game2023_A1.pdf %})   
   截止日期：2023年11月12日，23:59:59    
   提交方式：将答案扫描为PDF文件（可用手机中的扫描软件），通过微助教中的作业功能提交   
+
+---
+#### 期末考试
+
+期末考试采取随堂考（开卷）的形式，时间为2024年1月6日（星期六）14:15-15:40，地点为四方楼**东301**。   
+
+注意事项：
+1. 只允许参考纸质资料（书籍，打印资料，笔记等），不允许使用任何电子设备   
+2. 考试中不需要使用电子计算器   
+3. 请确保于考试开始前15分钟到达教室   
 
 ---
