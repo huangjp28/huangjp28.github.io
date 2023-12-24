@@ -96,8 +96,10 @@ permalink: /teaching/deconometrics.html
   - 线性回归模型（四）OLS估计量的统计学性质：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture6.pdf %})        
 
 * **Lecture 7**     
-  - 假设检验与区间估计    
+  - 假设检验与区间估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture7.pdf %})    
 
+
+**第二学期**（第二学期的教学内容会在下面的主题中进行取舍）
 * **Lecture 8**   
   - 异方差性与稳健标准误     
 
@@ -113,7 +115,6 @@ permalink: /teaching/deconometrics.html
 * **Lecture 12**    
   - 回归方程组     
 
-**第二学期**
 * **Lecture 13**    
   - 面板数据模型（一）    
 

@@ -94,6 +94,9 @@ permalink: /teaching/gameinfo.html
 * **Lecture 9**    
   - 道德风险问题与委托代理模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture9.pdf %})   
 
+* **Lecture 10**   
+  - 总结：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture10.pdf %})    
+
 
 
 ---
