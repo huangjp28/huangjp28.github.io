@@ -3,7 +3,6 @@ include: ['_pages', 'assets']
 collections:
   Teaching:
     output: true
-    permalink:/teaching/
 
 kramdown:
   input: GFM
