@@ -7,7 +7,7 @@ permalink: /teaching/deconometrics.html
 ---
 
 ---
-### 高级计量经济学 (2023学年)
+## 高级计量经济学 (2023学年)
 
 本页面包含深圳大学**中国经济特区研究中心理论经济学**博士课程 **高级计量经济学** 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。
 
@@ -17,7 +17,7 @@ permalink: /teaching/deconometrics.html
 
 
 ---
-#### 基本信息
+### 基本信息
 
 **课程代码/国际课程代码**：6002033    
 **上课时间与地点**：星期二 9-10节，粤海校区汇文楼 H2-303    
@@ -36,7 +36,7 @@ permalink: /teaching/deconometrics.html
 
 
 ---
-#### 参考资料
+### 参考资料
 
 **计量经济学基础**
 1. DeGroot, M. H. & Schervish, M. J. (2012). Probability and Statistics, 4th Edition. Pearson.   
@@ -69,7 +69,7 @@ permalink: /teaching/deconometrics.html
 
 
 ---
-#### 进度与资料
+### 进度与资料
 
 以下为教学计划。实际教学进度可能根据实际情况进行调整。
 

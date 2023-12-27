@@ -1,10 +1,9 @@
 include: ['_pages', 'assets']
 
 collections:
-  teaching:
+  Teaching:
     output: true
-  seminar:
-    output: true
+    permalink:/teaching/
 
 kramdown:
   input: GFM

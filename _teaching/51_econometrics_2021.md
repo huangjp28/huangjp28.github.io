@@ -7,7 +7,7 @@ permalink: /teaching/econometrics2021.html
 ---
 
 ---
-### 高级计量经济学 (2021年春季)
+## 高级计量经济学 (2021年春季)
 
 
 本页面包含深圳大学全日制专业硕士课程 **高级计量经济学 (2021)** 的相关内容，包括课程信息、课程资料、作业发布等。如果你在寻找**正在进行的课程信息**，请访问[[硕士高级计量经济学]]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %})或[[博士高级计量经济学]]({{ site.baseurl }}{% link _teaching/31_deconometrics.md %})。
@@ -15,7 +15,7 @@ permalink: /teaching/econometrics2021.html
 本门课程采用 gretl 作为计量分析软件。建议选课同学预先在个人电脑中安装该软件。软件的安装方法及简单的使用方法可在[[这里]]({{ site.baseurl }}{% link /assets/pdf/gretlintro_C.pdf %})找到。Gretl 是在 GNU 协议下开发的跨系统（cross-platform）、免费（free）、开源（open-source）的计量经济分析软件。该软件以C语言写成，运行速度快，拥有类似 EViews 的简洁而直观的 GUI 操作界面，支持大多数常用的计量模型，支持多种数据格式，可编程，可满足从本科到博士研究生阶段的学习和科研需要。
 
 ---
-#### 基本信息
+### 基本信息
 
 **教科书**：   
 《计量经济学（第三版）》，[美]斯托克、[美]沃森著，沈根祥、孙燕译，格致出版社，2012。 ISBN: 978-7-5432-2059-1    
@@ -25,7 +25,7 @@ permalink: /teaching/econometrics2021.html
 **成绩评价**：课堂表现 (20%) + 作业 (30%) + 期末报告 (50%)
 
 ---
-#### 进度与资料
+### 进度与资料
 
 * **Lecture 1** （第2周 3月9日）
   - 绪论 -- [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2020_Lecture1C.pdf %})   
@@ -126,7 +126,7 @@ permalink: /teaching/econometrics2021.html
 
 
 ---
-#### 平时作业
+### 平时作业
 
 * **第一次作业（个人提交）**
   - 发布日期：2021年4月27日   
@@ -142,7 +142,7 @@ permalink: /teaching/econometrics2021.html
 
 
 ---
-#### 期末考试
+### 期末考试
 
 * **6月11日更新**：为确保考试时考生之间不相邻，考试教室调整为**汇紫楼B207**。
 * **6月7日更新**：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，~~地点为汇紫楼A409（平时上课的教室）~~。   

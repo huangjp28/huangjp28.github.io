@@ -7,7 +7,7 @@ permalink: /teaching/gameinfo.html
 ---
 
 ---
-### 博弈论与信息经济学 (2023年秋冬)
+## 博弈论与信息经济学 (2023年秋冬)
 
 本页面包含深圳大学**经济学院会计学（学术学位）**硕士课程 **博弈论与信息经济学** 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。
 
@@ -16,7 +16,7 @@ permalink: /teaching/gameinfo.html
 本门课程要求选课学生对本科阶段的高等数学和微观经济学的内容有较好的理解，具备基本的逻辑思维和一定的数学推导能力。自认为基础较差的学生，可以借鉴下面的参考文献进行补充和巩固。
 
 ---
-#### 基本信息
+### 基本信息
 
 **课程代码/国际课程代码**：1203298    
 **上课时间与地点**：星期一 6-8节，丽湖校区四方楼 南207    
@@ -36,7 +36,7 @@ permalink: /teaching/gameinfo.html
   中文版：戴维·克雷普斯，高级微观经济学教程，格致出版社，ISBN 9787543226227.    
 
 ---
-#### 参考资料
+### 参考资料
 
 **相关书籍**
 1. Macho-Stadler, I. & Perez-Castrillo, J. D. (1995). An Introduction to the Economics of Information: Incentives and Contracts, 2nd Edition. Oxford University Press.   
@@ -55,7 +55,7 @@ permalink: /teaching/gameinfo.html
 6. Chiang, A. C. & Wainwright, K. (2005). Fundamental Methods of Mathematical Economics, 4th Edition. McGraw-Hill.    
 
 ---
-#### 进度与资料
+### 进度与资料
 
 * **Lecture 0**    
   - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/Game2023_Lecture0.pdf %})   
@@ -100,7 +100,7 @@ permalink: /teaching/gameinfo.html
 
 
 ---
-#### 作业
+### 作业
 
 1. 混合策略纳什均衡   
   问题：[[assignment 1]]({{ site.baseurl }}{% link /assets/pdf/Game2023_A1.pdf %})   
@@ -108,7 +108,7 @@ permalink: /teaching/gameinfo.html
   提交方式：将答案扫描为PDF文件（可用手机中的扫描软件），通过微助教中的作业功能提交   
 
 ---
-#### 期末考试
+### 期末考试
 
 期末考试采取随堂考（开卷）的形式，时间为2024年1月6日（星期六）14:15-15:40，地点为四方楼**东301**。   
 

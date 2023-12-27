@@ -7,7 +7,7 @@ permalink: /teaching/meconometrics.html
 ---
 
 ---
-### 高级计量经济学 (2023年春夏)
+## 高级计量经济学 (2023年春夏)
 
 本页面包含深圳大学**经济学院国际商务（专业学位）**硕士课程 **高级计量经济学** 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。
 
@@ -16,7 +16,7 @@ permalink: /teaching/meconometrics.html
 课程内容主要分为两部分。第一部分深入学习线性模型和最小二乘估计，并推广至NLS、GLS以及IV估计。因时间有限，我们不讨论GMM、ML等其他估计方法，以及时间序列模型等内容。第二部分简要学习反事实因果推断，包括双重差分、断点回归设计、IV、合成控制法。
 
 ---
-#### 基本信息
+### 基本信息
 
 **课程代码/国际课程代码**：1206078/MAS5011E    
 **上课时间与地点**：星期一 9-10节，丽湖校区四方楼 北203    
@@ -36,7 +36,7 @@ permalink: /teaching/meconometrics.html
 
 
 ---
-#### 参考资料
+### 参考资料
 
 **初等至中等难度**   
 1. Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach, 7th Edition. Cengage Learning.   
@@ -60,7 +60,7 @@ permalink: /teaching/meconometrics.html
 
 
 ---
-#### 进度与资料
+### 进度与资料
 
 以下为教学计划。实际教学进度可能根据实际情况进行必要的调整。
 * **Lecture 1**
@@ -129,7 +129,7 @@ permalink: /teaching/meconometrics.html
 
 
 ---
-#### 作业
+### 作业
 
 **小组作业1**（2023年4月17日更新）    
 * 作业内容及提交方式：详见“微助教”   
@@ -146,7 +146,7 @@ permalink: /teaching/meconometrics.html
 
 
 ---
-#### 期末考试
+### 期末考试
 
 期末考试采取随堂考试形式。
 * **形式与要求**：开卷，只可以参考纸质资料（可以是出版物，也可以是笔记或复印资料），不可以使用电子设备（包括手机、电脑等），不可以和别人讨论    

@@ -6,13 +6,13 @@ permalink: /teaching/mathc2.html
 ---
 
 ---
-### Advanced Mathematics C2 (fall 2022)
+## Advanced Mathematics C2 (fall 2022)
 
 Advanced Mathematics C2 is a subsequent course of Advanced Mathematics C1. In this course we learn calculus, including differentiation, single variable optimization, applications in economics, and integration. Students who finish this course will have a minimum foundation of mathematical knowledge in their study of further topics in economics and management.
 
 
 ---
-#### Course Information
+### Course Information
 
 **Course ID**: 0208490001   
 **Credit**: 4    
@@ -23,7 +23,7 @@ Advanced Mathematics C2 is a subsequent course of Advanced Mathematics C1. In th
 **E-mail**: huangjp #at# szu . edu . cn
 
 ---
-#### Style of Learning
+### Style of Learning
 
 In this semester we take an asynchronous approach for online learning, since this better suits the situation that our students are in different countries around the world. In this approach, students need to be more active instead of massively watching a lecture video. During each 80 minutes study time, students are recommended to read the textbook first, trying to understand the topics for that class. Supportive materials like video clips are provided, which can help students deepen their understanding. In tutorial classes, students are asked to solve some exercises from the textbook independently, then watch explanation videos to check their answers. A quiz will be given when attendance is taken for each class.   
 
@@ -42,18 +42,18 @@ Basically you need to be studying within the class time. However, if you really 
 
 
 ---
-#### Prerequisites and Suggestions
+### Prerequisites and Suggestions
 
 Knowledge of the topics in [Advanced Mathematics C1]({{ site.baseurl }}{% link _teaching/11_mathc1.md %}) is required. A graphing calculator may be useful for self-study but is not necessary for the course and is forbidden in exams. Students may also use online tools such as WolframAlpha (<https://www.wolframalpha.com/>) to deepen their understanding.
 
 ---
-#### Textbook
+### Textbook
 
 Knut Sydsaeter et al. (2016). *Essential Mathematics for Economic Analysis*, Fifth Edition. Pearson.   
 
 
 ---
-#### Topics to be Covered
+### Topics to be Covered
 
 Chapter 6: Differentiation   
 Chapter 7: Derivatives in Use   
@@ -62,7 +62,7 @@ Chapter 9: Integration
 
 
 ---
-#### Grading
+### Grading
 
 Attendance: 20%    
 Quiz: 20%    
@@ -70,7 +70,7 @@ Final assignment: 60%
 
 
 ---
-#### Final Assignment    
+### Final Assignment    
 
 The final assignment will be given in the class on ~~December 22~~ **December 20, 2022** using the online share folder of this course.
 
