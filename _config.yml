@@ -1,7 +1,7 @@
 include: ['_pages', 'assets']
 
 collections:
-  Teaching:
+  teaching:
     output: true
 
 kramdown:
