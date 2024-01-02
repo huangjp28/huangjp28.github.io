@@ -98,6 +98,10 @@ permalink: /teaching/deconometrics.html
 * **Lecture 7**     
   - 假设检验与区间估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture7.pdf %})    
 
+* **期中考核**   
+  - 时间：2024年1月2日   
+  - [[参考答案]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_MidAns.pdf %})   
+
 
 **第二学期**（第二学期的教学内容会在下面的主题中进行取舍）
 * **Lecture 8**   

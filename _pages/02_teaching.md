@@ -9,8 +9,8 @@ permalink: /teaching/
 ### 正在讲授的课程 (Current Courses)
 
 _本科 (Undergraduate)_   
-* 时间序列分析与预测 (2024春夏)
-* 经济数据解读 (MOOC, 2024春夏)    
+* #### 时间序列分析与预测 (2024春夏)
+* #### 经济数据解读 (MOOC, 2024春夏)    
 
 _研究生 (Graduate)_
 * #### [高级计量经济学（国际商务专硕）]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %}) (2023春夏)    
