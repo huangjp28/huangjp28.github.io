@@ -20,18 +20,17 @@ permalink: /teaching/deconometrics.html
 ### 基本信息
 
 **课程代码/国际课程代码**：6002033    
-**上课时间与地点**：星期二 9-10节，粤海校区汇文楼 H2-303    
+**上课时间与地点**：（2024春夏）星期二 7-8节，粤海校区汇文楼 H1-305    
 **任课教师**：黄嘉平    
 **联系方式**：请发邮件至 huangjp #at# szu . edu . cn   
 **办公室**：粤海校区汇文楼1510   
-**接访时间**：   
-  - 2023年秋冬：粤海校区办公室，星期二14:30-15:30   
+**接访时间**：（2024春夏）粤海校区办公室，星期二15:45-16:30   
 
 **成绩评价**：课堂表现 (20%) + 期中考核 (40%) + 期末考核 (40%)   
 **教学辅助工具**：微助教（主要用于签到和发布资料）   
 **主要参考书**：   
 1. Davidson, R. & MacKinnon, J. G. (2021). Econometric Theory and Methods. Oxford University Press.      
-本书可以在作者网站下载：<http://qed.econ.queensu.ca/ETM/>   
+本书可以在作者网站下载：<http://qed.econ.queensu.ca/ETM/>{:target="_blank"}   
 2. Angrist, J. D. & Pischke, J.-S. (2009). Mostly Harmless Econometrics: An Empiricist's Companion. Princeton University Press.    
 
 
@@ -62,7 +61,7 @@ permalink: /teaching/deconometrics.html
 8. 洪永淼，高级计量经济学，高等教育出版社，2011.   
 
 **因果推断**
-1. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/)   
+1. Scott Cunningham, Causal Inference: The Mixtape. [[Online version]](https://mixtape.scunning.com/){:target="_blank"}   
 2. Angrist, J. D. & Pischke, J.-S. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton University Press.   
 3. Morgan, S. L. & Winship, C. (2015). Counterfactuals and Causal Inference: Methods and Principles for Social Research, 2nd Edition. Cambridge University Press.
 
