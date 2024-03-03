@@ -66,7 +66,7 @@ permalink: /teaching/meconometrics.html
 * **统计** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A2Stats.pdf %})（2/28 更新）   
 * **矩阵** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A3Mat.pdf %})（2/28 更新）
 * [bilibili: 3Blue1Brown【官方双语】但是什么是中心极限定理？】](https://www.bilibili.com/video/BV1gh4y1W7ag/){:target="_blank"}    
-* [bilibili: 3Blue1Brown【官方双语/合集】线性代数的本质 - 系列合集】](https://www.bilibili.com/video/BV1ys411472E/?vd_source=70b967583747b3349b8b4b2ba5eb0ff2){:target="_blank"}   
+* [bilibili: 3Blue1Brown【官方双语/合集】线性代数的本质 - 系列合集】](https://www.bilibili.com/video/BV1ys411472E/?share_source=copy_web&vd_source=70b967583747b3349b8b4b2ba5eb0ff2){:target="_blank"}   
 
 更多内容可参考
 1. Hanssen, B. (2022). _Probability and Statistics for Economists_. Princeton University Press.    
