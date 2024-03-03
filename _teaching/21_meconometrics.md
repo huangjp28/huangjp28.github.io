@@ -66,6 +66,7 @@ permalink: /teaching/meconometrics.html
 * **统计** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A2Stats.pdf %})（2/28 更新）   
 * **矩阵** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A3Mat.pdf %})（2/28 更新）
 * [bilibili: 3Blue1Brown【官方双语】但是什么是中心极限定理？】](https://www.bilibili.com/video/BV1gh4y1W7ag/){:target="_blank"}    
+
 <!--
 * [bilibili: 3Blue1Brown【官方双语/合集】线性代数的本质 - 系列合集】](https://www.bilibili.com/video/BV1ys411472E/){:target="_blank"}   
 # 点击这个链接打开b站会显示视频已失效，但是拷贝链接后用浏览器打开则能正常显示。原因不明。
