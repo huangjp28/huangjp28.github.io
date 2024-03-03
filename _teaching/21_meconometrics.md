@@ -64,7 +64,9 @@ permalink: /teaching/meconometrics.html
 
 * **概率** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A1Prob.pdf %})（2/28 更新）   
 * **统计** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A2Stats.pdf %})（2/28 更新）   
-* **矩阵** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A3Mat.pdf %})（2/28 更新）   
+* **矩阵** [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_A3Mat.pdf %})（2/28 更新）
+* [bilibili: 3Blue1Brown【官方双语】但是什么是中心极限定理？】](https://www.bilibili.com/video/BV1gh4y1W7ag/){:target="_blank"}    
+* [bilibili: 3Blue1Brown【官方双语/合集】线性代数的本质 - 系列合集】](https://www.bilibili.com/video/BV1ys411472E/){:target="_blank"}   
 
 更多内容可参考
 1. Hanssen, B. (2022). _Probability and Statistics for Economists_. Princeton University Press.    
@@ -99,15 +101,13 @@ permalink: /teaching/meconometrics.html
   - slides 待更新    
   - 课外阅读：[White (1980)](http://www.jstor.org/stable/1912934){:target="_blank"}, [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7){:target="_blank"}, [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17){:target="_blank"}    
 
-* **Lecture 8: 非线性回归**     
+* **Lecture 8: 非线性回归和工具变量估计**     
   - slides 待更新    
-
-
-* **Lecture 9: 工具变量估计**   
-  - slides 待更新     
   - 课外阅读：[Angrist & Kruger (1991)](https://www.jstor.org/stable/2937954){:target="_blank"}, [Bound, Jaeger, & Baker (1995)](https://www.jstor.org/stable/2291055){:target="_blank"}, [Angrist, Imbens, & Kruger (1999)](https://www.jstor.org/stable/223249){:target="_blank"}    
-    Francis J. DiTraglis, [A Good Instrument is a Bad Control](https://www.econometrics.blog/post/a-good-instrument-is-a-bad-control/){:target="_blank"}   
+    Francis J. DiTraglis, [A Good Instrument is a Bad Control](https://www.econometrics.blog/post/a-good-instrument-is-a-bad-control/){:target="_blank"}
 
+* **Lecture 9: 最大似然估计**   
+  - slides 待更新     
 
 * **Lecture 10: 面板数据模型**    
   - slides 待更新   
