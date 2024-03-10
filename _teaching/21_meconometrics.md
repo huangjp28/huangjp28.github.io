@@ -86,7 +86,7 @@ permalink: /teaching/meconometrics.html
   - 补充资料：[[Online Appendices]]({{ site.baseurl }}{% link /assets/pdf/greene_appendices.pdf %}) of Greene (2020)   
 
 * **Lecture 2: 线性回归模型与最小二乘估计**   
-  - slides 待更新       
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture2.pdf %})（3/10 更新）          
 
 * **Lecture 3: OLS 估计量的几何特征**   
   - slides 待更新    
