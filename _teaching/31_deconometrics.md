@@ -110,10 +110,10 @@ permalink: /teaching/deconometrics.html
   - 重采样（Resampling）   
 
 * **Lecture 10**     
-  - 非线性回归   
+  - 非线性回归, NLS, GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture9.pdf %})       
 
 * **Lecture 11**    
-  - GLS, IV, and GMM    
+  - IV and GMM    
 
 * **Lecture 12**    
   - 回归方程组     
