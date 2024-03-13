@@ -104,10 +104,12 @@ permalink: /teaching/deconometrics.html
 
 **第二学期**（第二学期的教学内容会在下面的主题中进行取舍）
 * **Lecture 8**   
-  - 大样本检验、区间估计、异方差稳健标准误：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture8.pdf %})         
+  - 大样本检验、区间估计、异方差稳健标准误：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture8.pdf %})   
+    文献阅读：[MacKinnon (2013)](https://link.springer.com/chapter/10.1007/978-1-4614-1653-1_17){:target="_blank"}    
 
 * **Lecture 9**    
   - 重采样（Resampling）   
+    文献阅读：[Efron & Tibshirani (1986)](https://projecteuclid.org/journals/statistical-science/volume-1/issue-1/Bootstrap-Methods-for-Standard-Errors-Confidence-Intervals-and-Other-Measures/10.1214/ss/1177013815.full){:target="_blank"}   
 
 * **Lecture 10**     
   - 非线性回归, NLS, GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture9.pdf %})       
