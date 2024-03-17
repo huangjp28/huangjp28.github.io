@@ -89,7 +89,7 @@ permalink: /teaching/meconometrics.html
   - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture2.pdf %})（3/10 更新）          
 
 * **Lecture 3: OLS 估计量的几何特征**   
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture3.pdf %})（3/17 更新）       
 
 * **Lecture 4: Frisch-Waugh-Lovell 定理**   
   - slides 待更新    
