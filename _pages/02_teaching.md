@@ -11,7 +11,8 @@ permalink: /teaching/
 _本科 (Undergraduate)_   
 * #### [时间序列分析与预测 (2024春夏)](https://huangjp.com/TSAF/){:target="_blank"}  
 * #### 经济数据解读 (MOOC, 2024春夏)：可访问优课联盟网站 <http://www.uooc.net.cn/>{:target="_blank"} 获取课程信息    
-    - 第一次线下课 (3/14)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture1.pdf %})
+    - 第一次线下课 (3/14)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture1.pdf %})   
+    - 第二次线下课 (3/28)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture2.pdf %})   
 
 _研究生 (Graduate)_
 * #### [高级计量经济学（国际商务专硕）]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %}) (2024春夏)    
