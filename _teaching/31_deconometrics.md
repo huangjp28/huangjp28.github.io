@@ -115,7 +115,8 @@ permalink: /teaching/deconometrics.html
   - 非线性回归, NLS, GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture9.pdf %})       
 
 * **Lecture 11**    
-  - IV and GMM    
+  - IV and GMM：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture10.pdf %})        
+    文献阅读：[Buckles & Hungerman (2013)](https://direct.mit.edu/rest/article-abstract/95/3/711/58105/Season-of-Birth-and-Later-Outcomes-Old-Questions?redirectedFrom=fulltext){:target="_blank"}     
 
 * **Lecture 12**    
   - 回归方程组     
