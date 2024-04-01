@@ -92,7 +92,7 @@ permalink: /teaching/meconometrics.html
   - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture3.pdf %})（3/17 更新）       
 
 * **Lecture 4: Frisch-Waugh-Lovell 定理**   
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture4.pdf %})（4/1 更新）     
   - 课外阅读：[Frisch & Waugh (1933)](https://www.jstor.org/stable/1907330){:target="_blank"}, [Lovell (1963)](https://www.jstor.org/stable/2283327){:target="_blank"}    
 
 * **Lecture 5: OLS 估计量的统计学性质**  
