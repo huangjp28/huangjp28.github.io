@@ -96,7 +96,7 @@ permalink: /teaching/meconometrics.html
   - 课外阅读：[Frisch & Waugh (1933)](https://www.jstor.org/stable/1907330){:target="_blank"}, [Lovell (1963)](https://www.jstor.org/stable/2283327){:target="_blank"}    
 
 * **Lecture 5: OLS 估计量的统计学性质**  
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture5.pdf %})（4/7 更新）        
 
 * **Lecture 6: Gauss-Markov 定理**   
   - slides 待更新    
@@ -142,7 +142,10 @@ permalink: /teaching/meconometrics.html
 ---
 ### 作业
 
-待更新
+* **作业（一）**
+  - [[题目]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment1.pdf %})    
+  - 截止日期：待确定    
+  - 提交方式：将答案存为**PDF文件**后，通过微助教提交。文件名为“A1_学号_姓名.pdf”，例如 A1_2024123456_张三.pdf       
 
 <!--
 **作业提交方法**   
