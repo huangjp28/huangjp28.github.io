@@ -119,25 +119,26 @@ permalink: /teaching/deconometrics.html
     文献阅读：[Buckles & Hungerman (2013)](https://direct.mit.edu/rest/article-abstract/95/3/711/58105/Season-of-Birth-and-Later-Outcomes-Old-Questions?redirectedFrom=fulltext){:target="_blank"}     
 
 * **Lecture 12**    
-  - 回归方程组     
+  - ~~回归方程组~~     
 
 * **Lecture 13**    
-  - 面板数据模型（一）    
+  - 最大似然估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture11.pdf %})         
+    文献阅读：[Bertrand & Mullainathan (2004)](https://www.jstor.org/stable/3592802){:target="_blank"}    
 
 * **Lecture 14**    
-  - 面板数据模型（二）    
+  - 面板数据模型（一）    
 
 * **Lecture 15**    
-  - 最大似然估计    
+  - 面板数据模型（二）    
 
 * **Lecture 16**    
-  - 离散因变量模型（一）  
+  - ~~离散因变量模型（一）~~  
 
 * **Lecture 17**    
-  - 离散因变量模型（二）      
+  - ~~离散因变量模型（二）~~      
 
 * **Lecture 18**    
-  - 机器学习方法    
+  - ~~机器学习方法~~    
 
 * **Lecture 19**    
   - 非参数估计    

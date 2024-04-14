@@ -96,10 +96,10 @@ permalink: /teaching/meconometrics.html
   - 课外阅读：[Frisch & Waugh (1933)](https://www.jstor.org/stable/1907330){:target="_blank"}, [Lovell (1963)](https://www.jstor.org/stable/2283327){:target="_blank"}    
 
 * **Lecture 5: OLS 估计量的统计学性质**  
-  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture5.pdf %})（4/7 更新）        
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture5.pdf %})（~~4/7~~ 4/14 更新）        
 
 * **Lecture 6: Gauss-Markov 定理**   
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture6.pdf %})（4/14 更新）        
 
 * **Lecture 7: 假设检验和区间估计**    
   - slides 待更新    
@@ -144,16 +144,8 @@ permalink: /teaching/meconometrics.html
 
 * **作业（一）**
   - [[题目]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment1.pdf %})    
-  - 截止日期：待确定    
+  - 截止时间：2024年4月20日（星期六）23:59     
   - 提交方式：将答案存为**PDF文件**后，通过微助教提交。文件名为“A1_学号_姓名.pdf”，例如 A1_2024123456_张三.pdf       
-
-<!--
-**作业提交方法**   
-1. 作业可以手写也可以用办公软件完成。将完成的作业存为PDF格式的单一文件，并将文件以“**AE2023-A?-学号-姓名**”的格式命名，其中?代表第n次作业。例如：    
-    > 张三的第2次作业：AE2023-A2-2022000001-张三   
-
-2. 将存好的文件以附件形式发到 hjpszu@163.com 。**邮件主题需与作业文件名一致**。如果发送成功，你将收到一封自动回复的邮件。注意：本邮箱只用来接收作业，不回复任何其他问题。   
--->
 
 
 ---
