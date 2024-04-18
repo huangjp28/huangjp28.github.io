@@ -12,7 +12,12 @@ _本科 (Undergraduate)_
 * #### [时间序列分析与预测 (2024春夏)](https://huangjp.com/TSAF/){:target="_blank"}  
 * #### 经济数据解读 (MOOC, 2024春夏)：可访问优课联盟网站 <http://www.uooc.net.cn/>{:target="_blank"} 获取课程信息    
     - 第一次线下课 (3/14)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture1.pdf %})   
-    - 第二次线下课 (3/28)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture2.pdf %})   
+    - 第二次线下课 (3/28)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture2.pdf %})    
+    - 第三次线下课 (4/18)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture3.pdf %})    
+    - 第四～六次线下课安排     
+      小组汇报：[[分组名单和日程安排]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_C2Group.pdf %})    
+      日期：5/16，5/23（原定6/6的课程计划调整至此日），5/30    
+
 
 _研究生 (Graduate)_
 * #### [高级计量经济学（国际商务专硕）]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %}) (2024春夏)    
