@@ -146,6 +146,7 @@ permalink: /teaching/meconometrics.html
   - [[题目]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment1.pdf %})    
   - 截止时间：2024年4月20日（星期六）23:59     
   - 提交方式：将答案存为**PDF文件**后，通过微助教提交。文件名为“A1_学号_姓名.pdf”，例如 A1_2024123456_张三.pdf       
+  - [[参考答案]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment1ans.pdf %})    
 
 
 ---
