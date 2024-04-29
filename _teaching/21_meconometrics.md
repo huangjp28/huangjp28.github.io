@@ -102,7 +102,7 @@ permalink: /teaching/meconometrics.html
   - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture6.pdf %})（4/14 更新）        
 
 * **Lecture 7: 假设检验和区间估计**    
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture7.pdf %})（4/29 更新）          
   - 课外阅读：[White (1980)](http://www.jstor.org/stable/1912934){:target="_blank"}, [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7){:target="_blank"}, [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17){:target="_blank"}    
 
 * **Lecture 8: 非线性回归和工具变量估计**     
