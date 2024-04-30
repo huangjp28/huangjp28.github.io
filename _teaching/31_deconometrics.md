@@ -126,10 +126,10 @@ permalink: /teaching/deconometrics.html
     文献阅读：[Bertrand & Mullainathan (2004)](https://www.jstor.org/stable/3592802){:target="_blank"}    
 
 * **Lecture 14**    
-  - 面板数据模型（一）    
+  - 面板数据模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture12.pdf %})        
 
 * **Lecture 15**    
-  - 面板数据模型（二）    
+  - ~~面板数据模型（二）~~    
 
 * **Lecture 16**    
   - ~~离散因变量模型（一）~~  
@@ -161,5 +161,16 @@ permalink: /teaching/deconometrics.html
 * **Lecture 25**    
   - 基于不可观测协变量的因果推断（四）：断点回归设计
 
+---
+### 期末考核
+
+期末考核采取课程论文形式，具体要求如下
+
+* [[题目及要求]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Final.pdf %})      
+* 提交方法：   
+  - 首页：下载[[深圳大学研究生课程期末论文评分表]]({{ site.baseurl }}{% link /assets/files/termpapercover2023.docx %})，填写个人相关信息后，附在论文前作为首页    
+  - 学术诚信承诺书：下载[[深圳大学研究生课程论文学术诚信承诺书]]({{ site.baseurl }}{% link /assets/files/commitement.doc %})，填写后附在首页后    
+  - 正文：将正文排版打印，附在首页和学术承诺书之后    
+  - 将上述内容订在一起，于**第16教学周（2024年6月18日）**课堂上提交    
 
 ---
