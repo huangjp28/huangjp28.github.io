@@ -106,12 +106,13 @@ permalink: /teaching/meconometrics.html
   - 课外阅读：[White (1980)](http://www.jstor.org/stable/1912934){:target="_blank"}, [MacKinnon & White (1985)](https://doi.org/10.1016/0304-4076(85)90158-7){:target="_blank"}, [MacKinnon (2005)](https://doi.org/10.1007/978-1-4614-1653-1_17){:target="_blank"}    
 
 * **Lecture 8: 非线性回归和工具变量估计**     
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture8.pdf %})（5/5 更新）        
   - 课外阅读：[Angrist & Kruger (1991)](https://www.jstor.org/stable/2937954){:target="_blank"}, [Bound, Jaeger, & Baker (1995)](https://www.jstor.org/stable/2291055){:target="_blank"}, [Angrist, Imbens, & Kruger (1999)](https://www.jstor.org/stable/223249){:target="_blank"}    
     Francis J. DiTraglis, [A Good Instrument is a Bad Control](https://www.econometrics.blog/post/a-good-instrument-is-a-bad-control/){:target="_blank"}
 
 * **Lecture 9: 最大似然估计**   
-  - slides 待更新     
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture9.pdf %})（5/5 更新）     
+    因端午节放假，本讲内容改为课外自学    
 
 * **Lecture 10: 面板数据模型**    
   - slides 待更新   
