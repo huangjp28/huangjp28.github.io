@@ -115,7 +115,7 @@ permalink: /teaching/meconometrics.html
     因端午节放假，本讲内容改为课外自学    
 
 * **Lecture 10: 面板数据模型**    
-  - slides 待更新   
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture10.pdf %})（5/10 更新）      
 
 * **Lecture 11: 因果推断入门**     
   - slides 待更新    

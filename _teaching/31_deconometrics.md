@@ -141,10 +141,11 @@ permalink: /teaching/deconometrics.html
   - ~~机器学习方法~~    
 
 * **Lecture 19**    
-  - 非参数估计    
+  - ~~非参数估计~~    
 
 * **Lecture 20**    
-  - Neyman-Rubin 潜在结果模型
+  - Neyman-Rubin 潜在结果模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture13.pdf %})    
+    文献阅读：[Leamer (1983)](https://www.jstor.org/stable/1803924){:target="_blank"}    
 
 * **Lecture 21**    
   - 基于可观测协变量的因果推断：匹配
