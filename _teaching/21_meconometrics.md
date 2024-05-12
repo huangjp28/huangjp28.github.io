@@ -149,6 +149,11 @@ permalink: /teaching/meconometrics.html
   - 提交方式：将答案存为**PDF文件**后，通过微助教提交。文件名为“A1_学号_姓名.pdf”，例如 A1_2024123456_张三.pdf       
   - [[参考答案]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment1ans.pdf %})    
 
+* **作业（二）**
+  - [[题目]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Assignment2.pdf %})
+    相关文献：[Reed (2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12088){:target="_blank"}     
+  - 截止时间：2024年5月25日（星期六）23:59     
+  - 提交方式：将答案存为**PDF文件**后，通过微助教提交。文件名为“A2_学号_姓名.pdf”，例如 A2_2024123456_张三.pdf      
 
 ---
 ### 期末考试
