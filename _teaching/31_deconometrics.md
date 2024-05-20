@@ -148,7 +148,9 @@ permalink: /teaching/deconometrics.html
     文献阅读：[Leamer (1983)](https://www.jstor.org/stable/1803924){:target="_blank"}    
 
 * **Lecture 21**    
-  - 基于可观测协变量的因果推断：匹配
+  - 基于可观测协变量的因果推断：匹配   
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Lecture14.pdf %})   
+    文献阅读：[King & Nielsen (2019)](https://www.cambridge.org/core/journals/political-analysis/article/abs/why-propensity-scores-should-not-be-used-for-matching/94DDE7ED8E2A796B693096EB714BE68B){:target="_blank"}    
 
 * **Lecture 22**    
   - 基于不可观测协变量的因果推断（一）：双重差分

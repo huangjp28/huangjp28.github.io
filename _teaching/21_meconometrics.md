@@ -118,10 +118,12 @@ permalink: /teaching/meconometrics.html
   - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture10.pdf %})（5/10 更新）      
 
 * **Lecture 11: 因果推断入门**     
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture11.pdf %})（5/20 更新）      
+  - 课外阅读：[Angrist & Pischke (2010)](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3){:target="_blank"}    
 
 * **Lecture 12: 基于可观测协变量的因果推断方法**    
-  - slides 待更新    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture12.pdf %})（5/20 更新）   
+  - 课外阅读：[Rosenbaum & Rubin (1983)](https://www.jstor.org/stable/2335942){:target="_blank"}, [King & Nielsen (2019)](https://www.cambridge.org/core/journals/political-analysis/article/abs/why-propensity-scores-should-not-be-used-for-matching/94DDE7ED8E2A796B693096EB714BE68B){:target="_blank"}        
 
 * **Lecture 13: 基于不可观测协变量的因果推断方法（一）DID 与合成控制法**    
   - slides 待更新       
