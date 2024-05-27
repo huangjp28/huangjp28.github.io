@@ -13,7 +13,7 @@ permalink: /teaching/meconometrics.html
 
 本门课程以理论学习为主，要求选课学生掌握本科阶段的概率论、统计学、微积分、线性代数、初级计量经济学的基本内容，并了解至少一种计量分析软件（例如 Stata 或 R 等) 的使用方法。不具备以上知识储备的同学可参考下面列出的参考书或本网站内容自行学习。实证练习为课后自主进行。   
 
-课程内容主要分为三部分。第一部分是回归分析，以多变量线性回归模型的矩阵表达为起点，讨论最小二乘估计量的代数、几何和统计学性质，并推导两个重要定理：Frisch-Waugh-Lovell 定理和 Gauss-Markov 定理。第二部分是对第一部分的扩展，包括非线性回归模型、工具变量估计和面板数据模型，并简要介绍最大似然估计和核密度估计。第三部分基于 Neyman-Rubin 潜在结果模型，介绍近年来比较流行的因果推断方法和在政策评估方面的应用。因时间有限，我们无法深入学习GMM、时间序列模型、结构方程模型、空间计量模型等其他主题。第二部分简要学习反事实因果推断，包括双重差分、断点回归设计、IV、合成控制法。
+课程内容主要分为三部分。第一部分是回归分析，以多变量线性回归模型的矩阵表达为起点，讨论最小二乘估计量的代数、几何和统计学性质，并推导两个重要定理：Frisch-Waugh-Lovell 定理和 Gauss-Markov 定理。第二部分是对第一部分的扩展，包括非线性回归模型、工具变量估计和面板数据模型，并简要介绍最大似然估计和核密度估计。第三部分基于 Neyman-Rubin 潜在结果模型，介绍近年来比较流行的因果推断方法和在政策评估方面的应用。因时间有限，我们无法深入学习GMM、时间序列模型、结构方程模型、空间计量模型等其他主题。
 
 ---
 ### 基本信息
@@ -125,18 +125,19 @@ permalink: /teaching/meconometrics.html
   - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2024_Lecture12.pdf %})（5/20 更新）   
   - 课外阅读：[Rosenbaum & Rubin (1983)](https://www.jstor.org/stable/2335942){:target="_blank"}, [King & Nielsen (2019)](https://www.cambridge.org/core/journals/political-analysis/article/abs/why-propensity-scores-should-not-be-used-for-matching/94DDE7ED8E2A796B693096EB714BE68B){:target="_blank"}        
 
-* **Lecture 13: 基于不可观测协变量的因果推断方法（一）DID 与合成控制法**    
-  - slides 待更新       
-
 <!--
   - 课外阅读：[LaLonde (1986)](http://www.jstor.org/stable/1806062){:target="_blank"}, [Dehejia & Wahba (1999)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10473858){:target="_blank"}, [Gruber (1994)](http://www.jstor.org/stable/2118071){:target="_blank"}
 -->
 
+
+* **Lecture 13: 基于不可观测协变量的因果推断方法（一）DID 与合成控制法**    
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_12DID.pdf %})（5/27 更新）          
+
 * **Lecture 14: 基于不可观测协变量的因果推断方法（二）工具变量法和 LATE**   
-  - slides 待更新                 
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_13IV.pdf %})（5/27 更新）     
 
 * **Lecture 15: 基于不可观测协变量的因果推断方法（三）断点回归设计**   
-  - slides 待更新     
+  - [[slides]]({{ site.baseurl }}{% link /assets/pdf/Metrics_2023_14RDD.pdf %})（5/27 更新）      
 
 <!--
   - 课外阅读：[Bertrand et al. (2004)](https://www.jstor.org/stable/25098683){:target="_blank"}, [Stephens-Davidowitz et al. (2017)](https://link.springer.com/article/10.1007/s11129-016-9179-0){:target="_blank"}, [Acemoglu et al. (2001)](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1369){:target="_blank"}, [Agrist & Lavy (1999)](https://www.jstor.org/stable/2587016){:target="_blank"}  
@@ -162,6 +163,7 @@ permalink: /teaching/meconometrics.html
 
 期末考试采取随堂考试形式。
 * **形式与要求**：开卷，只可以参考纸质资料（可以是出版物，也可以是笔记或复印资料），不可以使用电子设备（包括手机、电脑等），不可以和别人讨论    
-* **考试日期**：暂定在 **2022年6月24日（星期一）**，若变更另行通知   
+* **考试日期**：~~暂定在 **2022年6月24日（星期一）**，若变更另行通知~~     
+  定于 **2022年6月17日（星期一）** 进行随堂考试（5/27 更新）
 
 ---
