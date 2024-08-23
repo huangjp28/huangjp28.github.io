@@ -1,1 +1,1 @@
-This place stocks the source files of http://huangjp.com
+This place stocks the source files of https://huangjp.com

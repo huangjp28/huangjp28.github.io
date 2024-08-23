@@ -9,32 +9,26 @@ permalink: /teaching/
 ### 正在讲授的课程 (Current Courses)
 
 _本科 (Undergraduate)_   
-* #### [时间序列分析与预测 (2024春夏)](https://huangjp.com/TSAF/){:target="_blank"}  
-* #### 经济数据解读 (MOOC, 2024春夏)：可访问优课联盟网站 <http://www.uooc.net.cn/>{:target="_blank"} 获取课程信息    
-    - 第一次线下课 (3/14)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture1.pdf %})   
-    - 第二次线下课 (3/28)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture2.pdf %})    
-    - 第三次线下课 (4/18)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_Lecture3.pdf %})    
-    - 第四～六次线下课安排     
-      小组汇报：[[分组名单和日程安排]]({{ site.baseurl }}{% link /assets/pdf/EconData_202302_C2Group.pdf %})    
-      日期：5/16，5/23（原定6/6的课程计划调整至此日），5/30    
-    - 线下课期末考试：[[报告题目和要求]]({{ site.baseurl }}{% link /assets/pdf/经济数据解读线下课期末试题2024春季.pdf %})    
-      02班提交日期和地点：6月26日(星期三)13:00-17:00，丽湖校区守正楼 A 座三楼 A317 共享办公室
+* #### [时间序列分析与预测](https://huangjp.com/TSAF/){:target="_blank"} (2024春夏)        
+* #### [博弈论](https://huangjp.com/GT/){:target="_blank"} (2024秋冬)        
+* #### [经济数据解读（MOOC课程）]({{ site.baseurl }}{% link _teaching/13_econdata.md %}) (2024秋冬)   
 
 
 _研究生 (Graduate)_
-* #### [高级计量经济学（国际商务专硕）]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %}) (2024春夏)    
-* #### [高级计量经济学（理论经济学博士）]({{ site.baseurl }}{% link _teaching/31_deconometrics.md %}) (2023学年)   
-* #### [博弈论与信息经济学]({{ site.baseurl }}{% link _teaching/22_gameinfo.md %}) (2023秋冬)   
+* #### [高级计量经济学-国际商务专硕]({{ site.baseurl }}{% link _teaching/21_meconometrics.md %}) (2024春夏)    
+* #### [高级计量经济学-理论经济学博士]({{ site.baseurl }}{% link _teaching/31_deconometrics.md %}) (2024秋冬)    
+* #### 专业英语-人工智能(经济)专硕 (2025春夏)   
 
 ---
 ### 曾经讲授的课程 (Past Courses)
 
 _本科 (Undergraduate)_
 * #### [Advanced Mathematics C1]({{ site.baseurl }}{% link _teaching/11_mathc1.md %}) (taught in English for international class, spring 2023)   
-* #### [Advanced Mathematics C2]({{ site.baseurl }}{% link _teaching/12_mathc2.md %}) (taught in English for international class, fall 2022)   
+* #### [Advanced Mathematics C2]({{ site.baseurl }}{% link _teaching/12_mathc2.md %}) (taught in English for international class, fall 2022)     
 
 _研究生 (Graduate)_
-* #### [高级计量经济学（专硕）]({{ site.baseurl }}{% link _teaching/51_econometrics_2021.md %}) (2021春夏，内容比较简单)   
+* #### [高级计量经济学（专硕）]({{ site.baseurl }}{% link _teaching/51_econometrics_2021.md %}) (2021春夏，内容比较简单)    
+* #### [博弈论与信息经济学（学硕）]({{ site.baseurl }}{% link _teaching/52_gameinfo_2023.md %}) (2023秋冬)
 
 ---
 ### 相关软件

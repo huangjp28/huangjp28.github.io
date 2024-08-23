@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Econometrics 2021
+title: Econometrics (2021)
 collections: Teaching
 group: null
 permalink: /teaching/econometrics2021.html
