@@ -77,7 +77,8 @@ permalink: /teaching/deconometrics.html
 以下为教学计划。实际教学进度可能根据实际情况进行调整。
 
 * **Lecture 0**    
-  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture0.pdf %})   
+  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture0.pdf %})    
+    课外阅读：[Hong (2020, Chapter 1)](https://worldscientific.com/doi/epdf/10.1142/9789811220197_0001)   
 
 * **Lecture 1**
   - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-1.pdf %}), [[slides 2]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-2.pdf %})      
