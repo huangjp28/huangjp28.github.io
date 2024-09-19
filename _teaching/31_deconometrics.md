@@ -78,7 +78,7 @@ permalink: /teaching/deconometrics.html
 
 * **Lecture 0**    
   - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture0.pdf %})    
-    课外阅读：[Hong (2020, Chapter 1)](https://worldscientific.com/doi/epdf/10.1142/9789811220197_0001)   
+    课外阅读：[Hong (2020, Chapter 1)](https://worldscientific.com/doi/epdf/10.1142/9789811220197_0001){:target="_blank"}    
 
 * **Lecture 1**
   - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-1.pdf %}), [[slides 2]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-2.pdf %})      
