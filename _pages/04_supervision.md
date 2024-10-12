@@ -2,6 +2,7 @@
 layout: page
 title: Supervision
 group: "navigation"
+order: 3
 permalink: /supervision/
 ---
 

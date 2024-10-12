@@ -138,7 +138,21 @@ permalink: /teaching/deconometrics.html
 ---
 ### 文献分享   
 
-（待更新）
+**文献列表**
+1. Chow, G. C. (1960). Tests of Equality Between Sets of Coefficients in Two Linear Regressions. *Econometrica*, 28(3):591-605.
+2. Ramsey, J. B. (1969). Tests for Specification Errors in Classical Linear Least-Squares Regression Analysis. *Journal of the Royal Statistical Society*, Series B (Methodological), 31(2):350-371.
+3. Hausman, J. A. (1978). Specification Tests in Econometrics. *Econometrica*, 46(6):1251-1271.
+4. Pesaran, M. H. (1974). On the General Problem of Model Selection. *The Review of Economic Studies*, 41(2):153-171.
+5. Moulton, B. R. (1986). Random group effects and the precision of regression estimates. *Journal of Econometrics*, 32(3):385-397.
+6. Efron, B. (1979). Bootstrap Methods: Another Look at the Jackknife. *The Annals of Statistics*, 7(1):1-26.
+7. Griliches, Z. & Hausman, J. A. (1986). Errors in Variables in Panel Data. *Journal of Econometrics*, 31:93-118.
+8. Browning, M. & Meghir, C. (1991). The Effects of Male and Female Labor Supply on Commodity Demands. *Econometrica*, 59(4):925-951.
+9. Rosenbaum, P. R. & Rubin, D. B. (1983). The Central Role of the Propensity Score in Observational Studies for Causal Effects. *Biometrika*, 70(1):41-55.
+10. LeLonde, R. J. (1986). Evaluating the Econometric Evaluations of Training Programs with Experimental Data. *The American Economic Review*, 76(4):604-620
+11. Imai, K., Keele, L., Yamamoto, T. (2010). Identification, Inference and Sensitivity Analysis for Causal Mediation Effects. *Statistical Science*, 25(1):51-71.
+12. Bertrand, M. Duflo, E., Mullainathan, S. (2004). How Much Should We Trust Differences-in-Differences Estimates? *The Quarterly Journal of Economics*, 119(1):249-275.
+13. Abdulkadiroğlu, A., Angrist, J. D., Hull, P. D., Pathak, P. A. (2016). Charters without Lotteries: Testing Takeovers in New Orleans and Boston, *The American Economic Review*, 106(7):1878-1920.
+14. Barreca, A. I., Lindo, J. M., Waddell, G. R. (2016). Heaping-Induced Bias in Regression-Discontinuity Designs. *Economic Inquiry*, 54(1):268-293.
 
 ---
 ### 期中考核

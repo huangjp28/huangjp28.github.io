@@ -22,9 +22,11 @@
       <header>
         <h1><a href="{{ "/" | prepend: site.baseurl }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        <!--
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        -->
 
         <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -32,7 +34,7 @@
         <p></p>
         <div>
       			<ul class="nav">
-              {% assign pages_list = site.pages %}
+              {% assign pages_list =  site.pages | sort: 'order' %}
               {% assign group = 'navigation' %}
               {% include pages_list %}
             </ul>

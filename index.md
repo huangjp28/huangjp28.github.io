@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Home
+group: "navigation"
+order: 0
 permalink: /
 ---
 
 ---
+![Portrait](/assets/img/photo.png){: style="float: right"}
+
 Welcome to the website of Jia-Ping HUANG!   
 欢迎光临黄嘉平的个人网站！
 

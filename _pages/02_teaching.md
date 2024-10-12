@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 group: "navigation"
+order: 2
 permalink: /teaching/
 ---
 
