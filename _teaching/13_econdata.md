@@ -32,9 +32,9 @@ permalink: /teaching/econdata.html
 --- 
 ### 线下课日程与资料
 
-* 第一次线下课 (9/19)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202401_Lecture1.pdf %})      
+* 第一次线下课 (9/19)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202401_Lecture1.pdf %}){:target="_blank"}      
 
-* 第二次线下课 (10/17)：[slides]（待公布）    
+* 第二次线下课 (10/17)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202401_Lecture2.pdf %}){:target="_blank"}          
 
 * 第三次线下课 (10/31)：[slides]（待公布）    
 

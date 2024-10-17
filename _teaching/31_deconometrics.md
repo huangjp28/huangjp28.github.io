@@ -77,63 +77,63 @@ permalink: /teaching/deconometrics.html
 以下为教学计划。实际教学进度可能根据实际情况进行调整。
 
 * **Lecture 0**    
-  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture0.pdf %})    
+  - 导论：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture0.pdf %}){:target="_blank"}    
     课外阅读：[Hong (2020, Chapter 1)](https://worldscientific.com/doi/epdf/10.1142/9789811220197_0001){:target="_blank"}    
 
 * **Lecture 1**
-  - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-1.pdf %}), [[slides 2]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-2.pdf %})      
+  - 概率与统计：[[slides 1]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-1.pdf %}), [[slides 2]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture1-2.pdf %}){:target="_blank"}      
 
 * **Lecture 2**   
-  - 线性代数：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture2.pdf %})        
+  - 线性代数：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture2.pdf %}){:target="_blank"}        
 
 * **Lecture 3**   
-  - 线性回归模型（一）最小二乘解：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture3.pdf %})      
+  - 线性回归模型（一）最小二乘解：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture3.pdf %}){:target="_blank"}      
 
 * **Lecture 4**   
-  - 线性回归模型（二）几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture4.pdf %})       
+  - 线性回归模型（二）几何特征：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture4.pdf %}){:target="_blank"}       
 
 * **Lecture 5**   
-  - 线性回归模型（三）Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture5.pdf %})        
+  - 线性回归模型（三）Frisch-Waugh-Lovell 定理：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture5.pdf %}){:target="_blank"}        
 
 * **Lecture 6**   
-  - 线性回归模型（四）OLS估计量的统计学性质：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture6.pdf %})        
+  - 线性回归模型（四）OLS估计量的统计学性质：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture6.pdf %}){:target="_blank"}        
 
 * **Lecture 7**     
-  - 假设检验：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture7.pdf %})    
+  - 假设检验：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture7.pdf %}){:target="_blank"}    
 
 * **Lecture 8**   
-  - 大样本检验、区间估计、异方差稳健标准误：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture8.pdf %})   
+  - 大样本检验、区间估计、异方差稳健标准误：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture8.pdf %}){:target="_blank"}   
 
 * **Lecture 9**    
-  - 非线性回归, NLS, GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture9.pdf %})       
+  - 非线性回归, NLS, GLS：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture9.pdf %}){:target="_blank"}       
 
 * **Lecture 10**    
-  - 工具变量估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture10.pdf %})        
+  - 工具变量估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture10.pdf %}){:target="_blank"}        
 
 * **Lecture 11**    
-  - 最大（极大）似然估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture11.pdf %})         
+  - 最大（极大）似然估计：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture11.pdf %}){:target="_blank"}         
 
 * **Lecture 12**    
-  - 面板数据模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture12.pdf %})        
+  - 面板数据模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture12.pdf %}){:target="_blank"}        
 
 * **Lecture 13**    
-  - Neyman-Rubin 潜在结果模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture13.pdf %})    
+  - Neyman-Rubin 潜在结果模型：[[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture13.pdf %}){:target="_blank"}    
  
 * **Lecture 14**    
   - 基于可观测协变量的因果推断：匹配     
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture14.pdf %})   
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture14.pdf %}){:target="_blank"}   
 
 * **Lecture 15**    
   - 基于不可观测协变量的因果推断（一）：双重差分与合成控制    
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture15.pdf %})    
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture15.pdf %}){:target="_blank"}    
 
 * **Lecture 16**    
   - 基于不可观测协变量的因果推断（二）：IV与LATE    
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture16.pdf %})    
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture16.pdf %}){:target="_blank"}    
 
 * **Lecture 17**    
   - 基于不可观测协变量的因果推断（三）：断点回归设计    
-    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture17.pdf %})    
+    [[slides]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2024_Lecture17.pdf %}){:target="_blank"}    
 
 ---
 ### 文献分享   
@@ -164,10 +164,10 @@ permalink: /teaching/deconometrics.html
 
 期末考核采取课程论文形式，具体要求如下
 
-* [[题目及要求]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Final.pdf %})      
+* [[题目及要求]]({{ site.baseurl }}{% link /assets/pdf/DMetrics_2023_Final.pdf %}){:target="_blank"}      
 * 提交方法：   
-  - 首页：下载[[深圳大学研究生课程期末论文评分表]]({{ site.baseurl }}{% link /assets/files/termpapercover2023.docx %})，填写个人相关信息后，附在论文前作为首页    
-  - 学术诚信承诺书：下载[[深圳大学研究生课程论文学术诚信承诺书]]({{ site.baseurl }}{% link /assets/files/commitement.doc %})，填写后附在首页后    
+  - 首页：下载[[深圳大学研究生课程期末论文评分表]]({{ site.baseurl }}{% link /assets/files/termpapercover2023.docx %}){:target="_blank"}，填写个人相关信息后，附在论文前作为首页    
+  - 学术诚信承诺书：下载[[深圳大学研究生课程论文学术诚信承诺书]]({{ site.baseurl }}{% link /assets/files/commitement.doc %}){:target="_blank"}，填写后附在首页后    
   - 正文：将正文排版打印，附在首页和学术承诺书之后    
   - 将上述内容订在一起，于**第17教学周（2024年12月27日星期五）**课堂上提交    
 
