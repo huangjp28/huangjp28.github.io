@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ---
-![Portrait](/assets/img/photo.png){: style="float: right"}
+![Portrait](/assets/img/photo.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Welcome to the website of Jia-Ping HUANG!   
 欢迎光临黄嘉平的个人网站！

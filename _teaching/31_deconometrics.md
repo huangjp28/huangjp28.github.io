@@ -138,6 +138,19 @@ permalink: /teaching/deconometrics.html
 ---
 ### 文献分享   
 
+**日程安排**
+
+| 日期 | 分享人 1 | 文献 1 | 分享人 2 | 文献 2 |
+| :---: | :---: | :---: | :---: | :---: |
+| 10月30日 | 3 | Chow (1960) | 6 | Ramsey (1969) |
+| 11月6日 | 1 | Hausman (1978) | 7 | Pesaran (1974) |
+| -- | 2 | Moulton (1986) | 4 | Efron (1979) |
+| -- | 5 | Griliches & Hausman (1986) | 1 | Browning & Meghir (1991) |
+| -- | 6 | Rosenbaum & Rubin (1983) | 2 | LeLonde (1986) |
+| -- | 5 | Imai et al. (2010) | 3 | Bertrand et al. (2004) |
+| -- | 4 | Abdulkadiroğlu at al. (2016) | 7 | Barreca et al. (2016) |
+
+
 **文献列表**
 1. Chow, G. C. (1960). Tests of Equality Between Sets of Coefficients in Two Linear Regressions. *Econometrica*, 28(3):591-605.
 2. Ramsey, J. B. (1969). Tests for Specification Errors in Classical Linear Least-Squares Regression Analysis. *Journal of the Royal Statistical Society*, Series B (Methodological), 31(2):350-371.
