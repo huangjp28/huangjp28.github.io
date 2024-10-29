@@ -172,6 +172,10 @@ permalink: /teaching/deconometrics.html
 
 期中考核将采用作业形式，内容为理论问题。
 
+* [[题目及要求]]({{ site.baseurl }}{% link /assets/pdf/DMetrix_2024_Midterm.pdf %}){:target="_blank"}      
+* 提交方法：将答案保存为 PDF ⽂档后，以电⼦邮件⽅式提交。
+* 截止日期：2024年11月5日 23:59:59
+
 ---
 ### 期末考核
 
