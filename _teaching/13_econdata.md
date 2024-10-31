@@ -36,11 +36,15 @@ permalink: /teaching/econdata.html
 
 * 第二次线下课 (10/17)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202401_Lecture2.pdf %}){:target="_blank"}          
 
-* 第三次线下课 (10/31)：[slides]（待公布）    
+* 第三次线下课 (10/31)：[[slides]]({{ site.baseurl }}{% link /assets/pdf/EconData_202401_Lecture3.pdf %}){:target="_blank"}       
 
 * 第四～六次线下课：     
-  小组汇报：[分组名单和日程安排]（待公布）    
-  日期：11/14, 11/21, 11/28    
+  小组汇报：分组名单在线下课QQ群中发布       
+  日期及汇报顺序：   
+  **11/14**：第 4, 15, 5, 10, 7, 9, 16 组   
+  **11/21**：第 11, 20, 17, 19, 3, 12, 14 组    
+  **11/28**：第 2, 21, 8, 13, 18, 1, 6 组    
+
     
 ---
 ### 线下期末考核
