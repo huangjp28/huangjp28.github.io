@@ -144,8 +144,8 @@ permalink: /teaching/deconometrics.html
 | :---: | :---: | :---: | :---: | :---: |
 | 10月30日 | 3 | Chow (1960) | 6 | Ramsey (1969) |
 | 11月6日 | 1 | Hausman (1978) | 7 | Pesaran (1974) |
-| -- | 2 | Moulton (1986) | 4 | Efron (1979) |
-| -- | 5 | Griliches & Hausman (1986) | 1 | Browning & Meghir (1991) |
+| 11月13日 | 2 | Moulton (1986) | 4 | Efron (1979) |
+| 11月22日 | 5 | Griliches & Hausman (1986) | 1 | Browning & Meghir (1991) |
 | -- | 6 | Rosenbaum & Rubin (1983) | 2 | LeLonde (1986) |
 | -- | 5 | Imai et al. (2010) | 3 | Bertrand et al. (2004) |
 | -- | 4 | Abdulkadiroğlu at al. (2016) | 7 | Barreca et al. (2016) |
