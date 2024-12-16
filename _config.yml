@@ -1,31 +1,71 @@
-include: ['_pages', 'assets']
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-collections:
-  teaching:
-    output: true
 
-kramdown:
-  input: GFM
-
-# Theme settings
-theme: jekyll-theme-minimal
-
-# Site settings
 title: HUANG, Jia-Ping
+#email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website of Jia-Ping HUANG.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "huangjp.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  huangjp28
 
-description: The personal website of Jia-Ping Huang.
-
-google_analytics: UA-135009652-1
-
-logo: /assets/img/photo.png
-
-show_downloads: 'false'
-
-#baseurl: ""
-#url: "https://huangjp.com"
-#github_username: huangjp28
-#name: HUANG, Jia-Ping's Official Website
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 # Build settings
-#sass:
-#  sass_dir: _sass
+theme: just-the-docs #minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+# Theme Configuration 
+search_enabled: true
+
+aux_links:
+  Shenzhen University &nbsp; <i class="fa fa-external-link"></i>:
+    - https://www.szu.edu.cn
+
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+
+

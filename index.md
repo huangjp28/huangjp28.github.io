@@ -1,13 +1,16 @@
 ---
-layout: page
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 title: Home
-group: "navigation"
-order: 0
+nav_order: 1
 permalink: /
 ---
 
----
+<!--
 ![Portrait](/assets/img/photo.png){:style="display:block; margin-left:auto; margin-right:auto"}
+-->
 
 Welcome to the website of Jia-Ping HUANG!   
 欢迎光临黄嘉平的个人网站！
@@ -17,18 +20,20 @@ I am a lecturer at Shenzhen University, China. I have been granted a degree of P
 * social and economic networks,   
 * mathematical economics.   
 
-More information about me can be found in the [Curriculum Vitae]({{ site.baseurl }}{% link _pages/01_CV.md %}) page.
+More information about me can be found in the [Curriculum Vitae]({{ site.baseurl }}{% link docs/CV.md %}) page.
 
 我现在任职于深圳大学，职位讲师。我拥有工学博士（日本筑波大学）和经济学博士（荷兰阿姆斯特丹自由大学）学位。我的研究领域包括   
 * 合作博弈理论
 * 社会网络和经济网络
 * 数理经济学
 
-想了解更多信息请参考 [Curriculum Vitae]({{ site.baseurl }}{% link _pages/01_CV.md %}) 部分。
+想了解更多信息请参考 [Curriculum Vitae]({{ site.baseurl }}{% link docs/CV.md %}) 部分。
 
-如果你是学生，在考虑是否选我为导师，请先阅读 [Supervision]({{ site.baseurl }}{% link _pages/04_supervision.md %}) 部分。
+如果你是学生，在考虑是否选我为导师，请先阅读 [Supervision]({{ site.baseurl }}{% link docs/supervision.md %}) 部分。
 
 
+<!--
 ---
 
 <a href="https://sfdora.org/"><img src="{{ site.baseurl }}{% link /assets/img/Dorabadge1.png %}" alt="DORA" title="DORA" height="50" /></a>
+-->
