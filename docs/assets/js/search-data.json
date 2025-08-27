@@ -105,488 +105,474 @@
     "relUrl": "/contact"
   },"15": {
     "doc": "PhD 高级计量经济学",
-    "title": "高级计量经济学 (2024秋冬)",
-    "content": "本页面包含深圳大学中国经济特区研究中心理论经济学博士课程 高级计量经济学 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。 . 本门课程以理论学习为主，要求选课学生掌握本科阶段的概率论、统计学、微积分、线性代数、初级计量经济学的基本内容，并了解至少一种计量分析软件（例如 Stata 或 R 等）的使用方法。不具备以上知识储备的同学可参考下面列出的参考书或本网站中的其他内容自行学习。实证方面的练习为课后自主进行。鉴于本专业学生在数理经济学方面的基础可能比较薄弱，本门课程将难度设定为等同或略高于一般硕士阶段的水平，并在教学过程中更加重视对基础的巩固。 . 本门课程总共为4学时，每周两次授课，每次2课时。课程内容大致可分为三部分：第一部分以回归分析为中心，包括数学和统计学基础、线性回归模型的矩阵表达、最小二乘估计量及其性质（重点学习FWL定理和Gauss-Markov定理）、假设检验；第二部分是对第一部分的扩展，包括非线性回归模型、工具变量估计、面板数据模型、极大似然估计、离散因变量模型等；第三部分基于 Neyman-Rubin 的潜在结果模型讨论因果推断方法和在政策评估方面的应用。在时间允许的情况下，我们会对课程内容进行一定程度的扩充。内容包括 GMM 估计、时间序列模型、结构方程模型、非参数估计、bootstrap方法、空间计量方法、机器学习方法等主题。这部分内容将以文献阅读和分享的形式出现。 . ",
-    "url": "/teaching/dmetrics#%E9%AB%98%E7%BA%A7%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6-2024%E7%A7%8B%E5%86%AC",
+    "title": "高级计量经济学 (2025秋冬)",
+    "content": "本页面包含深圳大学中国经济特区研究中心理论经济学博士课程 高级计量经济学 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。 . 本门课程以理论学习为主，要求选课学生掌握概率论、统计学、微积分、线性代数、中级计量经济学的基本内容，并了解至少一种计量分析软件（例如 Stata 或 R 等）的使用方法。不具备以上知识储备的同学可参考下面列出的参考书或本网站中的其他内容自行学习。实证方面的练习为课后自主进行。 . 本门课程总共为36学时，每周3课时，共进行12周。由于课堂中的时间极为有限，无法对庞大且多样的计量经济学理论体系进行有效阐述，因此我们采用“研讨”模式，以学生阅读文献并轮流讲解、教师提问点评的形式开展。这样做的目的并不在于系统地传授知识，而在于培养学生独立研读高级文献的能力。只有掌握了对高难度内容的自学能力，才能持续深入地了解计量经济学，才能为日后独立进行学术研究打下必要的坚实基础。 . ",
+    "url": "/teaching/dmetrics#%E9%AB%98%E7%BA%A7%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6-2025%E7%A7%8B%E5%86%AC",
     
-    "relUrl": "/teaching/dmetrics#高级计量经济学-2024秋冬"
+    "relUrl": "/teaching/dmetrics#高级计量经济学-2025秋冬"
   },"16": {
     "doc": "PhD 高级计量经济学",
     "title": "基本信息",
-    "content": "课程代码/国际课程代码：6002033 上课时间与地点：（2024秋冬）星期三/五 7-8节，粤海校区汇文楼行政楼1722 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510 接访时间：（2024秋冬）粤海校区办公室，星期三 15:45-16:30 . 成绩评价：期中考核 (30%) + 文献分享 (30%) + 期末课程论文 (40%) 教学辅助工具：微助教（酌情使用，主要用于签到和发布资料） 主要参考书： . | Davidson, R. &amp; MacKinnon, J. G. (2021). Econometric Theory and Methods. Oxford University Press. 本书可以在作者网站下载：http://qed.econ.queensu.ca/ETM/ | Angrist, J. D. &amp; Pischke, J.-S. (2009). Mostly Harmless Econometrics: An Empiricist’s Companion. Princeton University Press. | . ",
+    "content": "课程代码/国际课程代码：6002033 上课时间与地点：（2025秋冬）2-13周 星期一/6-8节，粤海校区汇文楼H1-301 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510 接访时间：（2025秋冬）粤海校区办公室，星期一 15:45-16:30 成绩评价：课堂分享 (60%) + 期末考核 (40%) 主要参考书： . Davidson, R. &amp; MacKinnon, J. G. (2021). Estimation and Inference in Econometrics. Oxford University Press. 本书可以在作者网站下载：http://qed.econ.queensu.ca/pub/dm-book/ . ",
     "url": "/teaching/dmetrics#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/dmetrics#基本信息"
   },"17": {
     "doc": "PhD 高级计量经济学",
     "title": "参考资料",
-    "content": "计量经济学基础 . | DeGroot, M. H. &amp; Schervish, M. J. (2012). Probability and Statistics, 4th Edition. Pearson. | Hansen, B. E. (2022). Probability and Statistics for Economists. Princeton University Press. | Leon, S. J. &amp; de Pillis, L. (2020). Linear Algebra with Applications, 10th Edition. Pearson. | . 初等至中等难度 . | Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach, 7th Edition. Cengage Learning. | Stock, J. H. &amp; Watson, M. W. (2020). Introduction to Econometrics, 4th Edition. Pearson. | Maddala, G. S. &amp; Lahiri, K. (2009). Introduction to Econometrics, 4th Edition. Wiley. | 硕士高级计量经济学2021年资料（内容比较简单，等同或略高于本科水平）. | . 中等以上难度 . | Goldberger, R. S. (1991). A Course in Econometrics. Harvard University Press. | William H. Greene (2020). Econometric Analysis, 8th Edition, Global Edition. Pearson. | Wooldridge, J. M. (2010). Econometric Analysis of Cross Section and Panel Data, 2nd Edition. MIT Press. | Cameron, A. &amp; Trivedi, P. (2015). Microeconometrics: Methods and Applications, Cambridge University Press. | Davidson, R. &amp; MacKinnon, J. G. (1993). Estimation and Inference in Econometrics. Oxford University Press. | Hansen, B. E. (2022). Econometrics. Princeton University Press. | 陈强，高级计量经济学及Stata应用（第二版），高等教育出版社，2014. | 洪永淼，高级计量经济学，高等教育出版社，2011. | . 因果推断 . | Scott Cunningham, Causal Inference: The Mixtape. [Website] | Angrist, J. D. &amp; Pischke, J.-S. (2014). Mastering ‘Metrics: The Path from Cause to Effect. Princeton University Press. | Morgan, S. L. &amp; Winship, C. (2015). Counterfactuals and Causal Inference: Methods and Principles for Social Research, 2nd Edition. Cambridge University Press. | Pearl, J. (2009). Causality: Models, Reasonings, and Inference, 2nd Edition. Cambridge University Press. | Pearl, J., Glymour, M., &amp; Jewell, N. P. (2016). Causal Inference in Statistics: A Primer. Wiley. | Hernán, M. A. &amp; Robins, J. M. (2020). Causal Inference: What If. CRC Press. [PDF] | Huntington-Klein, N. (2022). The Eﬀect: An Introduction to Research Design and Causality. CRC Press. [Website] | . ",
+    "content": "计量经济学基础 . | DeGroot, M. H. &amp; Schervish, M. J. (2012). Probability and Statistics, 4th Edition. Pearson. | Hansen, B. E. (2022). Probability and Statistics for Economists. Princeton University Press. | Leon, S. J. &amp; de Pillis, L. (2020). Linear Algebra with Applications, 10th Edition. Pearson. | . 初等至中等难度 . | Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach, 7th Edition. Cengage Learning. | Stock, J. H. &amp; Watson, M. W. (2020). Introduction to Econometrics, 4th Edition. Pearson. | Maddala, G. S. &amp; Lahiri, K. (2009). Introduction to Econometrics, 4th Edition. Wiley. | 硕士高级计量经济学2021年资料（内容比较简单，等同或略高于本科水平）. | . 中等以上难度 . | Goldberger, R. S. (1991). A Course in Econometrics. Harvard University Press. | William H. Greene (2020). Econometric Analysis, 8th Edition, Global Edition. Pearson. | Wooldridge, J. M. (2010). Econometric Analysis of Cross Section and Panel Data, 2nd Edition. MIT Press. | Cameron, A. &amp; Trivedi, P. (2015). Microeconometrics: Methods and Applications, Cambridge University Press. | Davidson, R. &amp; MacKinnon, J. G. (2004). Econometric Theory and Methods. Oxford University Press. | Hansen, B. E. (2022). Econometrics. Princeton University Press. | 陈强，高级计量经济学及Stata应用（第二版），高等教育出版社，2014. | 洪永淼，高级计量经济学，高等教育出版社，2011. | . 因果推断 . | Scott Cunningham, Causal Inference: The Mixtape. [Website] | Angrist, J. D. &amp; Pischke, J.-S. (2014). Mastering ‘Metrics: The Path from Cause to Effect. Princeton University Press. | Angrist, J. D. &amp; Pischke, J.-S. (2009). Mostly Harmless Econometrics: An Empiricist’s Companion. Princeton University Press. | Morgan, S. L. &amp; Winship, C. (2015). Counterfactuals and Causal Inference: Methods and Principles for Social Research, 2nd Edition. Cambridge University Press. | Pearl, J. (2009). Causality: Models, Reasonings, and Inference, 2nd Edition. Cambridge University Press. | Pearl, J., Glymour, M., &amp; Jewell, N. P. (2016). Causal Inference in Statistics: A Primer. Wiley. | Hernán, M. A. &amp; Robins, J. M. (2020). Causal Inference: What If. CRC Press. [PDF] | Huntington-Klein, N. (2022). The Eﬀect: An Introduction to Research Design and Causality. CRC Press. [Website] | . ",
     "url": "/teaching/dmetrics#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/dmetrics#参考资料"
   },"18": {
     "doc": "PhD 高级计量经济学",
-    "title": "进度与资料",
-    "content": "以下为教学计划。实际教学进度可能根据实际情况进行调整。 . | Lecture 0 . | 导论 [slides] 课外阅读 Hong (2020, Chapter 1) | . | Lecture 1 . | 概率与统计 [slides 1], [slides 2] | . | Lecture 2 . | 线性代数 [slides] | . | Lecture 3 . | 线性回归模型（一）最小二乘解 [slides] | . | Lecture 4 . | 线性回归模型（二）几何特征 [slides] | . | Lecture 5 . | 线性回归模型（三）Frisch-Waugh-Lovell 定理 [slides] | . | Lecture 6 . | 线性回归模型（四）OLS估计量的统计学性质 [slides] | . | Lecture 7 . | 假设检验 [slides] | . | Lecture 8 . | 大样本检验、区间估计、异方差稳健标准误 [slides] | . | Lecture 9 . | 非线性回归, NLS, GLS [slides] | . | Lecture 10 . | 工具变量估计 [slides] | . | Lecture 11 . | 最大（极大）似然估计 [slides] | . | Lecture 12 . | 面板数据模型 [slides] | . | Lecture 13 . | Neyman-Rubin 潜在结果模型 [slides] | . | Lecture 14 . | 基于可观测协变量的因果推断：匹配 [slides] | . | Lecture 15 . | 基于不可观测协变量的因果推断（一）：双重差分与合成控制 [slides] | . | Lecture 16 . | 基于不可观测协变量的因果推断（二）：IV与LATE [slides] | . | Lecture 17 . | 基于不可观测协变量的因果推断（三）：断点回归设计 [slides] | . | . ",
-    "url": "/teaching/dmetrics#%E8%BF%9B%E5%BA%A6%E4%B8%8E%E8%B5%84%E6%96%99",
+    "title": "以往教学资料",
+    "content": "伴随着《深圳大学关于制定学术学位研究生培养方案的指导意见》（深大校发〔2025〕124 号）的发布，本门课程自2025-2026学年起对内容和教学方法进行修订。以下为2024年的教学资料，仅供参考。 . | Lecture 0 . | 导论 [slides] 课外阅读 Hong (2020, Chapter 1) | . | Lecture 1 . | 概率与统计 [slides 1], [slides 2] | . | Lecture 2 . | 线性代数 [slides] | . | Lecture 3 . | 线性回归模型（一）最小二乘解 [slides] | . | Lecture 4 . | 线性回归模型（二）几何特征 [slides] | . | Lecture 5 . | 线性回归模型（三）Frisch-Waugh-Lovell 定理 [slides] | . | Lecture 6 . | 线性回归模型（四）OLS估计量的统计学性质 [slides] | . | Lecture 7 . | 假设检验 [slides] | . | Lecture 8 . | 大样本检验、区间估计、异方差稳健标准误 [slides] | . | Lecture 9 . | 非线性回归, NLS, GLS [slides] | . | Lecture 10 . | 工具变量估计 [slides] | . | Lecture 11 . | 最大（极大）似然估计 [slides] | . | Lecture 12 . | 面板数据模型 [slides] | . | Lecture 13 . | Neyman-Rubin 潜在结果模型 [slides] | . | Lecture 14 . | 基于可观测协变量的因果推断：匹配 [slides] | . | Lecture 15 . | 基于不可观测协变量的因果推断（一）：双重差分与合成控制 [slides] | . | Lecture 16 . | 基于不可观测协变量的因果推断（二）：IV与LATE [slides] | . | Lecture 17 . | 基于不可观测协变量的因果推断（三）：断点回归设计 [slides] | . | . ",
+    "url": "/teaching/dmetrics#%E4%BB%A5%E5%BE%80%E6%95%99%E5%AD%A6%E8%B5%84%E6%96%99",
     
-    "relUrl": "/teaching/dmetrics#进度与资料"
+    "relUrl": "/teaching/dmetrics#以往教学资料"
   },"19": {
     "doc": "PhD 高级计量经济学",
-    "title": "文献分享",
-    "content": "日程安排 . | 日期 | 分享人 1 | 文献 1 | 分享人 2 | 文献 2 | . | 10月30日 | 3 | Chow (1960) | 6 | Ramsey (1969) | . | 11月6日 | 1 | Hausman (1978) | 7 | Pesaran (1974) | . | 11月13日 | 2 | Moulton (1986) | 4 | Efron (1979) | . | 11月27日 | 5 | Griliches &amp; Hausman (1986) | 1 | Browning &amp; Meghir (1991) | . | 12月11日 | 6 | Rosenbaum &amp; Rubin (1983) | 2 | LeLonde (1986) | . | 12月18日 | 5 | Imai et al. (2010) | 3 | Bertrand et al. (2004) | . | 12月25日 | 4 | Abdulkadiroğlu at al. (2016) | 7 | Barreca et al. (2016) | . 文献列表 . | Chow, G. C. (1960). Tests of Equality Between Sets of Coefficients in Two Linear Regressions. Econometrica, 28(3):591-605. | Ramsey, J. B. (1969). Tests for Specification Errors in Classical Linear Least-Squares Regression Analysis. Journal of the Royal Statistical Society, Series B (Methodological), 31(2):350-371. | Hausman, J. A. (1978). Specification Tests in Econometrics. Econometrica, 46(6):1251-1271. | Pesaran, M. H. (1974). On the General Problem of Model Selection. The Review of Economic Studies, 41(2):153-171. | Moulton, B. R. (1986). Random group effects and the precision of regression estimates. Journal of Econometrics, 32(3):385-397. | Efron, B. (1979). Bootstrap Methods: Another Look at the Jackknife. The Annals of Statistics, 7(1):1-26. | Griliches, Z. &amp; Hausman, J. A. (1986). Errors in Variables in Panel Data. Journal of Econometrics, 31:93-118. | Browning, M. &amp; Meghir, C. (1991). The Effects of Male and Female Labor Supply on Commodity Demands. Econometrica, 59(4):925-951. | Rosenbaum, P. R. &amp; Rubin, D. B. (1983). The Central Role of the Propensity Score in Observational Studies for Causal Effects. Biometrika, 70(1):41-55. | LeLonde, R. J. (1986). Evaluating the Econometric Evaluations of Training Programs with Experimental Data. The American Economic Review, 76(4):604-620 | Imai, K., Keele, L., Yamamoto, T. (2010). Identification, Inference and Sensitivity Analysis for Causal Mediation Effects. Statistical Science, 25(1):51-71. | Bertrand, M. Duflo, E., Mullainathan, S. (2004). How Much Should We Trust Differences-in-Differences Estimates? The Quarterly Journal of Economics, 119(1):249-275. | Abdulkadiroğlu, A., Angrist, J. D., Hull, P. D., Pathak, P. A. (2016). Charters without Lotteries: Testing Takeovers in New Orleans and Boston, The American Economic Review, 106(7):1878-1920. | Barreca, A. I., Lindo, J. M., Waddell, G. R. (2016). Heaping-Induced Bias in Regression-Discontinuity Designs. Economic Inquiry, 54(1):268-293. | . ",
-    "url": "/teaching/dmetrics#%E6%96%87%E7%8C%AE%E5%88%86%E4%BA%AB",
-    
-    "relUrl": "/teaching/dmetrics#文献分享"
-  },"20": {
-    "doc": "PhD 高级计量经济学",
-    "title": "期中考核",
-    "content": "期中考核将采用作业形式，内容为理论问题。 . | [题目及要求] | 提交方法：将答案保存为 PDF 文档后，以电子邮件方式提交。 | 截止日期：2024年11月5日 23:59:59 | [参考答案] | . ",
-    "url": "/teaching/dmetrics#%E6%9C%9F%E4%B8%AD%E8%80%83%E6%A0%B8",
-    
-    "relUrl": "/teaching/dmetrics#期中考核"
-  },"21": {
-    "doc": "PhD 高级计量经济学",
     "title": "期末考核",
-    "content": "期末考核采取课程论文形式，具体要求如下 . | [题目及要求] | 提交方法： . | 首页：下载[深圳大学研究生课程期末论文评分表]，填写个人相关信息后，附在论文前作为首页 | 学术诚信承诺书：下载[深圳大学研究生课程论文学术诚信承诺书]，填写后附在首页后 | 正文：将正文排版打印，附在首页和学术承诺书之后 | 将上述内容订在一起，于第17教学周（2024年12月27日星期五）课堂上提交 | . | . ",
+    "content": "期末考核采取课程论文形式，具体要求如下 . （待更新） . ",
     "url": "/teaching/dmetrics#%E6%9C%9F%E6%9C%AB%E8%80%83%E6%A0%B8",
     
     "relUrl": "/teaching/dmetrics#期末考核"
-  },"22": {
+  },"20": {
     "doc": "PhD 高级计量经济学",
     "title": "PhD 高级计量经济学",
     "content": " ",
     "url": "/teaching/dmetrics",
     
     "relUrl": "/teaching/dmetrics"
-  },"23": {
+  },"21": {
     "doc": "经济数据解读",
-    "title": "经济数据解读 (MOOC, 2025年春夏)",
+    "title": "经济数据解读 (MOOC混合式教学课程, 2025年秋冬)",
     "content": "本页面包含深圳大学中国经济特区研究中心开设的本科公共选修课 经济数据解读 的相关内容。本门课程是以 MOOC 为主要学习形式的混合式教学课程，关于 MOOC 部分的内容可访问优课联盟网站 http://www.uooc.net.cn/ 进行学习。 . 在这里你可以找到 线下课02班（丽湖校区） 的基本信息、课件资料、以及关于小组汇报和期末考核的安排。网页内容随课程进程的推进不断更新，请选课同学定期关注。如果你选的是线下课01班（粤海校区），请从主讲教师处获取相关信息。 . ",
-    "url": "/teaching/econdata#%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB-mooc-2025%E5%B9%B4%E6%98%A5%E5%A4%8F",
+    "url": "/teaching/econdata#%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB-mooc%E6%B7%B7%E5%90%88%E5%BC%8F%E6%95%99%E5%AD%A6%E8%AF%BE%E7%A8%8B-2025%E5%B9%B4%E7%A7%8B%E5%86%AC",
     
-    "relUrl": "/teaching/econdata#经济数据解读-mooc-2025年春夏"
-  },"24": {
+    "relUrl": "/teaching/econdata#经济数据解读-mooc混合式教学课程-2025年秋冬"
+  },"22": {
     "doc": "经济数据解读",
     "title": "基本信息",
-    "content": "课程代码/国际课程代码：8003020001 上课时间与地点：第3,5,8,11,12,13教学周 星期四 11-12节，丽湖校区四方楼 南103 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510，丽湖校区守正楼A栋三楼教师临时办公室 接访时间： . | 粤海校区办公室：星期二 15:45-16:30 | 丽湖校区临时办公室：需提前发邮件联系以确定接访时间和地点 | . 成绩评价：线上学习 (50%) + 线下见面课 (20%) + 线下期末考核 (30%) 深圳大学线下课联络群：企业微信课程群 . ",
+    "content": "课程代码/国际课程代码：8003020001 上课时间与地点：第4,7,9,11,12,13教学周 星期四 11-12节，丽湖校区四方楼 南103 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510，丽湖校区守正楼A栋三楼教师临时办公室 接访时间：需提前发邮件联系以确定接访时间和地点 成绩评价：线上学习 (50%) + 线下见面课 (20%) + 线下期末考核 (30%) 深圳大学线下课联络群：企业微信课程群 . ",
     "url": "/teaching/econdata#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/econdata#基本信息"
-  },"25": {
+  },"23": {
     "doc": "经济数据解读",
     "title": "线下课日程与资料",
-    "content": ". | 第一次线下课 (3/13)：[slides] . | 第二次线下课 (3/27)：[slides] . | 第三次线下课 (4/17)：[slides] . | 第四～六次线下课： . | 小组汇报：分组方式参见第二次线下课课件，最终分组名单在课程群中发布 | 日期及汇报顺序： 5/8：第 6、8、1、14、12 组 5/15：第 5、2、3、4、9 组 5/22：第 10、13、11、7 组 | 每组汇报时间：15分钟 | . | . ",
+    "content": ". | 第一次线下课 (9/25)： . | 第二次线下课 (10/16)： . | 第三次线下课 (10/30)： . | 第四～六次线下课：小组汇报 . | . ",
     "url": "/teaching/econdata#%E7%BA%BF%E4%B8%8B%E8%AF%BE%E6%97%A5%E7%A8%8B%E4%B8%8E%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/econdata#线下课日程与资料"
-  },"26": {
+  },"24": {
     "doc": "经济数据解读",
     "title": "线下期末考核",
-    "content": "期末考核采用大作业形式，具体要求如下 . | [报告题目和要求]（点击下载） | 需使用 [深圳大学课程文论专用答题纸]（点击下载） | 02班提交日期和地点：6月26日星期四 11-12节，丽湖校区四方楼南103 | . ",
+    "content": "（待更新） . ",
     "url": "/teaching/econdata#%E7%BA%BF%E4%B8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E6%A0%B8",
     
     "relUrl": "/teaching/econdata#线下期末考核"
-  },"27": {
+  },"25": {
     "doc": "经济数据解读",
     "title": "经济数据解读",
     "content": " ",
     "url": "/teaching/econdata",
     
     "relUrl": "/teaching/econdata"
-  },"28": {
+  },"26": {
     "doc": "人工智能（经济）专业英语",
     "title": "专业英语 (2025年春夏)",
     "content": "本页面包含深圳大学中国经济特区研究中心 人工智能（经济） 专硕课程 专业英语 的相关内容。 . ",
     "url": "/teaching/en#%E4%B8%93%E4%B8%9A%E8%8B%B1%E8%AF%AD-2025%E5%B9%B4%E6%98%A5%E5%A4%8F",
     
     "relUrl": "/teaching/en#专业英语-2025年春夏"
-  },"29": {
+  },"27": {
     "doc": "人工智能（经济）专业英语",
     "title": "课程目标",
     "content": "到了研究生阶段，大多数同学都比较深入地学习了英语语法，并有了相对丰富的词汇积累。但是，说到能否脱离翻译工具独立完成英文文献的阅读、论文的写作、以及用英语进行学术交流和汇报，相信很多人还无法达到这个水平。因此，这一阶段专业英语的学习重点是培养对英文文献的理解能力和阅读速度，学习本专业学术写作的方法和习惯，同时积累英语交流的经验。 . 经济学属于广义的社会科学，其学术著作在注重叙事性的同时，既可能包含复杂的数学表达和推导，又经常会出现大量数据分析结果。通过阅读优秀期刊论文和书籍虽然可以体会经济学写作的特点，但因缺乏系统性指导，学习效率较低。本门课程希望通过选读著名经济学家给学生的写作建议，帮助同学们理解经济学英文学术写作的特点，为提升写作水平提供帮助。 . ",
     "url": "/teaching/en#%E8%AF%BE%E7%A8%8B%E7%9B%AE%E6%A0%87",
     
     "relUrl": "/teaching/en#课程目标"
-  },"30": {
+  },"28": {
     "doc": "人工智能（经济）专业英语",
     "title": "基本信息",
     "content": "课程代码：6006014 上课时间与地点：（1-8周）星期二 7-8节, 粤海校区汇文楼 H3-505 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510 接访时间：星期二 15:45-16:30 成绩评价：出席率 (20%) + 课堂展示 (40%) + 期末考核 (40%) 教学辅助工具：深圳大学畅课数智化教学平台（通过企业微信或网站 https://lms.szu.edu.cn/ 访问） 主要参考书： . Thomson, W. (2011). A Guide for the Young Economist (2nd ed.). The MIT Press. Table of Contents Preface to the First Edition Chapter 1 . ",
     "url": "/teaching/en#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/en#基本信息"
-  },"31": {
+  },"29": {
     "doc": "人工智能（经济）专业英语",
     "title": "参考资料及扩展阅读",
     "content": ". | Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2024). The Craft of Research (5th ed.). The University of Chicago Press. | Turabian, K. L. (2018). A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers (9th ed.). The University of Chicago Press. | Cioffi, F. L. (2024). Stellar English: A Down-to-Earth Guide to Grammer and Style. Princeton University Press. | McCloskey, D. N. (2019). Economical Writing: Thirty-Five Rules for Clear and Persuasive Prose (3rd ed.). The University of Chicago Press. | Weisbach, M. S. (2021). The Economist’s Craft: An Introduction to Research, Publishing, and Professional Development. Princeton University Press. | Varian, H. R. (1997). How to build an economic model in your spare time. The Ameriacan Economist, 41(2), 3-10. https://journals.sagepub.com/doi/10.1177/0569434515627089 | Kennedy, P. (2002). Sinning in the Basement: What are the Rules? The Ten Commandments of Applied Econometrics. Journal of Economic Surveys, 16(4), 569-589. https://doi.org/10.1111/1467-6419.00179 | Abadir, K. M., and Magnus, J. R. (2002). Notation in Econometrics: A Proposal for a Standard. The Econometrics Journal, 5(1), 76-90. https://doi.org/10.1111/1368-423X.t01-1-00074 | Dudenhefer, P. (2014). A Guide to Writing in Economics. Unpublished manuscript. PDF file | . ",
     "url": "/teaching/en#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E5%8F%8A%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB",
     
     "relUrl": "/teaching/en#参考资料及扩展阅读"
-  },"32": {
+  },"30": {
     "doc": "人工智能（经济）专业英语",
     "title": "内容与进度安排",
     "content": "我们的主要学习资料是 Thomson (2011, Chapter 2 Writing Papers)。该书的作者 William Thomson 是著名理论经济学家（个人主页），该书是面向经济学领域博士研究生撰写的学术指导书，内容包括如何顺利完成学业，如何有效地进行学术写作和交流，以及如何成为合格的审稿人。由于时间有限，我们将聚焦其中关于写作的部分，从英文表达和内容两个层面学习和体会经济学领域的英文写作技巧。 . 课程教学采用翻转课堂形式，由选课学生轮流针对一部份内容进行归纳总结并在课堂上分享。教师和其他同学参与点评和讨论。 . 学习进度 . 下表中列出的章节都是 Thomson (2011) Chapter 2. Writing Papers 中包含的内容。 . | 周次（日期） | 内容（分享章节） | . | 第一周（2/25） | 绪论 | . | 第二周（3/4） | 分享 Section 1. General Principles (pp 46–51) | . | 第三周（3/11） | 分享 Section 2. Notation (pp 51–62) | . | 第四周（3/18） | 分享 Subsection 3.1 – 3.6 (pp 62–69) | . | 第五周（3/25） | 分享 Subsection 3.7 – 3.12 (pp 69–76) | . | 第六周（4/1） | 分享 Subsection 3.13 – 4.4 (pp 76–85) | . | 第七周（4/8） | 分享 Subsection 4.5 – 4.13 (pp 85–95) | . | 第八周（4/15） | 分享 Section 5. Theorems and Proofs (pp 95–108) | . ",
     "url": "/teaching/en#%E5%86%85%E5%AE%B9%E4%B8%8E%E8%BF%9B%E5%BA%A6%E5%AE%89%E6%8E%92",
     
     "relUrl": "/teaching/en#内容与进度安排"
-  },"33": {
+  },"31": {
     "doc": "人工智能（经济）专业英语",
     "title": "期末考核",
     "content": "期末考核采取课程论文形式，具体要求如下 . | [题目及要求] | 提交方法： . | 首页：下载[深圳大学研究生课程期末论文评分表]，填写题目及个人信息。注意此文件内容为本门课程专用，请勿在研究生院网站下载。 | 学术诚信承诺书：下载[深圳大学研究生课程论文学术诚信承诺书]，打印后签字。 | 正文：按题目要求撰写正文。 | 将上述内容打印，按 评分表-承诺书-正文 的顺序订在一起，于2025年4月15日课堂上提交。 | . | . ",
     "url": "/teaching/en#%E6%9C%9F%E6%9C%AB%E8%80%83%E6%A0%B8",
     
     "relUrl": "/teaching/en#期末考核"
-  },"34": {
+  },"32": {
     "doc": "人工智能（经济）专业英语",
     "title": "人工智能（经济）专业英语",
     "content": " ",
     "url": "/teaching/en",
     
     "relUrl": "/teaching/en"
-  },"35": {
+  },"33": {
     "doc": "博弈论与信息经济学",
     "title": "博弈论与信息经济学 (2023年秋冬)",
     "content": "本页面包含深圳大学经济学院会计学（学术学位）硕士课程 博弈论与信息经济学 (2023) 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。 . 信息经济学（又称契约理论）是近年来微观经济学理论中发展较快的领域之一，主要研究经济活动中的信息不对称现象所引发的问题及其对策。作为信息经济学的理论基础，博弈论（尤其是非合作博弈）起到了及其重要的作用。本门课程的主要目的是理解非合作博弈理论的分析框架和不同条件下的解的概念，并能够将其应用到对经济问题的分析中。在此基础上，理解信息不对称引起的逆向选择和道德风险等问题，并了解如何通过机制设计解决这些问题。无论从博弈论还是从信息经济学的角度看，本门课程的内容都只能算作入门，尤其是信息经济学涵盖的问题非常广泛，而我们只能介绍其中最简单也是最具代表性的一小部分。 . 本门课程要求选课学生对本科阶段的高等数学和微观经济学的内容有较好的理解，具备基本的逻辑思维和一定的数学推导能力。自认为基础较差的学生，可以借鉴下面的参考文献进行补充和巩固。 . ",
     "url": "/teaching/gameinfo#%E5%8D%9A%E5%BC%88%E8%AE%BA%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%BB%8F%E6%B5%8E%E5%AD%A6-2023%E5%B9%B4%E7%A7%8B%E5%86%AC",
     
     "relUrl": "/teaching/gameinfo#博弈论与信息经济学-2023年秋冬"
-  },"36": {
+  },"34": {
     "doc": "博弈论与信息经济学",
     "title": "基本信息",
     "content": "课程代码/国际课程代码：1203298 上课时间与地点：星期一 6-8节，丽湖校区四方楼 南207 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510，丽湖校区守正楼A栋三楼教师临时办公室 接访时间： . | 粤海校区办公室：星期二14:30-15:30 | 丽湖校区临时办公室：需提前发邮件联系以确定接访时间和地点 | . 成绩评价：课堂表现 (20%) + 作业/汇报 (30%) + 期末考核 (50%) 教学辅助工具：微助教（主要用于签到和发布资料） 主要参考书： . | Tadelis, S. (2013). Game Theory: An Introduction. Princeton University Press. 中文版：史蒂文·泰迪里斯，博弈论导论，中国人民大学出版社，ISBN 9787300199931. | Kreps, D. M. (1990). A Course in Microeconomic Theory. Princeton University Press. 中文版：戴维·克雷普斯，高级微观经济学教程，格致出版社，ISBN 9787543226227. | . ",
     "url": "/teaching/gameinfo#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/gameinfo#基本信息"
-  },"37": {
+  },"35": {
     "doc": "博弈论与信息经济学",
     "title": "参考资料",
     "content": "相关书籍 . | Macho-Stadler, I. &amp; Perez-Castrillo, J. D. (1995). An Introduction to the Economics of Information: Incentives and Contracts, 2nd Edition. Oxford University Press. | Salanie, B. (2005). The Economics of Contracts: A Primer, 2nd Edition. MIT Press. | Laffont, J.-J. &amp; Martimort, D. (2001). The Theory of Incentives. Princeton University Press. | Bolton, P. &amp; Dewatripont, M. (2005). Contract Theory. MIT Press. | 张维迎，博弈论与信息经济学，格致出版社，ISBN 9787543220751. | Kreps, D. M. (2023). Microeconomic Foundations II: Imperfect Competetion, Information, and Strategic Interaction. Princeton University Press. | . 基础巩固 . | Frank, R. (2021). Microeconomics and Behavior, 10th Edition. McGraw-Hill. | Varian, H. R. (2019). Intermediate Microeconomics: A Modern Approach. W. W. Norton &amp; Company. | Sydsaeter, K., Hammond, P., Strom, A., &amp; Carvajal, A. (2016). Essential Mathematics for Economic Analysis, 5th Edition. Pearson. | Sydsaeter, K., Hammond, P., Seierstad, A., &amp; Strom, A. (2008). Further Mathematics for Economic Analysis. Prentice Hall. | Hoy, M., Livernois, J., McKenna, C., Rees, R., &amp; Stengos, T. (2022). Mathematics for Economics, 4th Edition. The MIT Press. | Chiang, A. C. &amp; Wainwright, K. (2005). Fundamental Methods of Mathematical Economics, 4th Edition. McGraw-Hill. | . ",
     "url": "/teaching/gameinfo#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/gameinfo#参考资料"
-  },"38": {
+  },"36": {
     "doc": "博弈论与信息经济学",
     "title": "进度与资料",
     "content": ". | Lecture 0 . | 导论：[slides] | . | Lecture 1 . | 不确定性下的理性决策：偏好、不确定性、期望效用最大化 [slides] | . | Lecture 2 . | 完全信息静态博弈（一）：标准式博弈、解的概念、优势策略与劣势策略、信念和最优反应 [slides]（10/24更新） | . | Lecture 3 . | 完全信息静态博弈（二）：纳什均衡、混合策略、纳什存在性定理 [slides]（10/31更新） | . | Lecture 4 . | 完全信息动态博弈（一）：扩展式博弈、完美信息与非完美信息、扩展式博弈的纳什均衡 [slides] | . | Lecture 5 . | 完全信息动态博弈（二）：序贯理性、子博弈完美均衡 [slides]（11/21更新） | . | Lecture 6 . | 不完全信息博弈（一）：贝叶斯博弈、贝叶斯纳什均衡 [slides] | . | Lecture 7 . | 不完全信息博弈（二）：不完全信息动态博弈、完美贝叶斯均衡 [slides] | . | Lecture 8 . | 逆向选择问题与信号传递博弈：[slides]（12/17更新） | . | Lecture 9 . | 道德风险问题与委托代理模型：[slides] | . | Lecture 10 . | 总结：[slides] | . | . ",
     "url": "/teaching/gameinfo#%E8%BF%9B%E5%BA%A6%E4%B8%8E%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/gameinfo#进度与资料"
-  },"39": {
+  },"37": {
     "doc": "博弈论与信息经济学",
     "title": "作业",
     "content": ". | 混合策略纳什均衡 问题：[assignment 1] 截止日期：2023年11月12日，23:59:59 提交方式：将答案扫描为PDF文件（可用手机中的扫描软件），通过微助教中的作业功能提交 | . ",
     "url": "/teaching/gameinfo#%E4%BD%9C%E4%B8%9A",
     
     "relUrl": "/teaching/gameinfo#作业"
-  },"40": {
+  },"38": {
     "doc": "博弈论与信息经济学",
     "title": "期末考试",
     "content": "期末考试采取随堂考（开卷）的形式，时间为2024年1月6日（星期六）14:15-15:40，地点为四方楼东301。 . 注意事项： . | 只允许参考纸质资料（书籍，打印资料，笔记等），不允许使用任何电子设备 | 考试中不需要使用电子计算器 | 请确保于考试开始前15分钟到达教室 | . ",
     "url": "/teaching/gameinfo#%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95",
     
     "relUrl": "/teaching/gameinfo#期末考试"
-  },"41": {
+  },"39": {
     "doc": "博弈论与信息经济学",
     "title": "博弈论与信息经济学",
     "content": " ",
     "url": "/teaching/gameinfo",
     
     "relUrl": "/teaching/gameinfo"
-  },"42": {
+  },"40": {
     "doc": "Home",
     "title": "Home",
     "content": "Welcome to the website of Jia-Ping HUANG! 欢迎光临黄嘉平的个人网站！ . I am a lecturer at Shenzhen University, China. I have been granted a degree of PhD in Engineering from University of Tsukuba, Japan, and a degree of Doctor of Philosophy from the Faculty of Economics and Business Administration (FEWEB) of Vrije Universiteit Amsterdam (VU University Amsterdam), the Netherlands. My current research interests include, but are not limited to, . | cooperative game theory, | social and economic networks, | mathematical economics. | . More information can be found in the Curriculum Vitae page. 我现在任职于深圳大学，职位讲师。我拥有工学博士（日本筑波大学）和经济学博士（荷兰阿姆斯特丹自由大学）学位。我的研究领域包括 . | 合作博弈理论 | 社会网络和经济网络 | 数理经济学 | . 想了解更多信息请参考 Curriculum Vitae 部分。 . 如果你是学生，在考虑是否选我为导师，请先阅读 Supervision 部分。 . ",
     "url": "/",
     
     "relUrl": "/"
-  },"43": {
+  },"41": {
     "doc": "Teaching",
     "title": "教学工作",
     "content": "这里列出了我主讲的主要课程。其中带有 图标的为独立网站。课程信息和资料会在每个开课周期开始前更新。 . ",
     "url": "/teaching/#%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C",
     
     "relUrl": "/teaching/#教学工作"
-  },"44": {
+  },"42": {
     "doc": "Teaching",
     "title": "正在讲授的课程 (Current Courses)",
-    "content": "本科 (Undergraduate) . | 时间序列分析与预测 (2025春夏) | 博弈论 (2024秋冬) | 经济数据解读(MOOC课程) (2025春夏) | . 研究生 (Graduate) . | 高级计量经济学-国际商务专硕 (2025春夏) | 高级计量经济学-理论经济学博士 (2024秋冬) | 专业英语-人工智能(经济)专硕 (2025春夏) | . ",
+    "content": "本科 (Undergraduate) . | 时间序列分析与预测 (2025春夏) | 博弈论 (2025秋冬) | 经济数据解读(MOOC混合式教学课程) (2025秋冬) | . 研究生 (Graduate) . | 高级计量经济学-国际商务专硕 (2025春夏) | 高级计量经济学-理论经济学博士 (2025秋冬) | 专业英语-人工智能(经济)专硕 (2025春夏) | . ",
     "url": "/teaching/#%E6%AD%A3%E5%9C%A8%E8%AE%B2%E6%8E%88%E7%9A%84%E8%AF%BE%E7%A8%8B-current-courses",
     
     "relUrl": "/teaching/#正在讲授的课程-current-courses"
-  },"45": {
+  },"43": {
     "doc": "Teaching",
     "title": "曾经讲授的课程 (Past Courses)",
     "content": "本科 (Undergraduate) . | Advanced Mathematics C1 (taught in English for international class, spring 2023) | Advanced Mathematics C2 (taught in English for international class, fall 2022) | . 研究生 (Graduate) . | 高级计量经济学(专硕) (2021春夏，内容比较简单) | 博弈论与信息经济学(学硕) (2023秋冬) | . ",
     "url": "/teaching/#%E6%9B%BE%E7%BB%8F%E8%AE%B2%E6%8E%88%E7%9A%84%E8%AF%BE%E7%A8%8B-past-courses",
     
     "relUrl": "/teaching/#曾经讲授的课程-past-courses"
-  },"46": {
+  },"44": {
     "doc": "Teaching",
     "title": "相关软件",
     "content": "gretl . gretl (GNU Regression, Econometrics and Time-series Library) 是 GNU 开发的多平台开源计量经济学分析软件，拥有和 EViews 类似的图形界面，免费且容易上手，非常适合用在计量经济学的学习和科研中。更多信息可参考 [官方网站] 或下面的文件（中英文版本内容相同）： . | A beginner’s guide to gretl | gretl 初次使用指南 | . R . R 是著名的免费统计分析软件（也是一种编程语言），和综合开发软件 RStudio 一起使用，可以高效地进行数据分析。关于 R 的书籍和网站非常多，例如下面列出的： . | A (very) short introduction to R (by Paul Torfs &amp; Claudia Brauer, 7 Aug 2024) | Hands-On Programming with R (适合初学者) | R for Data Science (2nd Edition, 适合有一定编程基础者) | Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (Second Edition) (适合初学者) | R Graphics Cookbook | Introduction to Econometrics with R (如何复现 Stock &amp; Watson (2015) Introduction to Econometrics 中的每一个例子) | . 下面是一些方便查阅命令和使用方法的 cheat sheets： . | Base R | RStudio IDE | Data visualization with ggplot2 | . ",
     "url": "/teaching/#%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6",
     
     "relUrl": "/teaching/#相关软件"
-  },"47": {
+  },"45": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": " ",
     "url": "/teaching/",
     
     "relUrl": "/teaching/"
-  },"48": {
+  },"46": {
     "doc": "AdvMath C1",
     "title": "Advanced Mathematics C1 (spring 2023)",
     "content": "This course and its subsequent Advanced Mathematics C2 cover the most fundamental mathematical tools for business and economics students. Topics covered by these courses contain sets and logics, equations, matrix algebra, functions, derivatives and optimization, and integrals. The purpose of the courses is helping students raise their ability of mathematical thinking in order to better understand other subject. 　 . ",
     "url": "/teaching/mathc1#advanced-mathematics-c1-spring-2023",
     
     "relUrl": "/teaching/mathc1#advanced-mathematics-c1-spring-2023"
-  },"49": {
+  },"47": {
     "doc": "AdvMath C1",
     "title": "Course Information",
     "content": "Course ID: 0208520001 Credit: 4 Lecture time: Session 7-8 (14:15-15:40) on Monday/Wednesday Classroom: South 207, Square Building, Lihu Campus (丽湖校区 四方楼 南207) Instructor: Jia-Ping Huang Office hour: Please contact the following email address E-mail: huangjp #at# szu . edu . cn . ",
     "url": "/teaching/mathc1#course-information",
     
     "relUrl": "/teaching/mathc1#course-information"
-  },"50": {
+  },"48": {
     "doc": "AdvMath C1",
     "title": "Prerequisites and Suggestions",
     "content": "Knowledge of pre-university mathematics is not required. A graphing calculator may be useful for self-study but is not necessary for the course and is forbidden in exams. Students may also use online tools such as WolframAlpha (https://www.wolframalpha.com/) to deepen their understanding. ",
     "url": "/teaching/mathc1#prerequisites-and-suggestions",
     
     "relUrl": "/teaching/mathc1#prerequisites-and-suggestions"
-  },"51": {
+  },"49": {
     "doc": "AdvMath C1",
     "title": "Textbook",
     "content": "Knut Sydsaeter et al. (2016). Essential Mathematics for Economic Analysis, Fifth Edition. Pearson. ",
     "url": "/teaching/mathc1#textbook",
     
     "relUrl": "/teaching/mathc1#textbook"
-  },"52": {
+  },"50": {
     "doc": "AdvMath C1",
     "title": "Topics to be Covered",
     "content": "Chapter 1: Essentials of Logic and Set Theory Chapter 2: Algebra Chapter 3: Solving Equations Chapter 15: Matrix and Vector Algebra Chapter 16: Determinants and Inverse Matrices Chapter 4: Functions of One Variable Chapter 5: Properties of Functions . ",
     "url": "/teaching/mathc1#topics-to-be-covered",
     
     "relUrl": "/teaching/mathc1#topics-to-be-covered"
-  },"53": {
+  },"51": {
     "doc": "AdvMath C1",
     "title": "Grading",
     "content": "Attendance: 40% Final exam: 60% . ",
     "url": "/teaching/mathc1#grading",
     
     "relUrl": "/teaching/mathc1#grading"
-  },"54": {
+  },"52": {
     "doc": "AdvMath C1",
     "title": "Final Exam",
     "content": "The final exam usually will take place at the last teaching week of this semester. It is open-book, but only materials in paper format (textbook, printouts, study notes, etc.) are permitted. No electronic device is allowed during the exam, including your smart phone. ",
     "url": "/teaching/mathc1#final-exam",
     
     "relUrl": "/teaching/mathc1#final-exam"
-  },"55": {
+  },"53": {
     "doc": "AdvMath C1",
     "title": "AdvMath C1",
     "content": " ",
     "url": "/teaching/mathc1",
     
     "relUrl": "/teaching/mathc1"
-  },"56": {
+  },"54": {
     "doc": "AdvMath C2",
     "title": "Advanced Mathematics C2 (fall 2022)",
     "content": "Advanced Mathematics C2 is a subsequent course of Advanced Mathematics C1. In this course we learn calculus, including differentiation, single variable optimization, applications in economics, and integration. Students who finish this course will have a minimum foundation of mathematical knowledge in their study of further topics in economics and management. ",
     "url": "/teaching/mathc2#advanced-mathematics-c2-fall-2022",
     
     "relUrl": "/teaching/mathc2#advanced-mathematics-c2-fall-2022"
-  },"57": {
+  },"55": {
     "doc": "AdvMath C2",
     "title": "Course Information",
     "content": "Course ID: 0208490001 Credit: 4 Class time: Session 7-8 (14:15-15:40) on Tuesday/Thursday Classroom: Online Instructor: Jia-Ping Huang Office hour: Please contact the following email address E-mail: huangjp #at# szu . edu . cn . ",
     "url": "/teaching/mathc2#course-information",
     
     "relUrl": "/teaching/mathc2#course-information"
-  },"58": {
+  },"56": {
     "doc": "AdvMath C2",
     "title": "Style of Learning",
     "content": "In this semester we take an asynchronous approach for online learning, since this better suits the situation that our students are in different countries around the world. In this approach, students need to be more active instead of massively watching a lecture video. During each 80 minutes study time, students are recommended to read the textbook first, trying to understand the topics for that class. Supportive materials like video clips are provided, which can help students deepen their understanding. In tutorial classes, students are asked to solve some exercises from the textbook independently, then watch explanation videos to check their answers. A quiz will be given when attendance is taken for each class. All materials can be found in the following OneDrive folder: https://1drv.ms/u/s!ArnbvtxDgBZsoDYksOJnkzU4vXP3?e=FlePVh . or the following Tencent Weiyun folder: https://share.weiyun.com/DC8XNPjU . Both folders are password protected. Passwords can be obtained in the communication group of this course. If you are living outside of mainland China, please use the OneDrive folder. The Tencent Weiyun folder is for those living inside mainland China, where a VPN service is needed to access the OneDrive folder. For every particular class day you will find a corresponding subfolder named with the date following a consecutive number, e.g., “1.Sep 6”. In each subfolder, there is a study guide for that class saved in a file named “Readme.pdf”. You can read this file first, then use the textbook and other supportive materials given in the subfolder to finish your study. The attendance quiz will be provided through a web survey for each class. Basically you need to be studying within the class time. However, if you really cannot follow the schedule, you can arrange your own one. The deadline of submitting attendance of a class is 23:59:59 (UTC+8) of the next day. For example, for a Tuesday class in Sep 6, the deadline is 23:59:59 (UTC+8) of Wednesday Sep 7. ",
     "url": "/teaching/mathc2#style-of-learning",
     
     "relUrl": "/teaching/mathc2#style-of-learning"
-  },"59": {
+  },"57": {
     "doc": "AdvMath C2",
     "title": "Prerequisites and Suggestions",
     "content": "Knowledge of the topics in Advanced Mathematics C1 is required. A graphing calculator may be useful for self-study but is not necessary for the course and is forbidden in exams. Students may also use online tools such as WolframAlpha (https://www.wolframalpha.com/) to deepen their understanding. ",
     "url": "/teaching/mathc2#prerequisites-and-suggestions",
     
     "relUrl": "/teaching/mathc2#prerequisites-and-suggestions"
-  },"60": {
+  },"58": {
     "doc": "AdvMath C2",
     "title": "Textbook",
     "content": "Knut Sydsaeter et al. (2016). Essential Mathematics for Economic Analysis, Fifth Edition. Pearson. ",
     "url": "/teaching/mathc2#textbook",
     
     "relUrl": "/teaching/mathc2#textbook"
-  },"61": {
+  },"59": {
     "doc": "AdvMath C2",
     "title": "Topics to be Covered",
     "content": "Chapter 6: Differentiation Chapter 7: Derivatives in Use Chapter 8: Single-Variable Optimization Chapter 9: Integration . ",
     "url": "/teaching/mathc2#topics-to-be-covered",
     
     "relUrl": "/teaching/mathc2#topics-to-be-covered"
-  },"62": {
+  },"60": {
     "doc": "AdvMath C2",
     "title": "Grading",
     "content": "Attendance: 20% Quiz: 20% Final assignment: 60% . ",
     "url": "/teaching/mathc2#grading",
     
     "relUrl": "/teaching/mathc2#grading"
-  },"63": {
+  },"61": {
     "doc": "AdvMath C2",
     "title": "Final Assignment",
     "content": "The final assignment will be given in the class on December 22 December 20, 2022 using the online share folder of this course. | Deadline: December 24 December 22, 23:59:59 (in China Standard Time, UTC+8) | Submission: Please follow the procedure below. | Print out the assignment file and write answers directly on it. | Scan your answers and save in a single pdf file. | Send the pdf file containing your answers via email to huangjp #at# szu . edu . cn (delete unnecessary spaces and #) before the deadline. | . | . ",
     "url": "/teaching/mathc2#final-assignment",
     
     "relUrl": "/teaching/mathc2#final-assignment"
-  },"64": {
+  },"62": {
     "doc": "AdvMath C2",
     "title": "AdvMath C2",
     "content": " ",
     "url": "/teaching/mathc2",
     
     "relUrl": "/teaching/mathc2"
-  },"65": {
+  },"63": {
     "doc": "MIB 高级计量经济学",
     "title": "高级计量经济学 (2025年春夏)",
     "content": "本页面包含深圳大学经济学院国际商务（专业学位）硕士课程 高级计量经济学 的相关内容，包括课程信息、课程资料、作业发布等。本页面内容随课程进程推进而不断更新，请选课同学定期关注。 . 本门课程的主要目标是加深同学们对计量经济理论的理解，使大家能够读懂学术论文中对方法的描述和对分析结果的讨论，达到能够自己设计实证研究策略、并完成建模和分析的水平。同时，针对研究生阶段常见的各种误解和误用现象，通过蒙特卡洛仿真的方式验证方法的适用性，为提升研究质量打基础。 . 为了更好地学习领会课程内容，选课学生应掌握本科阶段的概率论、统计学、微积分、线性代数和初级计量经济学的基本知识，其中条件分布、大数定律、中心极限定理、以及线性代数的内容尤其重要。不具备以上知识储备的同学可参考下面给出的参考书或本网站内容自行学习。了解至少一种计量分析软件的使用方法是必不可少的，在本门课程的仿真部份，我们选择 R 语言进行讲解和演示。如果你从未使用过 R 语言，可以通过 Teaching 页面提供的资料提前了解。 . ",
     "url": "/teaching/mmetrics#%E9%AB%98%E7%BA%A7%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6-2025%E5%B9%B4%E6%98%A5%E5%A4%8F",
     
     "relUrl": "/teaching/mmetrics#高级计量经济学-2025年春夏"
-  },"66": {
+  },"64": {
     "doc": "MIB 高级计量经济学",
     "title": "基本信息",
     "content": "课程代码/国际课程代码：1206078/MAS5011E 上课时间与地点：星期四 7-8节, 丽湖校区四方楼 北211 任课教师：黄嘉平 联系方式：请发邮件至 huangjp #at# szu . edu . cn 办公室：粤海校区汇文楼1510 接访时间： . | 粤海校区办公室：星期二 15:45-16:30 | 丽湖校区：需提前发邮件联系以确定接访时间和地点 | . 成绩评价：出席率和随堂测验 (20%) + 作业 (30%) + 期末考核 (50%) 教学辅助工具：深圳大学畅课数智化教学平台（通过企业微信或网站 https://lms.szu.edu.cn/ 访问） 主要参考书： . | Cunningham, S. (2021). Causal Inference: The Mixtape. Yale University Press. [Online version] | Davidson, R., &amp; MacKinnon, J. G. (2021). Econometric Theory and Methods. Oxford University Press. 本书可以在作者网站下载：http://qed.econ.queensu.ca/ETM/ | . ",
     "url": "/teaching/mmetrics#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/mmetrics#基本信息"
-  },"67": {
+  },"65": {
     "doc": "MIB 高级计量经济学",
     "title": "参考资料",
     "content": "计量经济学基础 . | DeGroot, M. H., &amp; Schervish, M. J. (2012). Probability and Statistics (4th ed.). Pearson. | Hansen, B. E. (2022). Probability and Statistics for Economists. Princeton University Press. | Leon, S. J., &amp; de Pillis, L. (2020). Linear Algebra with Applications (10th ed.). Pearson. | . 初等至中等难度 . | Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach (7th ed.). Cengage Learning. | Stock, J. H., &amp; Watson, M. W. (2020). Introduction to Econometrics (4th ed.). Pearson. | Maddala, G. S., &amp; Lahiri, K. (2009). Introduction to Econometrics (4th ed.). Wiley. | 本门课程2021年资料（内容比较简单，等同或略高于本科水平）. | . 中等以上难度 . | Goldberger, R. S. (1991). A Course in Econometrics. Harvard University Press. | William H. Greene (2020). Econometric Analysis (8th ed., Global Edition). Pearson. | Wooldridge, J. M. (2010). Econometric Analysis of Cross Section and Panel Data (2nd ed.). MIT Press. | Cameron, A., &amp; Trivedi, P. (2015). Microeconometrics: Methods and Applications, Cambridge University Press. | 陈强，高级计量经济学及Stata应用（第二版），高等教育出版社，2014 | 洪永淼，高级计量经济学，高等教育出版社，2011 | . 因果推断 . | Angrist, J. D., &amp; Pischke, J.-S. (2009). Mostly Harmless Econometrics: An Empiricist’s Companion. Princeton University Press. | Angrist, J. D., &amp; Pischke, J.-S. (2014). Mastering ‘Metrics: The Path from Cause to Effect. Princeton University Press. | Pearl, J., Glymour, M., &amp; Jewell, N. P. (2016). Causal Inference in Statistics: A Primer. Wiley. | Hernán, M. A., &amp; Robins, J. M. (2020). Causal Inference: What If. CRC Press. | Huntington-Klein, N. (2022). The Eﬀect: An Introduction to Research Design and Causality. CRC Press. | . R 相关 . | A (very) short introduction to R (by Paul Torfs &amp; Claudia Brauer, 7 Aug 2024) 本文适合零基础入门，阅读并依照文中内容进行操作所需时间约为 2 小时 | R for Data Science (2e) 本书适合有一定基础的人了解 R 中的数据分析框架 tidyverse，建议阅读前八章 | The Tidy Econometrics Workbook | . ",
     "url": "/teaching/mmetrics#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/mmetrics#参考资料"
-  },"68": {
+  },"66": {
     "doc": "MIB 高级计量经济学",
     "title": "基础知识复习",
     "content": "在本门课程的学习中需要的概率论、统计学以及矩阵运算的基本知识点可以参考下面的资料。我们在课堂上会按需提及相应的知识点，但因时间有限无法展开讲解。同学们可以根据自身情况复习或补习相应内容。 . | 概率 [slides] | 统计 [slides] | 矩阵 [slides] | bilibili: 3Blue1Brown【官方双语】但是什么是中心极限定理？ | . 更多内容可参考 . | Hanssen, B. (2022). Probability and Statistics for Economists. Princeton University Press. | Hanssen, B. (2022). Econometrics. Princeton University Press. | . ",
     "url": "/teaching/mmetrics#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%A4%8D%E4%B9%A0",
     
     "relUrl": "/teaching/mmetrics#基础知识复习"
-  },"69": {
+  },"67": {
     "doc": "MIB 高级计量经济学",
     "title": "进度与资料",
     "content": "以下为教学计划，实际教学进度可能根据实际情况进行必要的调整。 教学内容分为理论和专题两类。理论部份以讲授为主；专题部份则针对实践中的具体问题，通过蒙特拉落仿真等方法进行探索，采用课堂展示和课后练习相结合的方式。 . | 周次（日期） | 理论内容 | 专题内容 | . | 第一周（2/27） | 绪论 | — | . | 第二周（3/6） | — | 蒙特卡洛仿真方法简介：伪随机数、大数定律、中心极限定理 | . | 第三周（3/13） | 线性模型与OLS估计（一）：最小二乘解 | 根据DGP生成数据 | . | 第四周（3/20） | 线性模型与OLS估计（二）：FWL定理 | — | . | 第五周（3/27） | 线性模型与OLS估计（三）：高斯马尔可夫定理 | — | . | 第六周（4/3） | 线性模型与OLS估计（四）：放松OLS假设 | 是否应当对数据进行截尾或缩尾操作 | . | 第七周（4/10） | 工具变量 | 你的控制变量合适吗 | . | 第八周（4/17） | 面板数据模型 | 滞后项的作用：解释、控制、还是工具变量？ 固定效应模型与估计 | . | 第九周（4/24） | 非线性模型与极大似然估计 | 关于\\(\\sout{\\ \\ln(Y+1)}\\) | . | 第十周（5/1） | 放假 | 放假 | . | 第十一周（5/8） | Neyman-Rubin 潜在因果模型 | 随机试验的安慰剂检验 | . | 第十二周（5/15） | 基于可观测协变量的因果推断方法 | 倾向得分是否适合用来进行匹配 | . | 第十三周（5/22） | 基于不可观测协变量的因果推断方法（一）：双重差分法基础 | — | . | 第十四周（5/29） | 基于不可观测协变量的因果推断方法（二）：双重差分法前沿趋势 | — | . | 第十五周（6/5） | 基于不可观测协变量的因果推断方法（三）：合成控制法和断点回归设计 | — | . | 第十六周（6/12） | 复习与答疑 | — | . 课件和阅读资料 . | 绪论 [slides] 补充资料: Online Appendices of Greene (2020) | 线性回归模型与最小二乘估计 [slides] | OLS估计量的几何特征 [slides] | Frisch-Waugh-Lovell 定理 [slides] 扩展阅读: Frisch &amp; Waugh (1933), Lovell (1963) | OLS估计量的统计学性质 [slides] | Gauss-Markov 定理 [slides] | 假设检验和区间估计 [slides] 扩展阅读: White (1980), MacKinnon &amp; White (1985), MacKinnon (2005) | NLS, GLS, IV, and GMM [slides] 扩展阅读: Box &amp; Cox (1964), Lind &amp; Mehlum (2010), Haans, Pieters, &amp; He (2016), Chen &amp; Roth (2024), Angrist &amp; Kruger (1991), Bound, Jaeger, &amp; Baker (1995), Angrist, Imbens, &amp; Kruger (1999), A Good Instrument is a Bad Control (DiTraglis, F. J., 2023) | 极大似然估计 [slides] 扩展阅读: Cameron &amp; Trivedi (1986), Dean &amp; Lawless (1989), Mullahy (1997), Lawless (1987) | 面板数据模型 [slides] 扩展阅读: Hausman (1978), Hausman &amp; Taylor (1981), Bartik (1991), Goldsmith-Pinkham, Sorkin, &amp; Swift (2020) | 因果推断的 Neyman-Rubin 模型 [slides] 扩展阅读: Angrist &amp; Pischke (2010), Stephens-Davidowitz et al. (2017), Hartmann &amp; Klapper (2018), Imbens &amp; Wooldridge (2009) | 基于可观测协变量的因果推断方法 [slides] 扩展阅读: Rosenbaum &amp; Rubin (1983), LaLonde (1986), Dehejia &amp; Wahba (1999), King &amp; Nielsen (2019) | 双重差分法与合成控制法 [slides] 扩展阅读: Bertrand et al. (2004), Goodman-Bacon (2021), Callaway &amp; Sant’Anna (2021), Sun &amp; Abraham (2021) | 工具变量法和 LATE [slides] 扩展阅读: Angrist (1990), Imbens &amp; Angrist (1994), Angrist, Imbens, &amp; Rubin (1996), Acemoglu, Johnson, &amp; Robinson (2001) | 断点回归设计 [slides] 扩展阅读: Agrist &amp; Lavy (1999), van der Klaauw (2002) | . 专题内容资料 . | 蒙特卡洛仿真 [PDF] | 数据生成过程 [PDF] | 截尾和缩尾 [PDF] （4/10 更新） | 面板数据模型 [PDF] | . ",
     "url": "/teaching/mmetrics#%E8%BF%9B%E5%BA%A6%E4%B8%8E%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/mmetrics#进度与资料"
-  },"70": {
+  },"68": {
     "doc": "MIB 高级计量经济学",
     "title": "作业",
     "content": "第一次作业（4/17） . | 内容：完成专题内容资料 3 截尾和缩尾 中的课后练习。 | 要求：在题目范围内可自定主题，主题宜小不宜大，但要分析要深入。结论应根据仿真结果得出，并辅以必要的讨论。 | 提交方式：通过教学平台提交 PDF 格式文档。 | 提交截止时间：4月23日（星期三）23:00 | . 第二次作业（5/8） . | 内容：完成专题内容资料 4 面板数据模型 中的课后练习。 | 要求：根据题目要求回答问题，并辅以对应的 R 程序和运行结果。 | 提交方式：通过教学平台提交 PDF 格式文档。 | 提交截止时间：5月14日（星期三）23:00 | . ",
     "url": "/teaching/mmetrics#%E4%BD%9C%E4%B8%9A",
     
     "relUrl": "/teaching/mmetrics#作业"
-  },"71": {
+  },"69": {
     "doc": "MIB 高级计量经济学",
     "title": "期末考核",
     "content": "期末考核采取课程论文形式，具体要求如下 . | 内容要求： . | 阅读论文 Mullahy, J., &amp; Norton, E. C. (2024). Why Transform Y? The Pitfalls of Transformed Regressions with a Mass at Zero. Oxford Bulletin of Economics and Statistics, 86(2):417–447. https://doi.org/10.1111/obes.12583 | 总结论文的内容和观点。 | 针对文中关于 \\(\\ln(y+c)\\) 变换的讨论，运用仿真方法进行验证。 | . | 注意事项： . | 除应包含以上内容外，不对论文形式做统一要求。但需注意排版应遵循整洁美观、风格统一的原则。 | 禁止直接使用 AI 生成的内容。 | 应正确引用文献。 | . | 提交方法： . | 论文首页：下载[深圳大学研究生课程期末论文评分表]，填写个人信息后，附在论文前作为首页。此表为本年度本门课程专用，请不要在研究生院网站下载。 | 学术诚信承诺书：下载[深圳大学研究生课程论文学术诚信承诺书]，填写后附在首页后。 | 正文：将正文排版打印，附在首页和学术承诺书之后。 | 将上述内容订在一起，于第16教学周（6月12日星期四）课堂上提交 | . | . ",
     "url": "/teaching/mmetrics#%E6%9C%9F%E6%9C%AB%E8%80%83%E6%A0%B8",
     
     "relUrl": "/teaching/mmetrics#期末考核"
-  },"72": {
+  },"70": {
     "doc": "MIB 高级计量经济学",
     "title": "MIB 高级计量经济学",
     "content": " ",
     "url": "/teaching/mmetrics",
     
     "relUrl": "/teaching/mmetrics"
-  },"73": {
+  },"71": {
     "doc": "高级计量经济学",
     "title": "高级计量经济学 (2021年春季)",
     "content": "本页面包含深圳大学全日制专业硕士课程 高级计量经济学 (2021) 的相关内容，包括课程信息、课程资料、作业发布等。如果你在寻找正在进行的课程信息，请访问[硕士高级计量经济学]或[博士高级计量经济学]。 . 本门课程采用 gretl 作为计量分析软件。建议选课同学预先在个人电脑中安装该软件。软件的安装方法及简单的使用方法可在[这里]找到。Gretl 是在 GNU 协议下开发的跨系统（cross-platform）、免费（free）、开源（open-source）的计量经济分析软件。该软件以C语言写成，运行速度快，拥有类似 EViews 的简洁而直观的 GUI 操作界面，支持大多数常用的计量模型，支持多种数据格式，可编程，可满足从本科到博士研究生阶段的学习和科研需要。 . ",
     "url": "/teaching/mmetrics2021#%E9%AB%98%E7%BA%A7%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6-2021%E5%B9%B4%E6%98%A5%E5%AD%A3",
     
     "relUrl": "/teaching/mmetrics2021#高级计量经济学-2021年春季"
-  },"74": {
+  },"72": {
     "doc": "高级计量经济学",
     "title": "基本信息",
     "content": "教科书： 《计量经济学（第三版）》，[美]斯托克、[美]沃森著，沈根祥、孙燕译，格致出版社，2012。 ISBN: 978-7-5432-2059-1 《计量经济学（第三版）》英文版，斯托克、沃森著，格致出版社，2015。 ISBN: 978-7-5432-2227-4 软件：gretl (GNE Regression, Econometrics and Time-series Library). 官网 http://gretl.sourceforge.net/. 任课教师：黄嘉平 成绩评价：课堂表现 (20%) + 作业 (30%) + 期末报告 (50%) . ",
     "url": "/teaching/mmetrics2021#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     
     "relUrl": "/teaching/mmetrics2021#基本信息"
-  },"75": {
+  },"73": {
     "doc": "高级计量经济学",
     "title": "进度与资料",
     "content": ". | Lecture 1 （第2周 3月9日） . | 绪论 – [slides] | . | Lecture 2 （第3周 3月16日） . | 概率论复习 – [slides] 参考资料：[LLN and CLT in Excel] | . | Lecture 3 （第4周 3月23日） . | 统计学复习 – [slides] Further readings about the p-value: . | The ASA’s Statement on p-Values: Context, Process, and Purpose (Wasserstein and Lazar, 2016) | Moving to a World Beyond “p &lt; 0.05” (Wasserstein, Schirm, and Lazar, 2019) | . | . | Lecture 4 （第5周 3月30日） . | gretl 入门之数据篇 – [slides], 截面数据 [wage.csv], 面板数据 [panel.csv] 拓展学习资料： . | [Probability in Gretl] | [Statistics in Gretl] | [Writing scripts in gretl] | . | . | Lecture 5 （第6周 4月6日） . | 一元线性回归（一） – [slides] 4月12日更新 Data file: [caschool.xlsx], [californiatestscores.docx] | . | Lecture 6 （第7周 4月13日） . | 一元线性回归（二） – [slides] Further readings about heteroskedasticity-robust estimation in OLS regressions: . | White (1980) | MacKinnon &amp; White (1985) | Long &amp; Ervin (2000) | Cribari-Neto (2004) | MacKinnon (2013) | . | . | Lecture 7 （第8周 4月20日） . | 多元线性回归 – [slides] Further readings: . | Bigoni et al. (2015) | Adkins et al. (2015), Collinearity Diagnostics in gretl | Department of Biology, Bates College, Almost Everything You Wanted to Know About Making Tables and Figures | . | . | Tutorial 1 （第9周 4月27日） . | 课堂练习（一）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。 . | 学习并掌握第四讲拓展学习资料中的 gretl 编程模式，并针对第五至七讲课件中提及的 gretl 练习部分进行练习。已经在课下完成练习者可忽略。 [Writing scripts in gretl]，[第五至七讲练习汇总] | 用 gretl 尝试复制第7.6节中的分析结果，包括图7.2和表7.1的内容。 | 完成第一次个人作业中的练习，并在 Blackboard 上提交。 | . | . | Lecture 8 （第11周 5月11日） . | 非线性回归函数 – [slides] Further readings: . | Kuznets (1995) | Acemoglu &amp; Robinson (2002) | 周云波 (2009) | Lind &amp; Mehlum (2010) | . | . | Lecture 9 （第12周 5月18日） . | 面板数据回归 – [slides] Data file: [fatality.xlsx], [fatality.docx] Further readings: . | Ruhm (1996) | . 订正：在课堂上讲解如何在“个体中心化”形式下估计个体固定效应时，将估计量错误地写成 \\(\\hat{\\alpha}_i = Y_{it} - \\hat{\\beta}_1 X_{it}\\)，正确的估计量是 \\(\\hat{\\alpha}_i = \\bar{Y}_{i} - \\hat{\\beta}_1 \\bar{X}_{i}\\)，特此订正。 . | . | Lecture 10 （第13周 5月25日） . | 二值因变量回归 – [slides] Data file: [hmda_sw1.csv], [hmda.docx] Further readings about mortgage lending: . | Munnell et al. (1996) | Ladd (1998) | . | . | Lecture 11 （第14周 6月1日） . | 工具变量回归（一） – [slides] Data file: [cig_ch12.xlsx], [cigarette.docx] Further readings about smoking regulation in the US: . | Gruber (2001) | . | . | Lecture 12 （第15周 6月7日） . | 工具变量回归（二） – [slides] Further readings: . | Angrist &amp; Krueger (2001) | Murrey (2006) | . | . | Tutorial 2 （第16周 6月15日） . | 课堂练习（二）：请携带笔记本电脑并保证电池有足够电量。没有笔记本电脑的同学可以和别人一起完成练习。 . | 针对第八讲以后的课件中提及的可操作内容进行练习。已经在课下完成练习者可忽略，并可利用课堂时间准备小组报告或期末考试。 | . | . | Final exam （第17周 6月22日） . | 期末考试（随堂） . | 考试时间为上课时间：19:00 - 20:20 | 考试教室调整为汇紫楼B207 | 注意事项：随堂考试为开卷，但只允许参考教科书、课程资料（可打印）、或学习笔记。考试过程中不允许使用手机或电脑、不允许以任何方式查阅网络资源、考试过程中严禁与他人讨论。 | . | . | . ",
     "url": "/teaching/mmetrics2021#%E8%BF%9B%E5%BA%A6%E4%B8%8E%E8%B5%84%E6%96%99",
     
     "relUrl": "/teaching/mmetrics2021#进度与资料"
-  },"76": {
+  },"74": {
     "doc": "高级计量经济学",
     "title": "平时作业",
     "content": ". | 第一次作业（个人提交） . | 发布日期：2021年4月27日 | 作业内容：[Assignment1] | 相关文件：[CollegeDistance.xls], [CollegeDistance_DataDescription.pdf] | 截止时间：2021年5月10日晚23:59 | . | 第二次作业（小组提交） . | 分组：已经将41名选课学生随机分位12组，每组为3-4人。分组情况可以在 Blackboard 上查看。如果对分组结果不满意，请小组全体成员一起找任课老师商议调整。调整截止日期为2021年5月18日。 | 发布日期：2021年6月8日 | 作业内容：[Assignment2] | 截止时间：2021年6月21日晚23:59 | . | . ",
     "url": "/teaching/mmetrics2021#%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A",
     
     "relUrl": "/teaching/mmetrics2021#平时作业"
-  },"77": {
+  },"75": {
     "doc": "高级计量经济学",
     "title": "期末考试",
     "content": ". | 6月11日更新：为确保考试时考生之间不相邻，考试教室调整为汇紫楼B207。 | 6月7日更新：期末考核以随堂考试形式进行。考试为开卷，时间定为 6月22日 19:00-20:20，地点为汇紫楼A409（平时上课的教室）。 | . ",
     "url": "/teaching/mmetrics2021#%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95",
     
     "relUrl": "/teaching/mmetrics2021#期末考试"
-  },"78": {
+  },"76": {
     "doc": "高级计量经济学",
     "title": "高级计量经济学",
     "content": " ",
     "url": "/teaching/mmetrics2021",
     
     "relUrl": "/teaching/mmetrics2021"
-  },"79": {
+  },"77": {
     "doc": "Supervision",
     "title": "关于研究生指导",
     "content": " ",
     "url": "/supervision#%E5%85%B3%E4%BA%8E%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8C%87%E5%AF%BC",
     
     "relUrl": "/supervision#关于研究生指导"
-  },"80": {
+  },"78": {
     "doc": "Supervision",
     "title": "入学前的准备",
     "content": ". | 在深圳大学（以及其他很多大学），学生和导师是双向选择制，一般是在入学以后开始互选，并在第一学期结束前确定导师。建议准备读研的同学避免在入学前联系导师。若要了解导师的研究方向，可以阅读导师的论文或著作。 | 关于复试、调剂等问题，请参考大学官网上的招生信息。如需咨询，请联系相关部门负责人，不要联系导师。导师一般不参与该项工作。 | 对于非经济专业的同学，如果没有学过下面的课程，建议在研究生入学前自学 . | 经济学：微观经济学、宏观经济学、博弈论 | 统计与计量：概率与统计、计量经济学 | 数学：集合论、微积分、线性代数 | . | 避免同时联系多个导师。 | 用邮件联系导师时，除了简历，也应该附上成绩单和毕业论文以供参考。请不要用网上的模版写邮件，因为这只能将你包装成芸芸众生中的一个，同时也会大幅降低你在导师心中的第一印象。 | . ",
     "url": "/supervision#%E5%85%A5%E5%AD%A6%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87",
     
     "relUrl": "/supervision#入学前的准备"
-  },"81": {
+  },"79": {
     "doc": "Supervision",
     "title": "我的指导方向与指导风格",
     "content": ". | 我对用数理方法解决社会和经济问题有广泛的兴趣，因此对于学生的研究方向不会做硬性规定，但学生的研究选题应符合其所属的学科方向。我希望学生能够从自身兴趣出发，自发地发现问题，并在该方向上广泛深入地学习文献。 | 我希望学生掌握以下知识或技能： . | 掌握博弈论和社会网络理论。这会让你更容易理解我的一些研究方向。这方面的学习资料非常丰富，可借鉴 Game Theory Society 网站 https://gametheorysociety.org 中提供的书单。 | 掌握计量经济学（尤其是微观计量方向）的主流方法，包括近年来比较流行的因果推断方法。这可以帮助你更早进入研究状态。 | 学会使用 MATLAB，R 和 LaTeX。这会对硕士及以后的学习和科研有很大帮助。 | . | 我希望通过定期的讨论交流和学生建立相互信任，以便循序渐进地开展论文指导。长期因实习等原因无法安排定期讨论的学生，不适合选我做导师。 | 在保证研究进程不受影响的前提下，我支持学生的实习及其他社会实践活动。 | 如果你不打算继续攻读博士学位，那么硕士阶段很有可能就是你一生中最后的学习机会。我希望你能通过硕士论文的研究过程，掌握探索真理的正确态度和方法。你的论文的贡献很有可能微不足道，但是它留给你的财富是无法替代的。任何通过投机取巧的方式完成论文的行为，都将成为人生路上无法抹去的污点。 | . ",
     "url": "/supervision#%E6%88%91%E7%9A%84%E6%8C%87%E5%AF%BC%E6%96%B9%E5%90%91%E4%B8%8E%E6%8C%87%E5%AF%BC%E9%A3%8E%E6%A0%BC",
     
     "relUrl": "/supervision#我的指导方向与指导风格"
-  },"82": {
+  },"80": {
     "doc": "Supervision",
     "title": "我招收学生的学位点以及对选题方向的要求",
     "content": "2025年～ . | 学术硕士：理论经济学（深圳大学中国经济特区研究中心） 我对此专业学生的要求是学位论文需选择微观经济理论方向的研究题目，包括基础理论和应用问题，不包括使用计量方法的实证研究。这要求学生具有较好的数理基础，且最好已经系统地学习过博弈论（尤其是合作博弈论）。 . | 专业硕士：国际商务（深圳大学经济学院） 根据《教育部关于做好全日制硕士专业学位研究生培养工作的若干意见》（教研〔2009〕1号），“专业学位研究生学位论文……形式可以多种多样，可采用调研报告、应用基础研究、规划设计、产品开发、案例分析、项目管理、文学艺术作品等形式”。同时，全国国际商务专业学位研究生教育指导委员会网站上的《国际商务硕士基本要求》规定，“学位论文形式允许多样化，可以是理论与政策研究论文、国际商务案例分析、国际市场调研报告、商业计划书、项目可行性报告等形式”。但是，因专业方向和个人能力所限，目前我可以指导的论文形式仅限于“理论和政策研究论文”。 . | . ",
     "url": "/supervision#%E6%88%91%E6%8B%9B%E6%94%B6%E5%AD%A6%E7%94%9F%E7%9A%84%E5%AD%A6%E4%BD%8D%E7%82%B9%E4%BB%A5%E5%8F%8A%E5%AF%B9%E9%80%89%E9%A2%98%E6%96%B9%E5%90%91%E7%9A%84%E8%A6%81%E6%B1%82",
     
     "relUrl": "/supervision#我招收学生的学位点以及对选题方向的要求"
-  },"83": {
+  },"81": {
     "doc": "Supervision",
     "title": "毕业生",
     "content": "| 姓名 | 学位 | 毕业时间 | 毕业研究题目 | . | 杨柳 | 学术硕士 | 2019 | 一种基于社会选择理论的评分集结方法研究 | . | 李艳娇 | 学术硕士 | 2020 | 基于产品空间理论的医药制造业国际贸易竞争力研究 | . | 高艳玲 | 学术硕士 | 2020 | 互联网发展对制造业企业技术创新的影响研究——基于虚拟集聚理论的解释 | . | 林子幸 | 学术硕士 | 2021 | 科研合作网络中的博弈分析 | . | 葛舒淇 | 学术硕士 | 2025 | “大学区”政策对学区内住房价格的影响研究——基于深圳市政策实践的实证分析 | . | 刘慧慧 | 学术硕士 | 2025 | 网络舆论对新能源汽车销量的影响——基于百度、汽车之家和微博的研究 | . ",
     "url": "/supervision#%E6%AF%95%E4%B8%9A%E7%94%9F",
     
     "relUrl": "/supervision#毕业生"
-  },"84": {
+  },"82": {
     "doc": "Supervision",
     "title": "Supervision",
     "content": " ",
